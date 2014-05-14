@@ -1,1 +1,7 @@
 _site
+/.idea/
+/node_modules
+/assets/themes/blog.html
+/assets/themes/post.html
+/assets/themes/layout.html
+/assets/themes/sample.html

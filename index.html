@@ -1,20 +1,35 @@
 ---
 layout: default
 ---
-
-<div class="home">
-
-  <h1>Posts</h1>
-
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+<div class="page-header">
+    <div class="row">
+        <div class="col-lg-12">
+        </div>
+    </div>
 </div>
+
+{% for post in site.posts %}
+<div class="row">
+    <div class="col-lg-1" style="{ text-align: right; }">
+        <!--<span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span><br/><br/>-->
+        <h5 style="{ text-align: right; }">{{ post.date | date: "%A"}}</h5>
+        <h3 style="{ text-align: right; }">{{ post.date | date: "%d" }}</h3>
+        <h6 style="{ text-align: right; }">{{ post.date | date: "%B %d" }}</h6>
+    </div>
+    <div class="col-lg-11">
+            <ul class="list-unstyled" style="{ vertical-align: top; }">
+                <li style="{ vertical-align: top; }">
+                    <h3 style="{ vertical-align: top; }"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+                    <br/>
+                    {{ post.tags }}
+
+                    {% if post.image != "" %}
+                    <img src="{{ post.image }}" width="450"/>
+                    {% endif %}<br/>
+                    <!--{{ post.content | truncatewords:50 | strip_html }}-->
+                    {{ post.excerpt | strip_html }}
+                </li>
+            </ul>
+    </div>
+</div>
+{% endfor %}

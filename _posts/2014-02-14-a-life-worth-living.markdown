@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2014-05-14 03:31:53
-categories: jekyll update
+title:  "A life worth living"
+date:   2014-02-14 04:02:05
+category: blog
+tags: quote
+image: http://francherechan.com/wp-content/uploads/2013/08/DSCF0246.jpg
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
