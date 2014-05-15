@@ -128,7 +128,7 @@ hr {
 }
 
 #headerwrap h4 {
-    font-size: 24px;
+    font-size: 18px;
     font-weight: 100;
     font-family: 'Oswald', serif;
     /*    font-style: oblique;*/
@@ -143,7 +143,7 @@ hr {
 /* Footer Wrap */
 
 #f {
-    background: #1a1a1a;
+    /*background: #1a1a1a;*/
     padding-top: 70px;
     padding-bottom: 70px;
     text-align: center
@@ -156,15 +156,15 @@ hr {
     letter-spacing: 1px;
 }
 
-#f i {
+/*#f i {
     font-size: 8px;
     color: #fff;
     padding: 3px;
-}
+}*/
 
 #f p {
-    font-size: 20px;
-    color: #f2f2f2;
+    /*font-size: 20px;
+    color: #f2f2f2;*/
 }
 
 #f img {
@@ -329,8 +329,8 @@ hr {
 }
 
 a.rollover {
+    padding: 0px;
     text-decoration: none;
-    margin: 135px auto 0;
     display: block;
     width: 250px;
     height: 250px;
@@ -338,17 +338,27 @@ a.rollover {
     -webkit-border-radius: 125px;
     -moz-border-radius: 125px;
     border: solid 10px rgba(240, 240, 240, .3);
-    background: url('../img/ava.png') no-repeat -10px 0;
 }
 
 a.rollover:hover {
-    background-position: -260px 0;
+    background-position: -250px 0;
+}
+
+.homerollover{
+    margin: 75px auto 0;
+    background: url('../img/ava.png') no-repeat -10px 0;
+}
+
+.coderollover{
+    margin: 0px auto 0;
+    background: url('../img/ava.png') no-repeat -10px 0;
 }
 
 .displace {
     position: absolute;
     left: -5000px;
 }
+
 hr {
     display: block;
     height: 1px;

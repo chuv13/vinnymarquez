@@ -1,0 +1,49 @@
+---
+layout: default
+---
+<div class="container">
+    <div class="row centered">
+        <h1>METANOIA</h1>
+        <h4>From point A to Point B.</h4>
+        <br>
+    </div>
+</div>
+
+<div class="container">
+{% for post in site.posts %}
+<div class="row">
+    <div class="col-lg-9 col-lg-offset-2">
+        <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+        <h5>Posted in <a href="">Blog</a> on August 25, 2013. Tagged with <a href="">Tech</a>, <a href="">Blogging</a> & <a href="">Programming</a>.</h5>
+        <br>
+        {{ post.content | truncatewords:100 | strip_html }}
+        <br><a href="{{ post.url | prepend: site.baseurl }}" class="pull-right">READ MORE</a>
+        <br>
+        <!--<button type="button" class="btn btn-default btn-sm">READ ARTICLE</button>-->
+    </div>
+
+</div>
+{% endfor %}
+</div>
+
+<!--<div class="col-lg-1" style="{ text-align: right; }">
+&lt;!&ndash;<span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span><br/><br/>&ndash;&gt;
+        <h5 style="{ text-align: right; }">{{ post.date | date: "%A"}}</h5>
+        <h3 style="{ text-align: right; }">{{ post.date | date: "%d" }}</h3>
+        <h6 style="{ text-align: right; }">{{ post.date | date: "%B %d" }}</h6>
+    </div>
+    <div class="col-lg-11">
+            <ul class="list-unstyled" style="{ vertical-align: top; }">
+                <li style="{ vertical-align: top; }">
+                    <h3 style="{ vertical-align: top; }"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+                    <br/>
+                    {{ post.tags }}
+
+                    {% if post.image != "" %}
+                    <img src="{{ post.image }}" width="450"/>
+                    {% endif %}<br/>
+                    &lt;!&ndash;{{ post.content | truncatewords:50 | strip_html }}&ndash;&gt;
+                    {{ post.excerpt | strip_html }}
+                </li>
+            </ul>
+    </div>-->

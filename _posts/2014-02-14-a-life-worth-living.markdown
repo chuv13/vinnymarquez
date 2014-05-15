@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A life worth living"
+title:  "A LIFE WORTH LIVING"
 date:   2014-02-14 04:02:05
 category: blog
 tags: quote

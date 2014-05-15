@@ -7,5 +7,6 @@
 				$('#theMenu').toggleClass('menu-open');
 			});
 
+            $(".marker").tooltip({placement: 'right'});
 
 })(jQuery)

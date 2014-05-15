@@ -10,4 +10,4 @@ markdown: kramdown
 permalink: pretty
 
 # Theme settings
-theme: lumen
+theme: dark
