@@ -1,49 +1,156 @@
 ---
-layout: default
+layout: blog
 ---
 <div class="container">
     <div class="row centered">
-        <h1>METANOIA</h1>
-        <h4>From point A to Point B.</h4>
-        <br>
+        <div class="col-lg-9 col-lg-offset-2">
+            <h1><a href="{{site.url}}/blog">METANOIA</a></i></h1>
+            <span>Day to day, from point A to Point B.</span><br>
+            <span>A blog about my passions, interests and the continuous learning process.</span>
+            <br>
+            <br>
+        </div>
     </div>
 </div>
 
 <div class="container">
-{% for post in site.posts %}
-<div class="row">
-    <div class="col-lg-9 col-lg-offset-2">
-        <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-        <h5>Posted in <a href="">Blog</a> on August 25, 2013. Tagged with <a href="">Tech</a>, <a href="">Blogging</a> & <a href="">Programming</a>.</h5>
-        <br>
-        {{ post.content | truncatewords:100 | strip_html }}
-        <br><a href="{{ post.url | prepend: site.baseurl }}" class="pull-right">READ MORE</a>
-        <br>
-        <!--<button type="button" class="btn btn-default btn-sm">READ ARTICLE</button>-->
+    {% for post in paginator.posts %}
+    {% if post.type == 'preview' %}
+    <div class="row">
+        <div class="col-lg-9 col-lg-offset-2">
+            <div class="post">
+                <div class="demo">
+                    <img src="{{ post.preview_url }}"/>
+                </div>
+                <div class="content">
+                    <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+                    {{ post.date | date: "%b %-d, %Y" }}&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+                    {% for tag in post.tags %}
+                    #{{ tag }}&nbsp;&nbsp;&nbsp;
+                    {% endfor %}
+                    <br>
+                    <br>
+                    <p>
+                        {{ post.content | truncatewords:150 | strip_html }}
+                    </p>
+                    <br><a href="" class="pull-right">READ MORE</a>
+                    <br>
+                    <br>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% elsif post.type == 'quote' %}
+    <div class="row">
+        <div class="col-lg-9 col-lg-offset-2">
+            <div class="post">
+                <div class="quote centered">
+                    <span class="content">"{{ post.quote }}"</span>
+                    <br>
+                    <br>
+                    <span class="cite">- {{ post.cite }} -</span>
+                </div>
+                <div class="content">
+                    <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+                    {{ post.date | date: "%b %-d, %Y" }}&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+                    {% for tag in post.tags %}
+                    #{{ tag }}&nbsp;&nbsp;&nbsp;
+                    {% endfor %}
+                    <br>
+                    <br>
+                    {% if post.displaybody != false %}
+                    <p>
+                        {{ post.content | truncatewords:100 | strip_html }}
+                    </p>
+                    <br>
+                    <a href="" class="pull-right">READ MORE</a>
+                    <br>
+                    <br>
+                    {% endif%}
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    {% elsif post.type == 'soundcloud' %}
+    <div class="row">
+        <div class="col-lg-9 col-lg-offset-2">
+            <div class="post">
+                <iframe width="100%" height="175" scrolling="no" frameborder="no" src="{{ post.preview_url }}"></iframe>
+                <div class="content">
+                    <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+                    {{ post.date | date: "%b %-d, %Y" }}&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+                    {% for tag in post.tags %}
+                    #{{ tag }}&nbsp;&nbsp;&nbsp;
+                    {% endfor %}
+                    <br>
+                    <br>
+                    {% if post.displaybody != false %}
+                    <p>
+                        {{ post.content | truncatewords:100 | strip_html }}
+                    </p>
+                    <br>
+                    <a href="" class="pull-right">READ MORE</a>
+                    <br>
+                    <br>
+                    {% endif%}
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    {% else %}
+    <div class="row">
+        <div class="col-lg-9 col-lg-offset-2">
+            <div class="post">
+                <div class="content">
+                    <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+                    {{ post.date | date: "%b %-d, %Y" }}&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+                    {% for tag in post.tags %}
+                    #{{ tag }}&nbsp;&nbsp;&nbsp;
+                    {% endfor %}
+                    <br>
+                    <br>
+                    <p>
+                        {{ post.content | truncatewords:100 | strip_html }}
+                    </p>
+                    <br><a href="" class="pull-right">READ MORE</a>
+                    <br>
+                    <br>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endif %}
+
+    <!-- TODO: Make a real spacer! -->
+    <div class="row">
+        <div class="col-lg-9 col-lg-offset-2">
+            &nbsp;<br>
+            &nbsp;<br>
+        </div>
     </div>
 
-</div>
-{% endfor %}
-</div>
+    {% endfor %}
 
-<!--<div class="col-lg-1" style="{ text-align: right; }">
-&lt;!&ndash;<span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span><br/><br/>&ndash;&gt;
-        <h5 style="{ text-align: right; }">{{ post.date | date: "%A"}}</h5>
-        <h3 style="{ text-align: right; }">{{ post.date | date: "%d" }}</h3>
-        <h6 style="{ text-align: right; }">{{ post.date | date: "%B %d" }}</h6>
+    <div class="row">
+        <div class="col-lg-9 col-lg-offset-2">
+            <div class="pager">
+                {% if paginator.previous_page %}
+                {% if paginator.page == 2 %}ˇ
+                <a href="{{site.url}}/blog/" class="btn btn-danger pull-right" role="button">Newer →</a>
+                {% else %}
+                <a href="{{site.url}}/blog/{{ paginator.previous_page }}" class="btn btn-danger pull-right"
+                role="button">Newer →</a>
+                {% endif%}
+                {% endif %}
+
+                {% if paginator.next_page %}
+                <a href="{{site.url}}/blog/{{ paginator.next_page }}" class="btn btn-danger" role="button">←
+                    Older</a>
+                    {% else %}
+                    {% endif %}
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="col-lg-11">
-            <ul class="list-unstyled" style="{ vertical-align: top; }">
-                <li style="{ vertical-align: top; }">
-                    <h3 style="{ vertical-align: top; }"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-                    <br/>
-                    {{ post.tags }}
-
-                    {% if post.image != "" %}
-                    <img src="{{ post.image }}" width="450"/>
-                    {% endif %}<br/>
-                    &lt;!&ndash;{{ post.content | truncatewords:50 | strip_html }}&ndash;&gt;
-                    {{ post.excerpt | strip_html }}
-                </li>
-            </ul>
-    </div>-->

@@ -1,15 +1,115 @@
 ---
-layout: default
+layout: blog
 ---
-<div class="post">
+<div class="container">
+    <div class="row centered">
+        <div class="col-lg-9 col-lg-offset-2">
+            <h1><a href="{{site.url}}/blog">METANOIA</a></i></h1>
+            <span>Day to day, from point A to Point B.</span><br>
+            <span>A blog about my passions, interests and the continuous learning process.</span>
+            <br>
+            <br>
+        </div>
+    </div>
+</div>
 
-  <header class="post-header">
-    <h1>{{ page.title }}</h1>
-    <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
-
-  <article class="post-content">
-  {{ content }}
-  </article>
-
+<div class="container">
+    {% if page.type == 'preview' %}
+    <div class="row">
+        <div class="col-lg-9 col-lg-offset-2">
+            <div class="post">
+                <div class="demo">
+                    <img src="{{ page.preview_url }}"/>
+                </div>
+                <div class="content">
+                    <h2><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h2>
+                    {{ page.date | date: "%b %-d, %Y" }}&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+                    {% for tag in page.tags %}
+                    #{{ tag }}&nbsp;&nbsp;&nbsp;
+                    {% endfor %}
+                    <br>
+                    <br>
+                    <p>
+                        {{ page.content | markdownify }}
+                    </p>
+                    <br>
+                    <br>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% elsif page.type == 'quote' %}
+    <div class="row">
+        <div class="col-lg-9 col-lg-offset-2">
+            <div class="post">
+                <div class="quote centered">
+                    <span class="content">"{{ page.quote }}"</span>
+                    <br>
+                    <br>
+                    <span class="cite"> - {{ page.cite }} - </span>
+                </div>
+                <div class="content">
+                    <h2><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h2>
+                    {{ page.date | date: "%b %-d, %Y" }}&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+                    {% for tag in page.tags %}
+                    #{{ tag }}&nbsp;&nbsp;&nbsp;
+                    {% endfor %}
+                    <br>
+                    <br>
+                    <p>
+                        {{ page.content | markdownify }}
+                    </p>
+                    <br>
+                    <br>
+                    {% include disqus.html %}
+                </div>
+            </div>
+        </div>
+    </div>
+    {% elsif page.type == 'soundcloud' %}
+    <div class="row">
+        <div class="col-lg-9 col-lg-offset-2">
+            <div class="post">
+                <iframe width="100%" height="175" scrolling="no" frameborder="no" src="{{ page.preview_url }}"></iframe>
+                <div class="content">
+                    <h2><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h2>
+                    {{ page.date | date: "%b %-d, %Y" }}&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+                    {% for tag in page.tags %}
+                    #{{ tag }}&nbsp;&nbsp;&nbsp;
+                    {% endfor %}
+                    <br>
+                    <br>
+                    <p>
+                        {{ page.content | markdownify }}
+                    </p>
+                    <br>
+                    <br>
+                    {% include disqus.html %}
+                </div>
+            </div>
+        </div>
+    </div>
+    {% else %}
+    <div class="row">
+        <div class="col-lg-9 col-lg-offset-2">
+            <div class="post">
+                <div class="content">
+                    <h2><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></h2>
+                    {{ page.date | date: "%b %-d, %Y" }}&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+                    {% for tag in page.tags %}
+                    #{{ tag }}&nbsp;&nbsp;&nbsp;
+                    {% endfor %}
+                    <br>
+                    <br>
+                    <p>
+                        {{ page.content | markdownify }}
+                    </p>
+                    <br>
+                    <br>
+                    {% include disqus.html %}
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endif %}
 </div>

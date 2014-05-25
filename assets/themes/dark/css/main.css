@@ -1,14 +1,6 @@
-/*
- * Author: Carlos Alvarez
- * URL: http://alvarez.is
- *
- * Project Name: Minimal - Free Bootstrap 3 Theme
- * Version: 1.0
- * URL: http://blacktie.co
- */
-
 body {
-    background: #222222 url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAEZklEQVRoQ7Vaa3riMBAjLRdp4f4nbGF3shWfomgegS5/Uohjz0PSjJ0un5+f99PPZ1mW0/1+P+GK390V4+Kejn97ezvdbrfq8dG9WOP9/b2dK9Zf2JHJ7J2R7JQbG/fDybjqZxLAzMbler3eOXrVZDAsG/NMZvgZOBeZwCfW/P7+Xh3XsRi3ogMZcZOw91UkMY7hps+ycXwvDI17ajyytjFWsriB91FoTeCnnIvvWDQMj89vcGgTrMvl8neNf6msFnFw0t8qsYg1GJoQCTip35VfHX82ZM8MO5IFp2KtET9q6dYBN8ATl+11TYYWRyEjli7W8QJzaoSRoYw7yju3zsZGJjtDrMJwF+HfEgmXoSwAG9XS6GTRPgq16fgjAWIBWaHFZAfhNRsTyFVEx/NKeDV8GjgnSjtHXPSc1it8HNZh2NFIZxmslHPXokxaDBRHJiScVSOybGYBAxqYC5NAlByZYvuZcZ1xuJ/BUaFc1pGsQYS2I3qvYJ3nYOMjONH5Rv3QD49DazXufqsIZn1aF/Uqk12XvXNO9yOKf2fMRF1eIXrGU84Q7AQ3V9VSTUY3iki7tiNLdxfluK/yrps0hhvm23FC2prl4+PjDsyzhFZRZwddEe12dZqtCoLcaLoN2WOu/9nGazBe4UynjCvZdcHwHNWzm6C6r4br947QPF7/3nE5HHEPYGDFk4BQBEFbbMcf8BD3uG3BGgwjXR8QdnatHFZo8U4OmeHrKxmaPOtqhBObHWy1aZw8NDEIGchal64uwVC+qoJt2p+M7M/Wj47Q3X0+NanEYsc/5cg02kfGKakzSe2cLIUl6kgMgEqpGijUJpDAggwLrS1dd6AFkJ2wQtTVESWfYleNRlDcVpmDkG1ZJ12Ey0zaNLoTPsikVvMsS1kdmGbDOZuu1WUk66m4aGq7nUloNpcrlFA9t/N0zuz2I2oEc0Z3e1rkWB6RUQcD3jp32eG+zPEXNqyOZNWSDcuMZkMzo6YZUkJzNa+Ctq4LaJ3P59PX19cugK9IYmZYJ90Tzil/yj07SyC30NrGdIZNlahrIl1/9oAe9iMPrNHRfZeNXXX92ezE5N2eZOo8RIVhZgUA0HL4turQHDi7RbRHmjjhYJkFdsMRZESP/m3xSZzpMnjUAR6fnag8gjR5Y+UKW0dIvQ+4xbXKWuZspqyPwMc7xBik50dd5wnydwStstAFY5rBsGH8DtEpD1qWTuMdR14JgIW7e89eFbmJKAA6uqnKVI5/z1r+LrP2EHtSxSdpP3KAjfmy7qBqZSIQjxbF6TQXxClBJ8qVwSrjpRMOhvUK+6qOKLarnollu3Ja5Z3HqoO8Xrf3ty9DecKuHXlGedwz3cm7Qhk72lDP1cY4Rcn+N2TCg2zMVJXYKYZWxgneAmyq/6QgTo3t9hZdYDp+VS3TqPt1acWenCOfYZwb0iObM+ZPt9cpX/R0TaOb3EHqCI8ySGqLsqtJyhFnXIVX/S+ernBxjaqg1MGMsxxj/wAVcWs+LdK3CgAAAABJRU5ErkJggg==) repeat;
+    background: #222 url(../img/dark.png) repeat;
+
     font-family: 'Oswald', serif;
     font-weight: 300;
     font-size: 16px;
@@ -18,8 +10,8 @@ body {
     -webkit-overflow-scrolling: touch;
 }
 
-.pattern{
-
+.pattern {
+    background: #222 url(../img/bg.png) repeat;
 }
 
 /* Titles */
@@ -27,14 +19,9 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Oswald', sans-serif;
     font-weight: 300;
     color: #7e7e7e;
-    text-shadow: 0px 1px 1px #3e3e3e;
 }
 
 /* Paragraph & Typographic */
-p {
-    line-height: 28px;
-    margin-bottom: 25px;
-}
 
 .centered {
     text-align: center;
@@ -42,7 +29,8 @@ p {
 
 /* Links */
 a {
-    color: #f85c37;
+    /*color: #f85c37;*/
+    color: #dd5555;
     word-wrap: break-word;
 
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -50,7 +38,6 @@ a {
     -ms-transition: color 0.1s ease-in, background 0.1s ease-in;
     -o-transition: color 0.1s ease-in, background 0.1s ease-in;
     transition: color 0.1s ease-in, background 0.1s ease-in;
-    text-shadow: 0px 1px 1px #702919;
 }
 
 a:hover,
@@ -58,7 +45,7 @@ a:focus {
     color: #4d4d4d;
     text-decoration: none;
     outline: 0;
-    text-shadow: 0px 1px 1px #373737;
+    /*text-shadow: 0px 1px 1px #373737;*/
 }
 
 a:before,
@@ -116,7 +103,6 @@ hr {
     font-size: 36px;
     font-weight: 100;
     font-family: 'Oswald', serif;
-    /*    font-style: oblique;*/
 }
 
 #headerwrap h3 {
@@ -124,14 +110,12 @@ hr {
     font-size: 30px;
     font-weight: 100;
     font-family: 'Oswald', serif;
-/*    font-style: oblique;*/
 }
 
 #headerwrap h4 {
     font-size: 18px;
     font-weight: 100;
     font-family: 'Oswald', serif;
-    /*    font-style: oblique;*/
 }
 
 #headerwrap .logo {
@@ -156,16 +140,10 @@ hr {
     letter-spacing: 1px;
 }
 
-/*#f i {
-    font-size: 8px;
-    color: #fff;
-    padding: 3px;
+/*#f p {
+    font-size: 20px;
+    color: #f2f2f2;
 }*/
-
-#f p {
-    /*font-size: 20px;
-    color: #f2f2f2;*/
-}
 
 #f img {
     text-align: center;
@@ -344,12 +322,12 @@ a.rollover:hover {
     background-position: -250px 0;
 }
 
-.homerollover{
+.homerollover {
     margin: 75px auto 0;
     background: url('../img/ava.png') no-repeat -10px 0;
 }
 
-.coderollover{
+.coderollover {
     margin: 0px auto 0;
     background: url('../img/ava.png') no-repeat -10px 0;
 }
@@ -366,4 +344,58 @@ hr {
     border-top: 1px solid #7e7e7e;
     margin: 1em 0;
     padding: 0;
+}
+
+.pager {
+    text-align: left;
+}
+
+.post {
+    background: #fff;
+    -webkit-box-shadow: 0px 0px 2px 2px rgba(100, 100, 100, 0.1);
+    -moz-box-shadow: 0px 0px 2px 2px rgba(100, 100, 100, 0.1);
+    box-shadow: 0px 0px 2px 2px rgba(100, 100, 100, 0.1);
+}
+
+.post .demo {
+    background: #dd5555;
+}
+
+.post .demo img {
+    width: 100%;
+    /*opacity: .8;*/
+}
+
+.post .quote {
+    background: #dd5555;
+    color: #fff;
+    width: 100%;
+    padding: 30px
+}
+
+.post .quote .content {
+    font-size: 36px;
+    text-shadow: 0px 0px 0px rgba(0,0,0,0);
+}
+
+.post .quote .cite {
+    font-size: 18px;
+    text-shadow: 0px 0px 0px rgba(0,0,0,0);   
+}
+.post .content {
+    padding: 5px 15px;
+    font-size: 17px;
+}
+
+/*.post .content a {
+    text-shadow: 0px 0px 0px rgba(0, 0, 0, 0);
+}*/
+
+.post .content p {
+    text-align: justify;
+    line-height: 26px;
+}
+
+strong {
+    font-weight: 400;
 }
