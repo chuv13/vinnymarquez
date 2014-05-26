@@ -44,31 +44,19 @@ layout: blog
     <div class="row">
         <div class="col-lg-9 col-lg-offset-2">
             <div class="post">
-                <div class="quote centered">
-                    <span class="content">"{{ post.quote }}"</span>
-                    <br>
-                    <br>
-                    <span class="cite">- {{ post.cite }} -</span>
-                </div>
-                <div class="content">
-                    <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-                    {{ post.date | date: "%b %-d, %Y" }}&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-                    {% for tag in post.tags %}
-                    #{{ tag }}&nbsp;&nbsp;&nbsp;
-                    {% endfor %}
-                    <br>
-                    <br>
-                    {% if post.displaybody != false %}
-                    <p>
-                        {{ post.content | truncatewords:100 | strip_html }}
-                    </p>
-                    <br>
-                    <a href="" class="pull-right">READ MORE</a>
-                    <br>
-                    <br>
-                    {% endif%}
-                    
-                </div>
+                <a href="{{ post.url | prepend: site.baseurl }}">
+                    <div class="quote centered">
+                        <span class="content">"{{ post.quote }}"</span>
+                        <br>
+                        <br>
+                        <span class="cite">- {{ post.cite }} -</span>
+                        <br>
+                        <br>
+                        {% for tag in post.tags %}
+                        #{{ tag }}&nbsp;&nbsp;&nbsp;
+                        {% endfor %}
+                    </div>
+                </a>
             </div>
         </div>
     </div>
