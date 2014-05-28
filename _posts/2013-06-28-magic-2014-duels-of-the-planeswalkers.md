@@ -3,13 +3,12 @@ title: 'MAGIC 2014 &#8211; DUELS OF THE PLANESWALKERS'
 author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/06/28/magic-2014-duels-of-the-planeswalkers/
-#categories:
-#  - Game Reviews
-#  - Technology
+category: blog
+tags: android cardgames ipad iPhone magicthegathering steam videogames
 ---
 [WARNING: Image heavy!]
 
-Ah yes, Magic 2014 (for all platforms) is here! I previously owned and <a href="http://johnvinnymarquez.net/blog/2012/06/23/magic-the-gathering-duels-of-the-planeswalkers-2013/" target="_blank">reviewed the 2013 (iPad version) last year</a>.� It was a lot of fun even though I encountered some problems with my saved games. This year, I opted for the Steam version because I use my laptop more than my iPad now and I wanted to try gaming with it.
+Ah yes, Magic 2014 (for all platforms) is here! I previously owned and <a href="http://johnvinnymarquez.net/blog/2012/06/23/magic-the-gathering-duels-of-the-planeswalkers-2013/" target="_blank">reviewed the 2013 (iPad version) last year</a>. It was a lot of fun even though I encountered some problems with my saved games. This year, I opted for the Steam version because I use my laptop more than my iPad now and I wanted to try gaming with it.
 
 <div style="width: 460px" class="wp-caption aligncenter">
   <img class=" " title="Start screen" alt="Start screen" src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/Magic%202014/213850_2013-06-27_00051_zpsd4228540.png" width="450" /><p class="wp-caption-text">
@@ -37,13 +36,13 @@ DirectX®: DirectX 9.0c or later
 Sound: DirectX 9.0c compatible sound card  
 Additional: Local Co-op requires a controller
 
-**Machines used for testing� **
+**Machines used for testing **
 
 1. MacBook Pro Mid2010 running Parallels 8 (image is stored on HDD drive) with 2 cores and 4gb memory allocated.
 
 2. iPad 3
 
-3. <del>Samsung Galaxy S4� </del>� (*well, sort of. I just asked Leandro Losaria AKA Brando how the experience is and asked if <del>drag and drop was available</del>. Hehe)** UPDATE 7/2/2013: **Apologies for reporting false facts, drag and drop IS supported in Android too!*
+3. <del>Samsung Galaxy S4 </del> (*well, sort of. I just asked Leandro Losaria AKA Brando how the experience is and asked if <del>drag and drop was available</del>. Hehe)** UPDATE 7/2/2013: **Apologies for reporting false facts, drag and drop IS supported in Android too!*
 
 **What&#8217;s new?**
 
@@ -55,7 +54,7 @@ I haven&#8217;t extensively played the game yet, but I&#8217;ve been through the
   </p>
 </div>
 
-You can download the � iOS and Android apps for free (which is basically a demo) with the option to upgrade to the full game for $9.99. There is no identical demo on Steam, you have to buy the game (same price for the game) and with the option to purchase DLC like decks for $0.99.
+You can download the  iOS and Android apps for free (which is basically a demo) with the option to upgrade to the full game for $9.99. There is no identical demo on Steam, you have to buy the game (same price for the game) and with the option to purchase DLC like decks for $0.99.
 
 <div id="attachment_751" style="width: 460px" class="wp-caption aligncenter">
   <a href="http://johnvinnymarquez.net/wp-content/uploads/2013/06/213850_2013-06-27_00047.png"><img class=" wp-image-751 " alt="Decks" src="http://johnvinnymarquez.net/wp-content/uploads/2013/06/213850_2013-06-27_00047-1024x640.png" width="450" /></a><p class="wp-caption-text">
@@ -65,11 +64,11 @@ You can download the � iOS and Android apps for free (which is basically a dem
 
 **Conclusion**
 
-I still like the iPad version better when it comes to playability (again, because of the drag and drop functionality. Why? Well, for me it is easier than clicking, double clicking, tapping and err, double tapping) but will hands down� choose the desktop version � when it comes to graphics. <del>Android version does not include drag and drop functionality so for me it is the least of the 3 versions.</del>
+I still like the iPad version better when it comes to playability (again, because of the drag and drop functionality. Why? Well, for me it is easier than clicking, double clicking, tapping and err, double tapping) but will hands down choose the desktop version  when it comes to graphics. <del>Android version does not include drag and drop functionality so for me it is the least of the 3 versions.</del>
 
-**UPDATE 7/2/2013:**� As stated earlier, drag and drop is supported in Android too. Performance in the S4 is actually faster than in the iPad 3 (it hangs most of the time for about 1-2 secs). I like the smoothness of the game with the S4 but still love the resolution of the iPad. I wonder how this runs in fast Android tablets? Anyone out there who tried already?
+**UPDATE 7/2/2013:** As stated earlier, drag and drop is supported in Android too. Performance in the S4 is actually faster than in the iPad 3 (it hangs most of the time for about 1-2 secs). I like the smoothness of the game with the S4 but still love the resolution of the iPad. I wonder how this runs in fast Android tablets? Anyone out there who tried already?
 
-I think its worth the price and I recommend it even to those who are new to MTG.� Anyways, here are more screenshots:
+I think its worth the price and I recommend it even to those who are new to MTG. Anyways, here are more screenshots:
 
 <div id='gallery-1' class='gallery galleryid-686 gallery-columns-5 gallery-size-thumbnail'>
   <dl class='gallery-item'>

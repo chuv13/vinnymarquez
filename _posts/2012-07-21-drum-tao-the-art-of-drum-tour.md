@@ -3,17 +3,14 @@ title: 'DRUM TAO: THE ART OF DRUM TOUR'
 author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2012/07/21/drum-tao-the-art-of-drum-tour/
-#categories:
-#  - Personal
 category: blog
-tags:
-  - events
+tags: events
 ---
 <span class="dropcap1">T</span>hank God for my girlfriend Mawie who takes her time to look at groupon-like sites! Because of her we got to see Drum Tao perform at the <a title="Theater" href="http://www.rwmanila.com/entertainment-at-resorts-world-manila/newport-performing-arts-theater/" target="_blank">Resorts World Manila: Performing Arts Theater</a> last July 20, 2012 (They will be here in manila up to July 22, 2012 and then will fly to Cebu). We purchased discounted Deluxe Tickets from <a title="Drum Tao Ensogo" href="http://www.ensogo.com.ph/manila/drum-tao-07172012.html" target="_blank">Ensogo</a>.
 
 <img style="display: block; margin-left: auto; margin-right: auto;" title="Tickets" alt="Tickets" src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/DSCF5048.jpg" width="600" height="450" />
 
-<a title="Drum Tao" href="http://en.wikipedia.org/wiki/Tao_(musical_troupe)" target="_blank">Drum Tao</a> (Tao means Way/Road) is a musical troupe from Japan focusing on drum and dance refelcting traditional Japanese culture (though they also incorporate other musical styles like Maori, Indonesian and Korean).� It is said that their daily routine starts from 5AM to 10PM and includes a 20km run, calisthenics, martial arts training and hours of drumming and dancing.
+<a title="Drum Tao" href="http://en.wikipedia.org/wiki/Tao_(musical_troupe)" target="_blank">Drum Tao</a> (Tao means Way/Road) is a musical troupe from Japan focusing on drum and dance refelcting traditional Japanese culture (though they also incorporate other musical styles like Maori, Indonesian and Korean). It is said that their daily routine starts from 5AM to 10PM and includes a 20km run, calisthenics, martial arts training and hours of drumming and dancing.
 
 I have been an otaku for as long as I can remember. I have always loved Japanese culture and was involved in a <a title="Laruku" href="http://en.wikipedia.org/wiki/L'Arc-en-Ciel" target="_blank">L&#8217;arc~en~Ciel</a> cover band so attending the event took me closer to Japan than I&#8217;ve ever been. Before the main event, they had a little show at the Resort&#8217;s World plaza. We just finished eating near the stage so we quickly grabbed 2 seats near the stage. It was awesome! Too bad I got shy (they were sooooooooo cool so I got really really shy. lol. Yes, I am weird) and refused to approach them to have my picture taken (refusing even the playful prodding of Mawie, she knew I wanted a picture). Next time, I won&#8217;t hesitate!
 
@@ -25,7 +22,7 @@ Anyways, onto the show. Cameras weren&#8217;t allowed inside the theatre (copyri
 
 **Discipline and Artistry**
 
-Their artistry and the way they perform to me is much like organized chaos, similar to how you execute a jumping spinning roundhouse.� The first thing I noticed about them is how they embody the discipline of the Japanese people.� Everywhere in the performance you can see the disipline akin to that of the tea ceremony. Whenever they hit their drums, each hit is coordinated with other bodily movements like swaying hips, rotating the heavy sticks before hitting the drums in cadence. Even in the changing of their beaters they do not rush, its like they&#8217;re continously counting and every action including shifting between beaters are included. I was also in awe of the multi-disciplinary nature of the performers, the kind of performer I would like to be. Lol. They play music, they have good stamina, timing, stage prescence, they can dance, do martial arts and even act.
+Their artistry and the way they perform to me is much like organized chaos, similar to how you execute a jumping spinning roundhouse. The first thing I noticed about them is how they embody the discipline of the Japanese people. Everywhere in the performance you can see the disipline akin to that of the tea ceremony. Whenever they hit their drums, each hit is coordinated with other bodily movements like swaying hips, rotating the heavy sticks before hitting the drums in cadence. Even in the changing of their beaters they do not rush, its like they&#8217;re continously counting and every action including shifting between beaters are included. I was also in awe of the multi-disciplinary nature of the performers, the kind of performer I would like to be. Lol. They play music, they have good stamina, timing, stage prescence, they can dance, do martial arts and even act.
 
 **Instrumentation**
 

@@ -5,18 +5,8 @@ layout: post
 permalink: /blog/2013/03/07/fitbox-technogym/
 #customvideo:
 #  - '<iframe width="100%" height="620" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.ph/maps?ie=UTF8&amp;cid=16231176046896213552&amp;q=FITBOX+Fitness+Technogym&amp;gl=PH&amp;hl=en&amp;ll=14.556944,121.018122&amp;spn=0.006295,0.006295&amp;t=m&amp;iwloc=A&amp;output=embed"></iframe>'
-#categories:
-#  - Fitness
-#  - Personal
-#  - Self Improvement
 category: blog
-tags:
-  - boxing
-  - fitbox
-  - fitness
-  - gym
-  - mma
-  - muay thai
+tags: boxing fitbox fitness gym mma muaythai
 ---
 Up until last month I&#8217;ve been experience stress related symptoms (yet again) and I&#8217;m going through restructuring my life. I&#8217;ve been doing so much in so little time that I forgot to set aside time for alone time, eat right, sleep right and exercise. Enough is enough.
 

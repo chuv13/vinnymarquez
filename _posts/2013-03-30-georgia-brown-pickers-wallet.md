@@ -4,19 +4,13 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/03/30/georgia-brown-pickers-wallet/
 category: blog
-#categories:
-#  - Personal
-tags:
-  - accessories
-  - item review
+tags: accessories reviews
 ---
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-
 <div>
-  I&#8217;ve been trying to organize my life lately by identifying and fixing the problem areas. One of them is my bulging wallet. I&#8217;ve found a lot of articles regarding <a href="http://lifehacker.com/5992902/how-can-i-downsize-my-ridiculously-large-wallet" target="_self">downsizing your wallet</a>� and thought to myself that it is about time to do so.
+  I&#8217;ve been trying to organize my life lately by identifying and fixing the problem areas. One of them is my bulging wallet. I&#8217;ve found a lot of articles regarding <a href="http://lifehacker.com/5992902/how-can-i-downsize-my-ridiculously-large-wallet" target="_self">downsizing your wallet</a> and thought to myself that it is about time to do so.
 </div>
 
-It was then that I said to myself (in a Morgan Freeman narration type of tone) &#8220;If you&#8217;re going to get a new wallet it has to solve the problems identified with a cluttered wallet plus be cool [Leather] and personal [music/technology/art themed] at the same time&#8221;. After months of search, thanks to� [Uncrate][1]� I found the perfect wallet for my needs. Ladies and Gentlemen I present to you the <a href="http://www.whippingpost.com/collections/wallets/products/georgia-brown-pickers-wallet" target="_self">Georgia Brown Picker&#8217;s Wallet</a> by <a href="http://www.whippingpost.com" target="_self">Whipping Post</a>. I drooled over this for a while then decided to press that &#8220;add to cart&#8221; button. I got it for $31 + $15 for shipping (which took around 2 weeks because I live in a [land far far away][2]).
+It was then that I said to myself (in a Morgan Freeman narration type of tone) &#8220;If you&#8217;re going to get a new wallet it has to solve the problems identified with a cluttered wallet plus be cool [Leather] and personal [music/technology/art themed] at the same time&#8221;. After months of search, thanks to [Uncrate][1] I found the perfect wallet for my needs. Ladies and Gentlemen I present to you the <a href="http://www.whippingpost.com/collections/wallets/products/georgia-brown-pickers-wallet" target="_self">Georgia Brown Picker&#8217;s Wallet</a> by <a href="http://www.whippingpost.com" target="_self">Whipping Post</a>. I drooled over this for a while then decided to press that &#8220;add to cart&#8221; button. I got it for $31 + $15 for shipping (which took around 2 weeks because I live in a [land far far away][2]).
 
 <div>
   <b>Features</b>
@@ -90,7 +84,7 @@ It was then that I said to myself (in a Morgan Freeman narration type of tone) &
 </div>
 
 <div>
-  <b>� </b>
+  <b> </b>
 </div>
 
 <div>
@@ -150,7 +144,7 @@ It was then that I said to myself (in a Morgan Freeman narration type of tone) &
 </div>
 
 <div>
-  <b>� </b>
+  <b> </b>
 </div>
 
 <div>
@@ -163,7 +157,7 @@ It was then that I said to myself (in a Morgan Freeman narration type of tone) &
 
 &nbsp;
 
-*<a href="http://www.whippingpost.com" target="_self">Whipping Post </a>is an company by <a href="http://about.me/ryanbarr" target="_self">Ryan Barr</a>. They have remarkable products. If shipping to the Philippines wasn&#8217;t so expensive I&#8217;d be buying the Guitar Case, Classic Strap and the Vintage Messenger Bag.� *
+*<a href="http://www.whippingpost.com" target="_self">Whipping Post </a>is an company by <a href="http://about.me/ryanbarr" target="_self">Ryan Barr</a>. They have remarkable products. If shipping to the Philippines wasn&#8217;t so expensive I&#8217;d be buying the Guitar Case, Classic Strap and the Vintage Messenger Bag. *
 
  [1]: http://uncrate.com/
  [2]: http://en.wikipedia.org/wiki/Philippines

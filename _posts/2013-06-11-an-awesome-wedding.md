@@ -6,17 +6,12 @@ permalink: /blog/2013/06/11/an-awesome-wedding/
 #customvideo:
 #  - '<iframe src="https://www.facebook.com/video/embed?video_id=10151953510083625" width="100%" height="620" frameborder="0"></iframe>'
 category: blog
-#categories:
-#  - Events
-#  - Events
-#  - Music
-#  - Personal
+tags: music nimbuscrowd
 ---
-[Warning: this is a very late post!]
 
 A few weeks ago I attended my bandmate Neil&#8217;s (from <a href="https://www.facebook.com/pages/Nimbus-Crowd/119483752155" target="_blank">Nimbus Crowd</a>) wedding. It&#8217;s the most awesome wedding I&#8217;ve ever been to (at the time of writing)! Well, I&#8217;m a bit biased because one of them is a fellow band member and both of them are musicians.
 
-The church ceremony was ok though it could have ben soooo much better if Dream Theater&#8217;s instrumental version of Beneath the Surface was played for the bride&#8217;s entrance as planned. Anyway, another bandmate <a href="http://boyetus.wordpress.com" target="_blank">Boyetu</a>s,� <a href="https://www.facebook.com/juwanfidle09" target="_blank">Master Fidel </a>and I were part of the entourage and we had no idea what we were going to do. We just went with the flow.
+The church ceremony was ok though it could have ben soooo much better if Dream Theater&#8217;s instrumental version of Beneath the Surface was played for the bride&#8217;s entrance as planned. Anyway, another bandmate <a href="http://boyetus.wordpress.com" target="_blank">Boyetu</a>s, <a href="https://www.facebook.com/juwanfidle09" target="_blank">Master Fidel </a>and I were part of the entourage and we had no idea what we were going to do. We just went with the flow.
 
 <div id="attachment_302" style="width: 460px" class="wp-caption aligncenter">
   <a href="http://johnvinnymarquez.net/wp-content/uploads/2013/06/P5250334.jpg"><img class=" wp-image-302  " alt="Dark Black Nimbus Lee" src="http://johnvinnymarquez.net/wp-content/uploads/2013/06/P5250334-1024x768.jpg" width="450" /></a><p class="wp-caption-text">

@@ -4,19 +4,13 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/06/17/ssd-on-a-macbook-pro-mid-2010/
 category: blog
-#categories:
-#  - Gear
-#  - Technology
-tags:
-  - hdd
-  - ssd
-  - upgrades
+tags: hdd ssd macupgrades
 ---
 I&#8217;ve had this MBP (i5 processor, 8gb memory) for quite some time now and I have no plans of replacing it anytime soon (at least until it dies on me), so I upgraded it with an SSD.
 
-The use of this machine is primarilly for audio production (Garage Band, Reaper), editing � images (Lightroom, Photoshop), surfing the web and occasional gaming (Portal being the most current). Pre-SSD my machine already hangs with less than 10 tabs on safari + a window of LR!
+The use of this machine is primarilly for audio production (Garage Band, Reaper), editing  images (Lightroom, Photoshop), surfing the web and occasional gaming (Portal being the most current). Pre-SSD my machine already hangs with less than 10 tabs on safari + a window of LR!
 
-To remedy this problem � I bought an OCZ Vertex 4 SSD (from <a href="http://raniel.net/" target="_blank">a friend</a>) and an optical drive to HDD tray (from� <a href="http://www.tipidpc.com/viewitem.php?iid=24635062" target="_blank">http://www.tipidpc.com/viewitem.php?iid=24635062</a>): the new SSD went to the primary slot and the tray with the old HDD went into where the optical drive was. The tray was installed by the delivery girl.
+To remedy this problem  I bought an OCZ Vertex 4 SSD (from <a href="http://raniel.net/" target="_blank">a friend</a>) and an optical drive to HDD tray (from <a href="http://www.tipidpc.com/viewitem.php?iid=24635062" target="_blank">http://www.tipidpc.com/viewitem.php?iid=24635062</a>): the new SSD went to the primary slot and the tray with the old HDD went into where the optical drive was. The tray was installed by the delivery girl.
 
 <div id="attachment_585" style="width: 460px" class="wp-caption aligncenter">
   <a href="http://johnvinnymarquez.net/wp-content/uploads/2013/06/P6171352.jpg"><img class=" wp-image-585 " alt="OCZ Vertex 4" src="http://johnvinnymarquez.net/wp-content/uploads/2013/06/P6171352-1024x768.jpg" width="450" /></a><p class="wp-caption-text">

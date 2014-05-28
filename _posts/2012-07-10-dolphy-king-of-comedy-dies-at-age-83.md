@@ -1,14 +1,10 @@
 ---
-title: DOLPHY, KING OF COMEDY DIES AT AGE 83
+title: 'DOLPHY, KING OF COMEDY DIES AT AGE 83'
 author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2012/07/10/dolphy-king-of-comedy-dies-at-age-83/
 category: blog
-#categories:
-#  - Personal
-tags:
-  - celebrity
-  - news
+tags: news
 ---
 The Philippines&#8217; undisputed King of Comedy passed away today at age 83. He was admitted at Makati Medical Center on July 6, 2012 after complaining of shortage of breath. He showed signs of recovery but was readmitted due to reccuring signs of pneumonia.
 

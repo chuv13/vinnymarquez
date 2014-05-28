@@ -4,16 +4,7 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/08/03/pinoy-prog-presents-in-motion/
 category: blog
-#categories:
-#  - Events
-#  - Music
-tags:
-  - gigs
-  - metal
-  - opm
-  - progressive
-  - rock
-  - symphonic
+tags: gigs metal opm progressive rock symphonic
 ---
 Hurray! Another event from the <a href="http://pinoyprogcommunity.com" target="_blank">Pinoy Prog Community</a>! This time is entitled: <a href="http://pinoyprogcommunity.com/pinoy-prog-presents-in-motion" target="_blank">Pinoy Prog Presents: In Motion</a>,&nbsp;happening on August 7, 2013 at the&nbsp;<a href="https://www.facebook.com/pages/Freedom-Bar/203146023042281" target="_blank">Freedom Bar</a>, Anonas QC.&nbsp;Ticket price is at Php150 inclusive of one beer (what about people like me who don&#8217;t drink, can I has juice? :p ). Gates open at 9PM until the wee hours of the morning.
 

@@ -4,14 +4,7 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2011/12/27/crash-course-on-everything/
 category: blog
-#categories:
-#  - Personal
-#  - Software Development
-#  - Technology
-tags:
-  - asp
-  - dotnet
-  - mvc 3
+tags: asp dotnet mvc3
 ---
 <span class="dropcap1">I</span>&#8216;m almost done with my targets for today: the sidebar of my blog containing links to posts categorized by category, tag and year/month.
 

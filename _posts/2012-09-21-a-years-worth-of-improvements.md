@@ -3,18 +3,11 @@ title: 'A YEAR&#8217;S WORTH OF IMPROVEMENTS'
 author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2012/09/21/a-years-worth-of-improvements/
-#categories:
-#  - Personal
 category: blog
-tags:
-  - mint
-  - photography
-  - teaching
-  - ux
-  - winrt
+tags: mint photography education ux winrt
 ---
 <p class="p1">
-  <span class="dropcap1">W</span>ow, it&#8217;s been a while since I blogged. Not that I have an audience but it&#8217;s really bad to be inconsistent. Anyway, I recently turned 29 (Thank You Lord for another year) and in� retrospective (as a scrum guy lol) I asked myself: &#8220;Have you grown this year? If yes, in what areas? Was your growth substantial?&#8221;. After the dialog with myself, I jotted down all I could remember:
+  <span class="dropcap1">W</span>ow, it&#8217;s been a while since I blogged. Not that I have an audience but it&#8217;s really bad to be inconsistent. Anyway, I recently turned 29 (Thank You Lord for another year) and in retrospective (as a scrum guy lol) I asked myself: &#8220;Have you grown this year? If yes, in what areas? Was your growth substantial?&#8221;. After the dialog with myself, I jotted down all I could remember:
 </p>
 
 <p class="p1">
@@ -38,11 +31,11 @@ tags:
 </p>
 
 <p class="p1">
-  6. <strong>Organized a product dev team outside work</strong>: <a title="http://ftlwerkz.com/" href="http://ftlwerkz.com/" target="_blank">FTLWerkz</a>. The name stands for &#8220;Following The Lion Werkz&#8221; and we are made up of 4 people: 3� debs and 1 pm/sm/ba. Although on hold, we&#8217;re planning a start few projects as soon as we clear our schedules.
+  6. <strong>Organized a product dev team outside work</strong>: <a title="http://ftlwerkz.com/" href="http://ftlwerkz.com/" target="_blank">FTLWerkz</a>. The name stands for &#8220;Following The Lion Werkz&#8221; and we are made up of 4 people: 3 debs and 1 pm/sm/ba. Although on hold, we&#8217;re planning a start few projects as soon as we clear our schedules.
 </p>
 
 <p class="p1">
-  7. <strong>Re-started martial arts training</strong>. Still no official training due to my Mid-shift schedule, but we do MMA� circuits and some striking� exercises. A colleague of mine teaches us some Jiujitsu techniques as well as core� exercises. Its been a while since my body felt this great. I have a lot of catching up to do because of my 12 year body abuse phase. Lol
+  7. <strong>Re-started martial arts training</strong>. Still no official training due to my Mid-shift schedule, but we do MMA circuits and some striking exercises. A colleague of mine teaches us some Jiujitsu techniques as well as core exercises. Its been a while since my body felt this great. I have a lot of catching up to do because of my 12 year body abuse phase. Lol
 </p>
 
 <p class="p1">

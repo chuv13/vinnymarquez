@@ -4,14 +4,7 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/03/24/converting-to-orchard-cms/
 category: blog
-#categories:
-#  - Personal
-tags:
-  - asp
-  - cms
-  - dotnet
-  - sharp
-  - software development
+tags: asp cms dotnet csharp software development
 ---
 I created this blog for two reasons: one is for me to have a portfolio/personal space and the other is to practice my web skills (for transitioning from Silverlight back to Web Development using ASP MVC). I built my the initial site from the ground up using MVC 3 and has been a proud owner of a totally custom-tailored website. From a software development perspective the project was a success because I have fulfilled my own requirements. From a product standpoint though, it was actually a failure. I hit the ground running with the &#8216;new&#8217; MVC version (3 at the time of the website&#8217;s development) and I got to accomplish the basic features for me to be able to write a blog post. The sad thing though is I never really got past those &#8216;basic features&#8217; and the site development stagnated for more than a year.
 

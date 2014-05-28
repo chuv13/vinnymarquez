@@ -3,17 +3,10 @@ title: ADMIN PAGE TEST AND A FEW UPDATES
 author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2012/03/20/admin-page-test-and-a-few-updates/
-#youtube:
-#  - NHopJHSlVo4
-#video_post_url:
-#  - http://www.youtube.com/watch?v=NHopJHSlVo4
+preview_url: 'http://www.youtube.com/watch?v=NHopJHSlVo4'
+type: youtube
 category: blog
-#categories:
-#  - Personal
-tags:
-  - sql
-  - talks
-  - ted
+tags: sql talks ted
 ---
 Here&#8217;s a TED video I recently watched that I&#8217;d like to share to you guys.
 

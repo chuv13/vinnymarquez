@@ -4,10 +4,6 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2011/12/27/coding-on-the-holidays/
 category: blog
-#categories:
-#  - Personal
-#  - Software Development
-#  - Technology
 tags:
   - asp
   - dotnet

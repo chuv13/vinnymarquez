@@ -4,18 +4,10 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/09/26/a-chance-to-win-one-of-the-300-beta-steam-machines/
 category: blog
-#categories:
-#  - News
-#  - Technology
-tags:
-  - console
-  - games
-  - Steam
-  - steam powered
-  - video games
+tags: console games steam steampowered videogames
 format: image
 ---
-One of the most exciting news I&#8217;ve heard so far is the announcement of the new<a href="http://store.steampowered.com/livingroom/SteamOS/" target="_blank"> SteamOS: a living room OS built by Steam and is based on Linux</a>. Valve announced the development of � <a href="http://store.steampowered.com/livingroom/SteamMachines/" target="_blank">&#8220;Steam Machines&#8221;</a> and the upcoming beta testing stage.  
+One of the most exciting news I&#8217;ve heard so far is the announcement of the new<a href="http://store.steampowered.com/livingroom/SteamOS/" target="_blank"> SteamOS: a living room OS built by Steam and is based on Linux</a>. Valve announced the development of  <a href="http://store.steampowered.com/livingroom/SteamMachines/" target="_blank">&#8220;Steam Machines&#8221;</a> and the upcoming beta testing stage.  
 <a href="http://store.steampowered.com/livingroom/SteamMachines/" target="_blank">Steam Machines</a> are machines that will run the SteamOS, with customizable hardware and will be released in 2014.
 
 > A powerful new category of living-room hardware is on the horizon.  
@@ -29,15 +21,15 @@ One of the most exciting news I&#8217;ve heard so far is the announcement of the
 > </div>
 > 
 > <div>
->   Before October 25, log in to Steam and then visit� <a href="http://steamcommunity.com/my/badges/15">your quest page</a>� to track your current status towards beta test eligibility
+>   Before October 25, log in to Steam and then visit <a href="http://steamcommunity.com/my/badges/15">your quest page</a> to track your current status towards beta test eligibility
 > </div>
 > 
 > <div>
->   1. Join the� <a href="http://steamcommunity.com/groups/steamuniverse">Steam Universe community group</a>
+>   1. Join the <a href="http://steamcommunity.com/groups/steamuniverse">Steam Universe community group</a>
 > </div>
 > 
 > <div>
->   2. Agree to the� <a href="http://store.steampowered.com/hardwarebeta/">Steam Hardware Beta Terms and Conditions</a>
+>   2. Agree to the <a href="http://store.steampowered.com/hardwarebeta/">Steam Hardware Beta Terms and Conditions</a>
 > </div>
 > 
 > <div>
@@ -49,10 +41,10 @@ One of the most exciting news I&#8217;ve heard so far is the announcement of the
 > </div>
 > 
 > <div>
->   5. Play a game using a gamepad in� <a href="http://store.steampowered.com/bigpicture/">Big Picture</a>� mode
+>   5. Play a game using a gamepad in <a href="http://store.steampowered.com/bigpicture/">Big Picture</a> mode
 > </div>
 
-*Note: Step 5 really requires you to use a gamepad, you can&#8217;t � accomplish this quest if you just run Steam in Big Picture mode and launch a game using a mouse and/or the arrow keys.*
+*Note: Step 5 really requires you to use a gamepad, you can&#8217;t  accomplish this quest if you just run Steam in Big Picture mode and launch a game using a mouse and/or the arrow keys.*
 
 **The Badge Quest**
 
@@ -143,7 +135,7 @@ Here are some of the questions found in the article that I found interesting:
         </div>
         
         <div>
-          Here&#8217;s� <a href="http://store.steampowered.com/livingroom/SteamOS">a link to what we said earlier about SteamOS</a>. We&#8217;ll have more details to tell you, soon.
+          Here&#8217;s <a href="http://store.steampowered.com/livingroom/SteamOS">a link to what we said earlier about SteamOS</a>. We&#8217;ll have more details to tell you, soon.
         </div>
       </div>
     </div>

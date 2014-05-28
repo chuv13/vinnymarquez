@@ -4,11 +4,7 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2012/06/23/magic-the-gathering-duels-of-the-planeswalkers-2013/
 category: blog
-#categories:
-#  - Personal
-tags:
-  - game review
-  - ipad
+tags: game reviews ipad
 ---
 <p class="p1">
   <a title="M2013" href="http://itunes.apple.com/us/app/magic-2013/id502588466?mt=8">Magic The Gathering: Duels of the Planeswalkers 2013</a>. The game I&#8217;ve been waiting for has been released for the iPad! It&#8217;s the successor to Duel of the Planeswalkers 2012 (because 2013 comes after 2012. Lol) but also released for the iPad.
@@ -28,11 +24,11 @@ Custom Game &#8211; Two-headed Giant, Free-for-all and Planechase
 </p>
 
 <p class="p1">
-  I find the game very nice for the price (<a title="View in iTunes" href="http://itunes.apple.com/us/app/magic-2013/id502588466?mt=8" target="_blank">$9.99</a>) and find it very enjoyable. I&#8217;ve been in and out of playing MTG and because of this my love for the game has been rekindled.� I&#8217;ve been able to finish the campaign in about a day in easy mode but to a bug my progress has been wiped out.***
+  I find the game very nice for the price (<a title="View in iTunes" href="http://itunes.apple.com/us/app/magic-2013/id502588466?mt=8" target="_blank">$9.99</a>) and find it very enjoyable. I&#8217;ve been in and out of playing MTG and because of this my love for the game has been rekindled. I&#8217;ve been able to finish the campaign in about a day in easy mode but to a bug my progress has been wiped out.***
 </p>
 
 <p class="p1">
-  � <img title="VS Odric" alt="VS Odric" src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/2012-06-24005438.png" width="600" height="450" />
+   <img title="VS Odric" alt="VS Odric" src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/2012-06-24005438.png" width="600" height="450" />
 </p>
 
 <p class="p1">
@@ -60,9 +56,9 @@ Custom Game &#8211; Two-headed Giant, Free-for-all and Planechase
 </p>
 
 <p class="p1">
-  <strong>EDIT: 7/4/2012</strong><br /> <strong>Wizards customer help replied and thanked me for reporting the bug (the game wiped my progress), I also recommended for iCloud use. But as of now, still no update. I find that if my game center is disconnected it reverts to an old version of my progress. All I do now when that happends is to close the app and wait for gamecenter to kick in.� </strong>
+  <strong>EDIT: 7/4/2012</strong><br /> <strong>Wizards customer help replied and thanked me for reporting the bug (the game wiped my progress), I also recommended for iCloud use. But as of now, still no update. I find that if my game center is disconnected it reverts to an old version of my progress. All I do now when that happends is to close the app and wait for gamecenter to kick in. </strong>
 </p>
 
 <p class="p1">
-  * The decks can be automatically unlocked for $0.99 each.<br /> ** If you are from the Philippines we cannot claim yet because there are no participating stores yet for our country. How did I know? I emailed support and they told me to email� <a href="mailto:apac@wizards.com"><span class="s1">apac@wizards.com</span></a>. Still waiting for their response.<br /> *** Pending question to wizards customer help
+  * The decks can be automatically unlocked for $0.99 each.<br /> ** If you are from the Philippines we cannot claim yet because there are no participating stores yet for our country. How did I know? I emailed support and they told me to email <a href="mailto:apac@wizards.com"><span class="s1">apac@wizards.com</span></a>. Still waiting for their response.<br /> *** Pending question to wizards customer help
 </p>

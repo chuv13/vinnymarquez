@@ -3,13 +3,8 @@ title: 'PAUPER &#8211; UG DELVER (AGGRO)'
 author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2012/07/30/pauper-ug-delver-aggro/
-#categories:
-#  - Personal
 category: blog
-tags:
-  - constructed
-  - mtg deck
-  - pauper
+tags: constructed mtgdeck pauper
 ---
 <span class="dropcap1">H</span>appy monday! I haven&#8217;t been able to blog lately because the past week was really hectic plus I recently upgraded my MBP to <a title="Mountain Lion" href="http://www.apple.com/osx/" target="_blank">Mountain Lion</a>. Sigh. Its cool and all but it broke my <a title="Reaper" href="http://www.reaper.fm/" target="_blank">Reaper</a>! Anyways, thats for another blog post. For now I&#8217;ll talk about <a title="Magic: the Gathering" href="http://www.wizards.com/Magic/" target="_blank">Magic: the Gathering</a> again.
 

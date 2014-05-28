@@ -6,7 +6,7 @@ permalink: /blog/2013/05/01/dark-crayola-guitar-duo/
 type: soundcloud
 preview_url: "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/89701076&amp;auto_play=false&amp;hide_related=false&amp;visual=true"
 category: blog
-tags: dark crayola guitarist instrumental
+tags: darkcrayola guitarist instrumental
 ---
 Just sharing Dark Crayola&#8217;s new track.� Medley sequence:
 

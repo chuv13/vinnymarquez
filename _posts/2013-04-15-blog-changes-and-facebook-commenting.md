@@ -4,8 +4,6 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/04/15/blog-changes-and-facebook-commenting/
 category: blog
-#categories:
-# - Personal
 ---
 Since migrating to Orchard MCS, my blogging life has been much easier, compared to the old hand coded website I had I have fewer head aches now. And with the features this new platform has I decided to divide my site into 4 sections (technically, into 4 blogs):
 

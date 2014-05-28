@@ -4,18 +4,7 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/06/15/marvin-irene-2014-series-bridal-fair/
 category: blog
-#categories:
-#  - Events
-#  - Personal
-#  - Photography
-#  - Projects
-tags:
-  - bridal fair
-  - ftlwerkz
-  - marvinandirene2014
-  - wedding photography
-  - weddingprep
-  - weddings
+tags: bridalfair ftlwerkz marvinandirene2014 weddingphotography  weddingprep weddings
 ---
 [Cover photo by <a href="http://rayvincentmarquez.com" target="_blank">Ray Marquez</a>, Hand in portable cam picture [Franchere Chan][1]]
 

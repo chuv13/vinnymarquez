@@ -4,16 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/06/20/mybook-live-duo-4tb/
 category: blog
-#categories:
-#  - Gear Reviews
-#  - Technology
-tags:
-  - cloud storage
-  - hdd
-  - nas
+tags: cloudstorage nas
 ---
-<!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
-
 <div>
   [photos take from <a href="http://www.wdc.com/en/Products/products.aspx?id=620" target="_blank">WD site</a>]
 </div>
@@ -25,7 +17,7 @@ tags:
   One of the problems I face when it comes to file storage is the file system. I am a .net developer so I use a PC at work but my personal machine is a Mac. My head has been aching with file storage: Macs can&#8217;t write (read-only) to NTFS formatted drives and PCs can&#8217;t read Journaled disks. I&#8217;ve tried using macreader and ntfs-3g with mixed results (think corrupted files). Last year I planned to build my own NAS using a Raspberry Pi but couldn&#8217;t finish the project.
 </div>
 
-I recently acquired a 4TB My Book Live Duo from an<a href="http://raniel.net" target="_blank"> undisclosed friend</a>, who sold it to me at a great price. Its kind of your (it is marketed as your) personal cloud.� Its a NAS connected through the network. So it won&#8217;t matter if I access it from a Mac or a PC. Its plug and play and all of it contained in a small black box around half the size of a woman&#8217;s shoe box.
+I recently acquired a 4TB My Book Live Duo from an<a href="http://raniel.net" target="_blank"> undisclosed friend</a>, who sold it to me at a great price. Its kind of your (it is marketed as your) personal cloud. Its a NAS connected through the network. So it won&#8217;t matter if I access it from a Mac or a PC. Its plug and play and all of it contained in a small black box around half the size of a woman&#8217;s shoe box.
 
 &nbsp;
 
@@ -94,16 +86,16 @@ I recently acquired a 4TB My Book Live Duo from an<a href="http://raniel.net" ta
     <li>
       <ul>
         <li>
-          � � � Height� � � � 165 mm
+             Height    165 mm
         </li>
         <li>
-          � � � Depth� � � � 157 mm
+             Depth    157 mm
         </li>
         <li>
-          � � � Width� � � � 99.00 mm
+             Width    99.00 mm
         </li>
         <li>
-          � � � Weight� � � � 2.15 kg
+             Weight    2.15 kg
         </li>
       </ul>
     </li>
@@ -114,10 +106,10 @@ I recently acquired a 4TB My Book Live Duo from an<a href="http://raniel.net" ta
     <li>
       <ul>
         <li>
-          � � � Operating� � � � 5° C to 35° C
+             Operating    5° C to 35° C
         </li>
         <li>
-          � � � Non-operating� � � � -20° C to 65° C
+             Non-operating    -20° C to 65° C
         </li>
       </ul>
     </li>
@@ -128,10 +120,10 @@ I recently acquired a 4TB My Book Live Duo from an<a href="http://raniel.net" ta
     <li>
       <ul>
         <li>
-          � � � AC Input Voltage� � � � 100-240 VAC
+             AC Input Voltage    100-240 VAC
         </li>
         <li>
-          � � � AC Input Frequency� � � � 47-63 Hz
+             AC Input Frequency    47-63 Hz
         </li>
       </ul>
     </li>

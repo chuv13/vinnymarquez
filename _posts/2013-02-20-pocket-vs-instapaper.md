@@ -3,15 +3,8 @@ title: POCKET VS INSTAPAPER
 author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/02/20/pocket-vs-instapaper/
-#categories:
-#  - Personal
 category: blog
-tags:
-  - apps
-  - instapaper
-  - ios
-  - ipad
-  - pocket
+tags: apps instapaper ios ipad pocket
 ---
 <span class="dropcap1">F</span>or me, having stripped down versions of articles that I&#8217;ve read or want to read on the iPad is a big perk. So I tried out Pocket, Readbility and Instapaper.
 

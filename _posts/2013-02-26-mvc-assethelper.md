@@ -3,9 +3,8 @@ title: MVC ASSETHELPER
 author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/02/26/mvc-assethelper/
-#categories:
-#  - Personal
 category: blog
+tags: asp mvc code
 ---
 <span class="dropcap1">H</span>i guys! Welcome to my first ever post categorized as coding here in my blog so I will start with something small.� As I was developing this site, I encountered the problem of having the same header tags due to my use of a master template which leads to poor SEO (<a title="PinoyLancers" href="http://pinoylancers.com" target="_blank">As indicated by a friend</a>). Me being new to asp mvc tried to consult my loving friend Google who then forwarded to <a href="http://stackoverflow.com/questions/5110028/add-css-or-js-files-to-layout-head-from-views-or-partial-views/5148224#5148224" target="_blank">an article from another good friend mine where I usually find answers to my seemingly simple problems: StackOverflow</a>� (the guy who offered the solution also <a href="https://github.com/speier/mvcassetshelper" target="_blank">has this up on GitHub</a>). I was delighted to find this solution but then I figured I wanted to add my own touch to the code.
 

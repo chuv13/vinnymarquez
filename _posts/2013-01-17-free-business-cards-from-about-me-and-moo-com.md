@@ -6,9 +6,7 @@ permalink: /blog/2013/01/17/free-business-cards-from-about-me-and-moo-com/
 #categories:
 #  - Personal
 category: blog
-tags:
-  - business card
-  - identity
+tags: businesscard identity
 ---
 <span class="dropcap1">H</span>appy new year! After 17 days I finally had the time to write my maiden post for year 2013! Yay! not a good start. Lol. Anyway, I&#8217;m here to tell you about my new business cards from <a href="http://about.me/" target="_blank">About.me</a>� in collaboration with <a href="http://uk.moo.com/" target="_blank">Moo.com</a>.
 

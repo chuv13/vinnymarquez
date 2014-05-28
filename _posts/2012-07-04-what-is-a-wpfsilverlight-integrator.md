@@ -4,11 +4,7 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2012/07/04/what-is-a-wpfsilverlight-integrator/
 category: blog
-#categories:
-#  - Personal
-tags:
-  - silverlight
-  - technology
+tags: silverlight
 ---
 Most of the people I meet do not understand my job description very well. Either I get puzzled looks as I tell them my expertise or they ask me to explain the details about my skills. Sometimes, even after explaining it to them they tell me they don&#8217;t get me. Some of the people I&#8217;ve worked with before understand the need. I&#8217;ve been interviewed by a lot of companies who have no idea or worse; they think that we are not needed in a development team.
 

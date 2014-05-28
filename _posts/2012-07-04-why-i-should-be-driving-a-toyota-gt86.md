@@ -4,17 +4,14 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2012/07/04/why-i-should-be-driving-a-toyota-gt86/
 category: blog
-#categories:
-#  - Personal
-tags:
-  - cars
+tags: cars
 ---
 <div>
   <span>I would love to have the new Toyota GT86/Scion FR-S/Subaru BRZ! Why? Because I remember driving a go cart back in my college days. It was the most magical driving experience I&#8217;ve ever had (to date) and it was the time when me and Mawie first met. Yikeee! It was because the cart I had that day had tires with not so optimal grip and I experienced magical go-cart handling with real wheel drive. Man did I push that little engine as hard as I can. I finally understood the fundamental differences between an FF and a FR car. I got hooked. I wanted a full size FR car with go-kart like handling and start to learn real driving (Lol. A lot of people say that you don&#8217;t know how to drive unless you know how to drive an 86). I wanted a car that I can learn car maintenance, customization and other related skills like welding, painting and fabrication. For years I&#8217;ve been dreaming of having my own AE86&#8230; While drooling over enthusiast builds with all sorts of engine swaps and configurations (and watching all those Dori-kin vids) Toyota suddenly the announcement came: a new effort to revive their sports car lineup. I was called the FT86 (forumers also called it the Toyobaru). For more than a year I&#8217;ve been watching the forums churn out info on the then prototype, from paparazzi pics and videos of testing in Nur to fan speculation. Fast forward to 2012 they finally released the Toyota GT86 here in the Philippines. Yey! Im so happy! Except for the fact that I don&#8217;t have any money for it yet (Php 1.5M for the basic manual model) and only 40 are going to be released per year. Sigh.</span>
 </div>
 
 <div>
-  <span>� </span>
+  <span> </span>
 </div>
 
 <div>
@@ -22,7 +19,7 @@ tags:
 </div>
 
 <div>
-  <span>� </span>
+  <span> </span>
 </div>
 
 <div>
@@ -31,7 +28,7 @@ tags:
   </div>
   
   <div>
-    <span>� </span>
+    <span> </span>
   </div>
   
   <div>
@@ -39,7 +36,7 @@ tags:
   </div>
   
   <div>
-    <span>� </span>
+    <span> </span>
   </div>
   
   <div>
@@ -48,7 +45,7 @@ tags:
     </div>
     
     <div>
-      <span>� </span>
+      <span> </span>
     </div>
     
     <div>

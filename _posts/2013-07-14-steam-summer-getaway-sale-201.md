@@ -4,22 +4,17 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/07/14/steam-summer-getaway-sale-201/
 category: blog
-#categories:
-#  - Promos
-#  - Technology
-tags:
-  - Steam
-  - steampowered
+tags: steam steampowered
 ---
-The Steam Summer Getaway Sale 2013 is here!� Great discounts on games old and new alike from July 11-22.
+The Steam Summer Getaway Sale 2013 is here! Great discounts on games old and new alike from July 11-22.
 
 Some of the games on sale:
 
-**Tomb Raider** � - $49.99 -> $12.49 (75% discount)
+**Tomb Raider**  - $49.99 -> $12.49 (75% discount)
 
-**Tomb Raider: Survival Edition** � - $57.99 -> $14.49 (75% discount)
+**Tomb Raider: Survival Edition**  - $57.99 -> $14.49 (75% discount)
 
-**Tomb Raider Collection:** *(Includes 10 items:� Tomb Raider: Legend, Tomb Raider: Anniversary, Tomb Raider: Underworld, Tomb Raider, Tomb Raider I, Tomb Raider IV: The Last Revelation, Tomb Raider V: Chronicles, Tomb Raider VI: The Angel of Darkness, Tomb Raider II, Tomb Raider III) &#8211; $69.99 -> $17.49 (75% discount)*
+**Tomb Raider Collection:** *(Includes 10 items: Tomb Raider: Legend, Tomb Raider: Anniversary, Tomb Raider: Underworld, Tomb Raider, Tomb Raider I, Tomb Raider IV: The Last Revelation, Tomb Raider V: Chronicles, Tomb Raider VI: The Angel of Darkness, Tomb Raider II, Tomb Raider III) &#8211; $69.99 -> $17.49 (75% discount)*
 
 **RPG Make VX Ace** &#8211; $69.99 -> $23.79 (66% discount)
 
@@ -33,7 +28,7 @@ Some of the games on sale:
 
 **Hitman: Absolution &#8211; Professional Edition** &#8211; $29.99 -> $14.99 (50% discount)
 
-**Hitman Collection**� *(Includes 4 items:� Hitman 2: Silent Assassin, Hitman: Blood Money, Hitman: Codename 47, Hitman: Absolution™)*- $29.99 -> $14.99 (50% discount)
+**Hitman Collection** *(Includes 4 items: Hitman 2: Silent Assassin, Hitman: Blood Money, Hitman: Codename 47, Hitman: Absolution™)*- $29.99 -> $14.99 (50% discount)
 
 There are a lot more games on sale, I just listed some of the items that caught my eye. (Buying items also gives you a chance to earn Steam virtual cards so that you can craft badges, in this case the Summer Getaway badge.)
 

@@ -4,16 +4,9 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/09/24/dota-2-now-allows-lan-based-play-steamos-announced/
 category: blog
-#categories:
-#  - News
-#  - Technology
-tags:
-  - dota 2
-  - Steam
-  - steamos
-  - streampowered
+tags: dota2  steam steamos streampowered
 ---
-Finally! The latest <a href="http://www.dota2.com/firstblood" target="_blank">DoTA 2 update (First Blood)</a>� now features local (LAN based) play, and is available now for download.
+Finally! The latest <a href="http://www.dota2.com/firstblood" target="_blank">DoTA 2 update (First Blood)</a> now features local (LAN based) play, and is available now for download.
 
 <p style="text-align: center;">
   <a href="http://johnvinnymarquez.net/wp-content/uploads/2013/09/dota2.jpg"><img class="aligncenter  wp-image-945" alt="dota2" src="http://johnvinnymarquez.net/wp-content/uploads/2013/09/dota2.jpg" width="600" /></a>
@@ -58,7 +51,7 @@ For more information, view the <a href="http://www.dota2.com/firstblood" target=
 
 Now the only thing missing is Phoenix, my favourite hero. <img src="http://johnvinnymarquez.net/wp-includes/images/smilies/icon_sad.gif" alt=":(" class="wp-smiley" /> 
 
-Also, check out <a href="http://store.steampowered.com/livingroom/SteamOS/" target="_blank">SteamOS</a>,� (Linux based?) an operating system dedicated for steam! Its going to be available for download soon and its free forever!
+Also, check out <a href="http://store.steampowered.com/livingroom/SteamOS/" target="_blank">SteamOS</a>, (Linux based?) an operating system dedicated for steam! Its going to be available for download soon and its free forever!
 
 <p style="text-align: center;">
   <a href="http://johnvinnymarquez.net/wp-content/uploads/2013/09/Screen-Shot-2013-09-24-at-11.04.56-AM.png"><img class="aligncenter  wp-image-946" alt="" src="http://johnvinnymarquez.net/wp-content/uploads/2013/09/Screen-Shot-2013-09-24-at-11.04.56-AM-1024x693.png" width="600" /></a>

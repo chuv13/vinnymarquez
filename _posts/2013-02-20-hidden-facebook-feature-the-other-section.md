@@ -3,14 +3,8 @@ title: 'HIDDEN FACEBOOK FEATURE: THE &#8216;OTHER&#8217; SECTION'
 author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/02/20/hidden-facebook-feature-the-other-section/
-#categories:
-#  - Personal
 category: blog
-tags:
-  - dark screen patterns
-  - easter eggs
-  - facebook
-  - social
+tags: darkscreenpatterns eastereggs facebook social
 ---
 I just read about <a href="http://mashable.com/2013/02/19/hidden-facebook-feature-death/" target="_blank">an article on Mashable about a mother infuriated with the police for notyfing her through Facebook of her son&#8217;s death</a>. Aparently, there&#8217;s a feature in Facebook messages from people not connected to the user are placed in a folder called the &#8216;other&#8217; section. For messages to be &#8216;sure&#8217; to appear on the inbox, <a href="http://www.dailydot.com/news/facebook-1-dollar-private-inbox-messages/" target="_blank">the sender will have to pay $1</a>. This section looks like a grayed out tab next to the inbox label.
 

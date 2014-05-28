@@ -3,13 +3,8 @@ title: APPSHOPPER
 author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2012/07/23/appshopper/
-#categories:
-#  - Personal
 category: blog
-tags:
-  - app review
-  - ios
-  - ipad
+tags: app reviews ios ipad
 ---
 Are you one of those people who love discounts? Or are you an apple user who is reluctant buyer when it comes to iOS applications? Well, I think I have the app just for you! Introducing the <a title="AppShopper" href="http://itunes.apple.com/us/app/appshopper/id387037496?mt=8" target="_blank">AppShopper</a> for the iPad! Lol, did you just read that using the &#8216;infomercial&#8217; tone?
 

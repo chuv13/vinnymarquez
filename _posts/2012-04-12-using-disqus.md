@@ -4,19 +4,11 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2012/04/12/using-disqus/
 category: blog
-#categories:
-#  - Personal
-tags:
-  - asp
-  - code
-  - dotnet
-  - mvc 3
-  - software development
-  - technology
+tags: asp code dotnet mvc3
 ---
 Good day! It&#8217;s a hot sunday here in the Philippines!
 
-So onto business. I built this site from scratch and one of the most annoying features that I had to do was the comments section. Logically its supposed to be easy but since everything is social nowadays I had a difficult time to get it up to speed (not to mention the fact that readers find it hard to comment using my implementation&#8230; that or my blog posts are just too boring. Lolz). So I finally caved in and used� [Disqus][1]� (thanks to realizing it through Pipeburn, one my daily reads about custom bikes and ofcourse the early prodding of� [Chardingkles][2]).
+So onto business. I built this site from scratch and one of the most annoying features that I had to do was the comments section. Logically its supposed to be easy but since everything is social nowadays I had a difficult time to get it up to speed (not to mention the fact that readers find it hard to comment using my implementation&#8230; that or my blog posts are just too boring. Lolz). So I finally caved in and used [Disqus][1] (thanks to realizing it through Pipeburn, one my daily reads about custom bikes and ofcourse the early prodding of [Chardingkles][2]).
 
 So without further adieu, here&#8217;s a walkthrough of the modifications I made to this site.
 

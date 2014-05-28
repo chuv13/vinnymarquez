@@ -4,14 +4,7 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2012/07/03/custom-silverlight-controls-stylishbutton/
 category: blog
-#categories:
-#  - Personal
-tags:
-  - code
-  - csharp
-  - dotnet
-  - silverlight
-  - silverlight con Trolls
+tags: code csharp dotnet silverlight customcontrols
 ---
 Ah the stylish button. As [stated in my post yesterday][1], this will serve as a primer on how I do styling in Silverlight.
 

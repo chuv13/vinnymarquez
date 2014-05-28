@@ -4,17 +4,9 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2012/04/14/fun-with-knockout-js-intro-to-ko/
 category: blog
-#categories:
-#  - Personal
-tags:
-  - asp
-  - code
-  - dotnet
-  - knockout.js
-  - mvc 3
-  - software development
+tags: asp code dotnet knockoutjs mvc3
 ---
-Finally!� <a title="MVVM" href="http://en.wikipedia.org/wiki/Model_View_ViewModel" target="_blank">MVVM</a>� implemented using JavaScript for the web! The pattern I fell in love with in WPF/Silverlight is now made available to the web via� [Knockout.js][1]! After trying out code on the tutorials, I wanted to try using it on top of ASP MVC (If you do not have prior experience to MVVM read this� [article][2]). � So first off, knockout basics.
+Finally! <a title="MVVM" href="http://en.wikipedia.org/wiki/Model_View_ViewModel" target="_blank">MVVM</a> implemented using JavaScript for the web! The pattern I fell in love with in WPF/Silverlight is now made available to the web via [Knockout.js][1]! After trying out code on the tutorials, I wanted to try using it on top of ASP MVC (If you do not have prior experience to MVVM read this [article][2]).  So first off, knockout basics.
 
 **Creating a ViewModel**
 
@@ -25,7 +17,7 @@ Finally!� <a title="MVVM" href="http://en.wikipedia.org/wiki/Model_View_ViewMo
 
 ko.applyBindings(new SampleViewModel());</pre>
 
-The code above basically creates a VM named SampleViewModel with 2 &#8220;observable&#8221; properties (the magic that makes the 2 properties observable is the� *ko.observable()*� method), which is then bound to the view via the code� *ko.applyBindings(new SampleViewModel());*
+The code above basically creates a VM named SampleViewModel with 2 &#8220;observable&#8221; properties (the magic that makes the 2 properties observable is the *ko.observable()* method), which is then bound to the view via the code *ko.applyBindings(new SampleViewModel());*
 
 **DataBinding**
 
@@ -55,7 +47,7 @@ function SampleViewModel() {
 
 This one shows how to bind to the click event.
 
-Easy enough right? To learn more about KO features head to� [http://learn.knockoutjs.com][3]!� Watch out for part 2 of Fun with Knockout.js where I&#8217;ll tackle using KO with ASP MVC 3. I&#8217;ll start writing after cleaning and taking care of the dogs. lol.
+Easy enough right? To learn more about KO features head to [http://learn.knockoutjs.com][3]! Watch out for part 2 of Fun with Knockout.js where I&#8217;ll tackle using KO with ASP MVC 3. I&#8217;ll start writing after cleaning and taking care of the dogs. lol.
 
  [1]: http://knockoutjs.com/ "Knockout.js"
  [2]: http://msdn.microsoft.com/en-us/magazine/dd419663.aspx "article"

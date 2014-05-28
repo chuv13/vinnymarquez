@@ -7,7 +7,7 @@ category: blog
 tags: progressive metal
 ---
 <div>
-  Ah, time flies by so fast its already been two weeks since <a href="http://johnvinnymarquez.net/music/2013/4/10/interview-fidel-de-jesus" target="_self">my first interview</a>. For this session I&#8217;ve gone and interviewed a bassist. His name is� <a href="https://www.facebook.com/misternobody.en" target="_blank">Roger Alcantara</a>� AKA� <a href="https://www.facebook.com/misternobody.en" target="_blank">Mister Nobody</a>.� Bassist for Ebe Dancel, Eternal Now, Wickermoss and Barbie Almabis [sessions].
+  Ah, time flies by so fast its already been two weeks since <a href="http://johnvinnymarquez.net/music/2013/4/10/interview-fidel-de-jesus" target="_self">my first interview</a>. For this session I&#8217;ve gone and interviewed a bassist. His name is <a href="https://www.facebook.com/misternobody.en" target="_blank">Roger Alcantara</a> AKA <a href="https://www.facebook.com/misternobody.en" target="_blank">Mister Nobody</a>. Bassist for Ebe Dancel, Eternal Now, Wickermoss and Barbie Almabis [sessions].
 </div>
 
 <div>
@@ -34,7 +34,7 @@ tags: progressive metal
     </div>
     
     <div>
-      <strong>RA:</strong> I&#8217;m a very shy guy. hahahaha Especially towards people I meet for the first time. But after I warm up to you, medyo kalog <em>[tn:� a little crazy]</em>� and alaskador� <i>[translation: someone who teases a person, sometimes in a very very annoying way. lol]� </i>na. I&#8217;m brutally honest though. I don&#8217;t give a rats fig if you get offended&#8230; especially if what I&#8217;m saying is true. That&#8217;s just how I am&#8230; that&#8217;s why I get into trouble sometimes. But people who know me well enough accept that little quirk of mine, so I guess all is well.
+      <strong>RA:</strong> I&#8217;m a very shy guy. hahahaha Especially towards people I meet for the first time. But after I warm up to you, medyo kalog <em>[tn: a little crazy]</em> and alaskador <i>[translation: someone who teases a person, sometimes in a very very annoying way. lol] </i>na. I&#8217;m brutally honest though. I don&#8217;t give a rats fig if you get offended&#8230; especially if what I&#8217;m saying is true. That&#8217;s just how I am&#8230; that&#8217;s why I get into trouble sometimes. But people who know me well enough accept that little quirk of mine, so I guess all is well.
     </div>
     
     <p>
@@ -57,7 +57,7 @@ tags: progressive metal
     </div>
     
     <div>
-      <strong>R:</strong> My bass teachers were Louis Ochoa and also The Beatles. They were the ones who turned me on to the bass, kaya sila talaga ang pinaka-malapit sa puso ko at mga tinuturing ko na mga main influences ko. Pero sa soundtrip&#8230; sobrang dami. The first albums i bought were The Rembrandts and Anthrax. hahahahaha sobrang layo pero ganun talaga kalawak trip ko nun.� Trip na trip ko rin noon ang Pantera, Metallica, Suicidal Tendencies, Sepultura, Black Sabbath&#8230; tapos sa other end ng spectrum naman: Bryan Adams, Phil Collins, Gin Blossoms, Counting Crows, Sting, Duran Duran, etc etc etc.
+      <strong>R:</strong> My bass teachers were Louis Ochoa and also The Beatles. They were the ones who turned me on to the bass, kaya sila talaga ang pinaka-malapit sa puso ko at mga tinuturing ko na mga main influences ko. Pero sa soundtrip&#8230; sobrang dami. The first albums i bought were The Rembrandts and Anthrax. hahahahaha sobrang layo pero ganun talaga kalawak trip ko nun. Trip na trip ko rin noon ang Pantera, Metallica, Suicidal Tendencies, Sepultura, Black Sabbath&#8230; tapos sa other end ng spectrum naman: Bryan Adams, Phil Collins, Gin Blossoms, Counting Crows, Sting, Duran Duran, etc etc etc.
     </div>
     
     <p>
@@ -66,7 +66,7 @@ tags: progressive metal
     
     <blockquote>
       <div>
-        <i>(tn: My bass teachers were Louis Ochoa and also The Beatles. They were the ones who turned me on to the bass, that why they&#8217;re the ones who are the closes to my heart so naturally I treat them as my main influences. But for the ones I listen to…� there are so many. The first albums I bought were The Rembrandts and Anthrax. hahahahaha too distant in terms of genre but thats how broad my taste was back then. I was really into Pantera, Metallica, Suicidal Tendencies, Sepultura, Black Sabbath back then…� and at the other end of the spectrum: Bryan Adams, Phil Collins, Gin Blossoms, Counting Crows, Sting, Duran Duran, etc etc etc.)</i>
+        <i>(tn: My bass teachers were Louis Ochoa and also The Beatles. They were the ones who turned me on to the bass, that why they&#8217;re the ones who are the closes to my heart so naturally I treat them as my main influences. But for the ones I listen to… there are so many. The first albums I bought were The Rembrandts and Anthrax. hahahahaha too distant in terms of genre but thats how broad my taste was back then. I was really into Pantera, Metallica, Suicidal Tendencies, Sepultura, Black Sabbath back then… and at the other end of the spectrum: Bryan Adams, Phil Collins, Gin Blossoms, Counting Crows, Sting, Duran Duran, etc etc etc.)</i>
       </div>
     </blockquote>
     
@@ -75,7 +75,7 @@ tags: progressive metal
     </p>
     
     <div>
-      Later on na ako talaga nagsimulang mag research ng mga bassists. Sina Jaco Pastorius, Pino Palladino, Lee Sklar, Michael Manring, tapos na-discover ko na sina Les Claypool, Geddy Lee, and Tony Levin &#8212; nagsimula na ako ma-hook sa prog around this time without me knowing that it was called prog. Trip na trip ko lang yung mga explorations nila ng ideas. Around this time ko rin na-meet sina Pepe and the rest of� Eternal Now.
+      Later on na ako talaga nagsimulang mag research ng mga bassists. Sina Jaco Pastorius, Pino Palladino, Lee Sklar, Michael Manring, tapos na-discover ko na sina Les Claypool, Geddy Lee, and Tony Levin &#8212; nagsimula na ako ma-hook sa prog around this time without me knowing that it was called prog. Trip na trip ko lang yung mga explorations nila ng ideas. Around this time ko rin na-meet sina Pepe and the rest of Eternal Now.
     </div>
     
     <p>
@@ -102,7 +102,7 @@ tags: progressive metal
     
     <blockquote>
       <div>
-        <i>(tn: For the local scene, my favorite is Barbie&#8217;s Cradle. Rommel dela Cruz is o</i><i>ne of my major influences</i><i>� and he continues to inspire me to this day. Maybe around 70% of the things I do/the stuff that I create is inspired by Rommel&#8217;s lines and ideas. Whenever I write bass lines for songs I would always be in a &#8220;What would Rommel do?&#8221; mode. He&#8217;s just so good at creating stories with the bass. Another one is Karel Honasan. The way he&#8217;s being so adventurous with the bass is so inspiring. I can&#8217;t� actually do the things he does with the bass hahaha but I&#8217;m so inspired with his drive to take it to a different level.� That takes a lot of courage…� so infectious and inspiring. I learned a lot from him. But really, the most important thing is that he&#8217;s just so nice and humble. In the end, thats what counts. Nothing&#8217;s more awesome than finding out that the heroes you look up to are such magnificent human beings. You&#8217;ll be more inspired.)</i>
+        <i>(tn: For the local scene, my favorite is Barbie&#8217;s Cradle. Rommel dela Cruz is o</i><i>ne of my major influences</i><i> and he continues to inspire me to this day. Maybe around 70% of the things I do/the stuff that I create is inspired by Rommel&#8217;s lines and ideas. Whenever I write bass lines for songs I would always be in a &#8220;What would Rommel do?&#8221; mode. He&#8217;s just so good at creating stories with the bass. Another one is Karel Honasan. The way he&#8217;s being so adventurous with the bass is so inspiring. I can&#8217;t actually do the things he does with the bass hahaha but I&#8217;m so inspired with his drive to take it to a different level. That takes a lot of courage… so infectious and inspiring. I learned a lot from him. But really, the most important thing is that he&#8217;s just so nice and humble. In the end, thats what counts. Nothing&#8217;s more awesome than finding out that the heroes you look up to are such magnificent human beings. You&#8217;ll be more inspired.)</i>
       </div>
     </blockquote>
     
@@ -124,7 +124,7 @@ tags: progressive metal
     
     <blockquote>
       <div>
-        [<i>tn:� I don't remember. hahahaha I think I wanted to become a drummer --- but a drum kit is so expensive. I don't remember why I decided to become a bassist. When we formed a band back in highschool, I just� becomes� the bassist. We were a Beatles cover band (who also covered Green Day, Black Sabbath, at Lionel Ritchie…� so weird hahahahaha)</i>]
+        [<i>tn: I don't remember. hahahaha I think I wanted to become a drummer --- but a drum kit is so expensive. I don't remember why I decided to become a bassist. When we formed a band back in highschool, I just becomes the bassist. We were a Beatles cover band (who also covered Green Day, Black Sabbath, at Lionel Ritchie… so weird hahahahaha)</i>]
       </div>
     </blockquote>
     
@@ -136,7 +136,7 @@ tags: progressive metal
     </div>
     
     <div>
-      A G&L L2000 &#8230;the bass is now with Nathan Azarcon &#8212; I sold it to buy my wife&#8217;s engagement ring.� <i>[Me: Awwwww. Sweet. Lol, I was there when he proposed at Mag:net!]</i>
+      A G&L L2000 &#8230;the bass is now with Nathan Azarcon &#8212; I sold it to buy my wife&#8217;s engagement ring. <i>[Me: Awwwww. Sweet. Lol, I was there when he proposed at Mag:net!]</i>
     </div>
     
     <p>
@@ -148,7 +148,7 @@ tags: progressive metal
     </div>
     
     <div>
-      <b>R:</b>� hmmmmm I&#8217;m not very picky. Parehong mismo para sakin <em>[tn: both are great for me]</em>.
+      <b>R:</b> hmmmmm I&#8217;m not very picky. Parehong mismo para sakin <em>[tn: both are great for me]</em>.
     </div>
     
     <p>
@@ -160,7 +160,7 @@ tags: progressive metal
     </div>
     
     <div>
-      <b>R:</b>� Right now &#8212; my DLC Signature Fretless 5 (master built by Jon dela Cruz of the Guitar 1 Custom Shop) and my Hofner Beatle Bass. The DLC Fretless is a dream to play. Mag isang kumakanta yung bass na yun. Kung kaya ko nga lang mag fretless na lang exclusively, yun na magiging main bass ko eh. hehehehe Yung Hofner Beatle Bass naman, medyo may connection kasi sa kabataan ko. I&#8217;m a huuuuuge Beatlemaniac. Iba pa rin talaga yung dating sakin nung vintage woofy thump nung Hofner. Masaya lang ako na nasa stable ko na yung dream bass ko.
+      <b>R:</b> Right now &#8212; my DLC Signature Fretless 5 (master built by Jon dela Cruz of the Guitar 1 Custom Shop) and my Hofner Beatle Bass. The DLC Fretless is a dream to play. Mag isang kumakanta yung bass na yun. Kung kaya ko nga lang mag fretless na lang exclusively, yun na magiging main bass ko eh. hehehehe Yung Hofner Beatle Bass naman, medyo may connection kasi sa kabataan ko. I&#8217;m a huuuuuge Beatlemaniac. Iba pa rin talaga yung dating sakin nung vintage woofy thump nung Hofner. Masaya lang ako na nasa stable ko na yung dream bass ko.
     </div>
     
     <p>
@@ -191,7 +191,7 @@ tags: progressive metal
     
     <blockquote>
       <div>
-        <i>[tn: For versatility --- I think the G&L L2000. You won't be wanting anything more with that bass. All the tones you can imagine you can have with it. I hope someday I can own one again…� maybe it's complete my arsenal] [<b>me:</b>� can we really complete our gear and not experience a GAS attack again? Hehe]</i>
+        <i>[tn: For versatility --- I think the G&L L2000. You won't be wanting anything more with that bass. All the tones you can imagine you can have with it. I hope someday I can own one again… maybe it's complete my arsenal] [<b>me:</b> can we really complete our gear and not experience a GAS attack again? Hehe]</i>
       </div>
     </blockquote>
     
@@ -204,7 +204,7 @@ tags: progressive metal
     </div>
     
     <div>
-      <b>R:� </b>Plug and play ako eh. So siguro kung kailangan talagang may pedal sa floor &#8212; yung TC Electronic Polytune ko. hahahahaha
+      <b>R: </b>Plug and play ako eh. So siguro kung kailangan talagang may pedal sa floor &#8212; yung TC Electronic Polytune ko. hahahahaha
     </div>
     
     <p>
@@ -213,7 +213,7 @@ tags: progressive metal
     
     <blockquote>
       <div>
-        <i>[tn:� I'm a plug and play kind of guy. So I think if I'm ever going to need a pedal --- it would be my TC Electronic Polytune. hahahahaha]</i>
+        <i>[tn: I'm a plug and play kind of guy. So I think if I'm ever going to need a pedal --- it would be my TC Electronic Polytune. hahahahaha]</i>
       </div>
     </blockquote>
     
@@ -226,7 +226,7 @@ tags: progressive metal
     </div>
     
     <div>
-      <b>R:</b>� Plug and play na talaga ako ever since. So ako lagi una natatapos mag setup. hahahahaha I just need my bass, strap, tuner, and cable &#8230;I&#8217;m good to go. Usually yun lang makikita mo sa stage pag tumotogs ako. Ay pati pala yung MONO Vertigo/M80 na nakasandal sa amp. hehehehe
+      <b>R:</b> Plug and play na talaga ako ever since. So ako lagi una natatapos mag setup. hahahahaha I just need my bass, strap, tuner, and cable &#8230;I&#8217;m good to go. Usually yun lang makikita mo sa stage pag tumotogs ako. Ay pati pala yung MONO Vertigo/M80 na nakasandal sa amp. hehehehe
     </div>
     
     <p>
@@ -235,7 +235,7 @@ tags: progressive metal
     
     <blockquote>
       <div>
-        <i>[tn:� Plug and play na talaga ako ever since. So ako lagi una natatapos mag setup. hahahahaha I just need my bass, strap, tuner, and cable ...I'm good to go. Usually yun lang makikita mo sa stage pag tumotogs ako. Ay pati pala yung MONO Vertigo/M80 na nakasandal sa amp. hehehehe]</i>
+        <i>[tn: Plug and play na talaga ako ever since. So ako lagi una natatapos mag setup. hahahahaha I just need my bass, strap, tuner, and cable ...I'm good to go. Usually yun lang makikita mo sa stage pag tumotogs ako. Ay pati pala yung MONO Vertigo/M80 na nakasandal sa amp. hehehehe]</i>
       </div>
     </blockquote>
     
@@ -248,7 +248,7 @@ tags: progressive metal
     </div>
     
     <div>
-      <b>R:</b>� I usually bring an active bass sa recording sessions since most of the time, direct to board na rin naman (unless specifically requested ng producer/artist na gumamit ng passive bass). Para lang rin cleaner yung signal, tsaka may konting tone shaping options ako sa bass. When recording demos at home naman, I just use my iPad. Suki ako ng Amplitube.
+      <b>R:</b> I usually bring an active bass sa recording sessions since most of the time, direct to board na rin naman (unless specifically requested ng producer/artist na gumamit ng passive bass). Para lang rin cleaner yung signal, tsaka may konting tone shaping options ako sa bass. When recording demos at home naman, I just use my iPad. Suki ako ng Amplitube.
     </div>
     
     <p>
@@ -257,7 +257,7 @@ tags: progressive metal
     
     <blockquote>
       <div>
-        <i>[tn: I usually bring an active bass on recording sessions since most of the time, also direct to board (unless the� producer/artist� specifically requests that I use a passive bass). Its just so that I'll have a cleaner signal and I can have more tone shaping options. When recording demos at home though, I just use my iPad. I'm an avid Amplitube user.]</i>
+        <i>[tn: I usually bring an active bass on recording sessions since most of the time, also direct to board (unless the producer/artist specifically requests that I use a passive bass). Its just so that I'll have a cleaner signal and I can have more tone shaping options. When recording demos at home though, I just use my iPad. I'm an avid Amplitube user.]</i>
       </div>
     </blockquote>
     
@@ -292,7 +292,7 @@ tags: progressive metal
     </div>
     
     <div>
-      <b>R:</b>� It was definitely harder back then. Hindi lang dahil walang internet &#8212; mahirap kumapa ng kanta sa tape player na na-magnetize na yung head. hahahahaha Yung tipong biglang bumabagal or nagiging muddy yung track kasi pangit na yung head. hahahaha Tapos gasgas na gasgas na yung track kaka-rewind mo.
+      <b>R:</b> It was definitely harder back then. Hindi lang dahil walang internet &#8212; mahirap kumapa ng kanta sa tape player na na-magnetize na yung head. hahahahaha Yung tipong biglang bumabagal or nagiging muddy yung track kasi pangit na yung head. hahahaha Tapos gasgas na gasgas na yung track kaka-rewind mo.
     </div>
     
     <p>
@@ -301,7 +301,7 @@ tags: progressive metal
     
     <blockquote>
       <div>
-        <i>[tn: It was definitely harder back then. Not only because we didn't have the internet --- it was so difficult to study the songs using the tape player that had an already magnetized head.� hahahahaha. Sometimes a songs suddenly becomes slower or muddier because of the already defective head. hahahaha. To make matters worse, the tape is already worn out because of all those times you rewound it.]</i>
+        <i>[tn: It was definitely harder back then. Not only because we didn't have the internet --- it was so difficult to study the songs using the tape player that had an already magnetized head. hahahahaha. Sometimes a songs suddenly becomes slower or muddier because of the already defective head. hahahaha. To make matters worse, the tape is already worn out because of all those times you rewound it.]</i>
       </div>
     </blockquote>
     
@@ -310,7 +310,7 @@ tags: progressive metal
     </p>
     
     <div>
-      <b>R:</b>� Besides that fact, for me pareho lang naman. I was never fond of using tabs to learn songs. Old school kapa talaga ako &#8212; tinetenga ika nga. Nakatulong din to sa development ko siguro as a bassist. Last resort ko na talaga yung tabs pag talagang naipit na ako sa isang part. So di ko rin talaga ramdam yung &#8220;advantage&#8221; ng internet nowadays kasi kung tipong may internet na nung panahon ko, di pa rin siguro ako maghahanap ng tabs or youtube vids. Tamang malamig na sahig na pwedeng upuan, cheese curls, at mainit na kape para sa puyatang kapaan sessions lang kailangan ko &#8212; tsaka tape player na may maayos na head. hahahahaha
+      <b>R:</b> Besides that fact, for me pareho lang naman. I was never fond of using tabs to learn songs. Old school kapa talaga ako &#8212; tinetenga ika nga. Nakatulong din to sa development ko siguro as a bassist. Last resort ko na talaga yung tabs pag talagang naipit na ako sa isang part. So di ko rin talaga ramdam yung &#8220;advantage&#8221; ng internet nowadays kasi kung tipong may internet na nung panahon ko, di pa rin siguro ako maghahanap ng tabs or youtube vids. Tamang malamig na sahig na pwedeng upuan, cheese curls, at mainit na kape para sa puyatang kapaan sessions lang kailangan ko &#8212; tsaka tape player na may maayos na head. hahahahaha
     </div>
     
     <p>
@@ -328,7 +328,7 @@ tags: progressive metal
     </p>
     
     <div>
-      <b>R:</b>� Having said that, yeah maswerte rin talaga ngayon kasi andyan lang ang internet&#8230; andyan lang ang youtube. Ang daming tools for learning. Kaya rin medyo pet peeve ko yung gusto spoon feeding&#8230; yung gusto ituro talaga note for note. Andyan na mga tools &#8212; konting search lang sa Google ang kailangan.� Kung gugustuhin nga talaga, kaya mo matuto mag bass from scratch using the materials available online. May mga online courses na rin na ino-offer. Ang galing rin talaga ng technology.
+      <b>R:</b> Having said that, yeah maswerte rin talaga ngayon kasi andyan lang ang internet&#8230; andyan lang ang youtube. Ang daming tools for learning. Kaya rin medyo pet peeve ko yung gusto spoon feeding&#8230; yung gusto ituro talaga note for note. Andyan na mga tools &#8212; konting search lang sa Google ang kailangan. Kung gugustuhin nga talaga, kaya mo matuto mag bass from scratch using the materials available online. May mga online courses na rin na ino-offer. Ang galing rin talaga ng technology.
     </div>
     
     <p>
@@ -337,7 +337,7 @@ tags: progressive metal
     
     <blockquote>
       <div>
-        <i>[tn: Having said that, yeah I think people today are lucky because of the internet…� Youtube's just there. There are so many tools for learning. Thats why spoon feeding is sort of a pet peeve for me…� when I want to really teach note for note. The tools are just there --- you can just google it. If one really wants to, you can learn bass from scratch using the materials available online. There are also� courses offered online. Technology is really awesome.]</i>
+        <i>[tn: Having said that, yeah I think people today are lucky because of the internet… Youtube's just there. There are so many tools for learning. Thats why spoon feeding is sort of a pet peeve for me… when I want to really teach note for note. The tools are just there --- you can just google it. If one really wants to, you can learn bass from scratch using the materials available online. There are also courses offered online. Technology is really awesome.]</i>
       </div>
     </blockquote>
     
@@ -350,7 +350,7 @@ tags: progressive metal
     </div>
     
     <div>
-      <b>R:</b>� I&#8217;ve discovered loads and loads of new music online. And I can finally purchase albums na matagal ko na talagang hinahanap via iTunes or online stores. Dahil rin sa YouTube, napapanood ko na sa wakas yung mga bass heroes ko na sa pictures sa magazines ko lang dati nakikita. Pag sinwerte pa, pwede mo sila maka-interact via social media. It&#8217;s almost surreal. Technology has definitely changed my musical life. Personally ang pinaka-importante talagang change para sa akin yung connectivity. Parang ang liit liit na ng mundo. Mas lalong dumami ang pwede mo paghugutan ng bagong kaalaman o inspiration.
+      <b>R:</b> I&#8217;ve discovered loads and loads of new music online. And I can finally purchase albums na matagal ko na talagang hinahanap via iTunes or online stores. Dahil rin sa YouTube, napapanood ko na sa wakas yung mga bass heroes ko na sa pictures sa magazines ko lang dati nakikita. Pag sinwerte pa, pwede mo sila maka-interact via social media. It&#8217;s almost surreal. Technology has definitely changed my musical life. Personally ang pinaka-importante talagang change para sa akin yung connectivity. Parang ang liit liit na ng mundo. Mas lalong dumami ang pwede mo paghugutan ng bagong kaalaman o inspiration.
     </div>
     
     <p>
@@ -359,7 +359,7 @@ tags: progressive metal
     
     <blockquote>
       <div>
-        <i>[tn: I've discovered loads and loads of new music online. And I can finally purchase albums that I've been wanting to have for so long via iTunes or other online stores. Also, because of YouTube, I've been able to watch my bass heroes whom I used to only see on pictures � magazines. And when you're lucky, you can actually interact with them via social media. It's almost surreal. Technology has definitely changed my musical life. Personally the most significant change is connectivity. Now it feels the world is really small. There are more sources available for knowledge and inspiration.]</i>
+        <i>[tn: I've discovered loads and loads of new music online. And I can finally purchase albums that I've been wanting to have for so long via iTunes or other online stores. Also, because of YouTube, I've been able to watch my bass heroes whom I used to only see on pictures  magazines. And when you're lucky, you can actually interact with them via social media. It's almost surreal. Technology has definitely changed my musical life. Personally the most significant change is connectivity. Now it feels the world is really small. There are more sources available for knowledge and inspiration.]</i>
       </div>
     </blockquote>
     
@@ -381,7 +381,7 @@ tags: progressive metal
     </blockquote>
     
     <div>
-      <b>� </b>
+      <b> </b>
     </div>
     
     <div>
@@ -389,7 +389,7 @@ tags: progressive metal
     </div>
     
     <div>
-      <b>R:</b>� Last year may ginawa akong simple project called &#8220;Bedroom Collabs&#8221; &#8212; Bale naghahanap ako ng mga songwriters online tapos nakikipag-collab ako sa kanila. Ang dami kong nadiskubre na sobrang galing na manunulat ng musika. It was my simple way of helping them to get their work out so people could hear their wonderful tunes. It wouldn&#8217;t have been possible without social media.
+      <b>R:</b> Last year may ginawa akong simple project called &#8220;Bedroom Collabs&#8221; &#8212; Bale naghahanap ako ng mga songwriters online tapos nakikipag-collab ako sa kanila. Ang dami kong nadiskubre na sobrang galing na manunulat ng musika. It was my simple way of helping them to get their work out so people could hear their wonderful tunes. It wouldn&#8217;t have been possible without social media.
     </div>
     
     <p>
@@ -429,7 +429,7 @@ tags: progressive metal
     </div>
     
     <div>
-      <b>R:</b>� Lagi ako excited para sa music. Maaaring di ko trip yung mga ibang lumalabas, pero palagi ako excited sa kung ano pang maaaring lumabas. I guess that&#8217;s how it is when you are really passionate about something. Maaaring pabago bago ang trend, pero parati namang may lumalabas na makakapag-pasayaw sayo&#8230; makakapag-paiyak. Baka nga yung next John Mayer asa banyo ngayon at hinuhugasan pa yung pwet ng yaya niya. O yung susunod na Jaco, nangangamote pa sa multiplication ngayon. hahahahaha I guess what I&#8217;m trying to say is&#8230; Music is forever. Basta&#8217;t may kumakanta at nakikinig, the future will always be awesome.
+      <b>R:</b> Lagi ako excited para sa music. Maaaring di ko trip yung mga ibang lumalabas, pero palagi ako excited sa kung ano pang maaaring lumabas. I guess that&#8217;s how it is when you are really passionate about something. Maaaring pabago bago ang trend, pero parati namang may lumalabas na makakapag-pasayaw sayo&#8230; makakapag-paiyak. Baka nga yung next John Mayer asa banyo ngayon at hinuhugasan pa yung pwet ng yaya niya. O yung susunod na Jaco, nangangamote pa sa multiplication ngayon. hahahahaha I guess what I&#8217;m trying to say is&#8230; Music is forever. Basta&#8217;t may kumakanta at nakikinig, the future will always be awesome.
     </div>
     
     <p>
@@ -438,7 +438,7 @@ tags: progressive metal
     
     <blockquote>
       <div>
-        <i>[tn: I'm always excited for music. I may be so that I don't like some of the new releases, but I'm always excited with the stuff that could possibly be released. I guess that's how it is when you are really passionate about something. Maybe trends are always changing, but there will always be songs that will come and make you dance…� make you cry. Maybe the next John Mayer is still inside the bathroom today, his bum still being washed by his nanny. Or maybe the next Jaco, currently struggling with his multiplication. hahahahaha I guess what I'm trying to say is... Music is forever. As long as someone is still singing and listening, the future will always be awesome.]</i>
+        <i>[tn: I'm always excited for music. I may be so that I don't like some of the new releases, but I'm always excited with the stuff that could possibly be released. I guess that's how it is when you are really passionate about something. Maybe trends are always changing, but there will always be songs that will come and make you dance… make you cry. Maybe the next John Mayer is still inside the bathroom today, his bum still being washed by his nanny. Or maybe the next Jaco, currently struggling with his multiplication. hahahahaha I guess what I'm trying to say is... Music is forever. As long as someone is still singing and listening, the future will always be awesome.]</i>
       </div>
     </blockquote>
     
@@ -451,7 +451,7 @@ tags: progressive metal
     </div>
     
     <div>
-      <b>R:</b>� It&#8217;s alive and well. Ang daming magaling na manunulat at musiko ngayon. Don&#8217;t listen to naysayers who rely on stats, sales, etc. Music goes beyond those superficial things. The business side is just one part of it&#8230; the other side is more important and more relevant &#8212; the art. Basta may tumutugtog at may nakikinag, manantiling buhay ang musika. Pero syempre we have to do our part din to help keep it alive. Buy albums. Go to gigs. Ang sarap makinig at tumugtog ng musika. Heto na ata ang pinaka-mismong bisyo.
+      <b>R:</b> It&#8217;s alive and well. Ang daming magaling na manunulat at musiko ngayon. Don&#8217;t listen to naysayers who rely on stats, sales, etc. Music goes beyond those superficial things. The business side is just one part of it&#8230; the other side is more important and more relevant &#8212; the art. Basta may tumutugtog at may nakikinag, manantiling buhay ang musika. Pero syempre we have to do our part din to help keep it alive. Buy albums. Go to gigs. Ang sarap makinig at tumugtog ng musika. Heto na ata ang pinaka-mismong bisyo.
     </div>
     
     <p>
@@ -460,7 +460,7 @@ tags: progressive metal
     
     <blockquote>
       <div>
-        <i>[tn: It's alive and well. There are a lot of great writers and musicians here today. Don't listen to nay ayers who rely on stats, sales, etc. Music goes beyond those superficial things. The business side is just one part of it... the other side is more important and more relevant --- the art. As long as there are people who play and listen, music will remain alive. But� of course� we also have to do our part to keep it alive.<b>� Buy albums.</b>� Go to gigs. Its so nice to play and to listen to music. I think this is the� coolest� vice ever.]</i>
+        <i>[tn: It's alive and well. There are a lot of great writers and musicians here today. Don't listen to nay ayers who rely on stats, sales, etc. Music goes beyond those superficial things. The business side is just one part of it... the other side is more important and more relevant --- the art. As long as there are people who play and listen, music will remain alive. But of course we also have to do our part to keep it alive.<b> Buy albums.</b> Go to gigs. Its so nice to play and to listen to music. I think this is the coolest vice ever.]</i>
       </div>
     </blockquote>
     
@@ -481,7 +481,7 @@ tags: progressive metal
     </div>
     
     <div>
-      <b>R:</b>� Nakuha ko na actually &#8212; yung DLC Fretless ko. Traditional designs ang gusto ko eh so I&#8217;m not very hard to please. Usually mga jazz/precision bass type bodies. I&#8217;m also not fond of exotic tops&#8230; tamang alder or ash lang na body oks na ako. Sa finish&#8230; dun medyo maarte ako. hahahahah Malamang Antigua ulit or Tobacco Burst. Electronics naman passive lang rin. Medyo boring eh no? heheheheh pero heto na kasi nakasanayan ko so yun mga pinaka-comfy ako tugtugin.
+      <b>R:</b> Nakuha ko na actually &#8212; yung DLC Fretless ko. Traditional designs ang gusto ko eh so I&#8217;m not very hard to please. Usually mga jazz/precision bass type bodies. I&#8217;m also not fond of exotic tops&#8230; tamang alder or ash lang na body oks na ako. Sa finish&#8230; dun medyo maarte ako. hahahahah Malamang Antigua ulit or Tobacco Burst. Electronics naman passive lang rin. Medyo boring eh no? heheheheh pero heto na kasi nakasanayan ko so yun mga pinaka-comfy ako tugtugin.
     </div>
     
     <p>
@@ -490,7 +490,7 @@ tags: progressive metal
     
     <blockquote>
       <div>
-        <i>[tn: I actually have it already --- my DLC Fretless. I'm into traditional designs so I'm not very hard to please. Usually jazz/precision bass type bodies. I'm also not fond of exotic tops…� I'm happy with an alder or ash boy. With the � finish…� this is where I am really picky. hahahahah. Antigua m</i><i>ost likely</i><i>� or Tobacco Burst. With electronics I'm already set on passive. Kind of boring right? heheheheh its just� that this is what I'm used to so I'm really comfortable with this kind of setup.]</i>
+        <i>[tn: I actually have it already --- my DLC Fretless. I'm into traditional designs so I'm not very hard to please. Usually jazz/precision bass type bodies. I'm also not fond of exotic tops… I'm happy with an alder or ash boy. With the  finish… this is where I am really picky. hahahahah. Antigua m</i><i>ost likely</i><i> or Tobacco Burst. With electronics I'm already set on passive. Kind of boring right? heheheheh its just that this is what I'm used to so I'm really comfortable with this kind of setup.]</i>
       </div>
     </blockquote>
     
@@ -503,7 +503,7 @@ tags: progressive metal
     </div>
     
     <div>
-      <b>R:</b>� Siguro mind control&#8230; para pwede ko pakainin ng bubog lahat ng k*ps sa mundo. hahahahahaha
+      <b>R:</b> Siguro mind control&#8230; para pwede ko pakainin ng bubog lahat ng k*ps sa mundo. hahahahahaha
     </div>
   </div>
   
@@ -518,7 +518,7 @@ tags: progressive metal
   </blockquote>
   
   <div>
-    So this here is the end of the interview. He did&#8217;nt want to promote anything right now, I guess his answers already talk volumes. Anyway you can view his facebook page at� <a href="https://www.facebook.com/misternobody.en/" target="_blank">https://www.facebook.com/misternobody.en/</a>
+    So this here is the end of the interview. He did&#8217;nt want to promote anything right now, I guess his answers already talk volumes. Anyway you can view his facebook page at <a href="https://www.facebook.com/misternobody.en/" target="_blank">https://www.facebook.com/misternobody.en/</a>
   </div>
   
   <p>

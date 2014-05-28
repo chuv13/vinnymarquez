@@ -4,16 +4,7 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/09/22/30-lessons-and-takeaways-from-being-30/
 category: blog
-#categories:
-#  - Personal
-#  - Self Improvement
-tags:
-  - 3 idiots
-  - birthday
-  - john maxwell
-  - leadership
-  - learnings
-  - lessons
+tags: 3idiots birthday john maxwell leadership lessons
 ---
 As you know (or may not know), I recently celebrated my 18th birthday. Lol. After some internalization and retrospection I came up with this long list that sums up the most of the important things I&#8217;ve learned.
 
@@ -61,7 +52,7 @@ So here it goes. Ready? <img src="http://johnvinnymarquez.net/wp-includes/images
 
 11. **Procrastination kills**. Period.
 
-10. **Don&#8217;t stop learning; don&#8217;t stop reading**. Read books which are out of your comfort zone. Try out things that pique your interest even if you have no prior knowledge about them. � Reading helps ageing brains stay sharp.� Make it a habit.
+10. **Don&#8217;t stop learning; don&#8217;t stop reading**. Read books which are out of your comfort zone. Try out things that pique your interest even if you have no prior knowledge about them.  Reading helps ageing brains stay sharp. Make it a habit.
 
 9. **Eating is an awesome activity, but you really have to watch what you eat**. You can die from a bad diet. Seriously. Which brings me to my next point:
 
@@ -77,7 +68,7 @@ So here it goes. Ready? <img src="http://johnvinnymarquez.net/wp-includes/images
 
 3.** You can&#8217;t please everybody so stop trying**. You can chase after success, but it&#8217;s better to chase after excellence. (some Rancho, anyone? :))
 
-2. **You can&#8217;t give something that you don&#8217;t have.**� You can&#8217;t teach something you know nothing about, and you definitely can&#8217;t tell others to go do things you didn&#8217;t do yourself. Take your credibility seriously. Walk the talk.
+2. **You can&#8217;t give something that you don&#8217;t have.** You can&#8217;t teach something you know nothing about, and you definitely can&#8217;t tell others to go do things you didn&#8217;t do yourself. Take your credibility seriously. Walk the talk.
 
 1. **Live a thankful life. **Always be thankful. Dwell on the things that you are thankful for, and not on the things that you are lacking.
 

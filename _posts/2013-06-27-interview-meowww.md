@@ -4,9 +4,7 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/06/27/interview-meowww/
 category: blog
-#categories:
-#  - Interviews
-#  - Music
+tags: interviews
 ---
 This is the second out of three posts for my “Fan Series” of interviews (the first one was <a href="http://johnvinnymarquez.net/music/2013/06/14/interview-bloodytom/" target="_blank">with Bloodytom</a>). Another one of my old friends who are core members of The Colony and the Pinoy Progressive Community.
 
@@ -16,7 +14,7 @@ This is the second out of three posts for my “Fan Series” of interviews (the
   </p>
 </div>
 
-**Me:**� Hi, please introduce yourself.
+**Me:** Hi, please introduce yourself.
 
 **Meowww:** Ako po si Catt or Meowww. You can call me the latter hehe
 
@@ -28,7 +26,7 @@ This is the second out of three posts for my “Fan Series” of interviews (the
 
 **Me:** What got you into music?
 
-**Meowww:� **Tatay ko. Isa syang malakaing fan ng musika. Lahat sila ng mga kapatid nya ay marunong sa instrumento at magagaling kumanta. Naikwento nya sa akin na noong ilang buwan pa lamang ako at nagpapatugtog sya ng Deep Purple, Eagles at kung ano ano pa, napapansin daw nya na sinasabayan ng mga kamay ko ang beat ng mga kanta. At yung musika mismo. Sa hindi maintindihang dahilan, kaya ka nitong paiyakin, patawanin, kaya nitong sirain ang araw mo o pasiglahin ang araw mo. Sabi nga ni Bob Marley: “One good thing about music, when it hits you, you feel no pain”.
+**Meowww: **Tatay ko. Isa syang malakaing fan ng musika. Lahat sila ng mga kapatid nya ay marunong sa instrumento at magagaling kumanta. Naikwento nya sa akin na noong ilang buwan pa lamang ako at nagpapatugtog sya ng Deep Purple, Eagles at kung ano ano pa, napapansin daw nya na sinasabayan ng mga kamay ko ang beat ng mga kanta. At yung musika mismo. Sa hindi maintindihang dahilan, kaya ka nitong paiyakin, patawanin, kaya nitong sirain ang araw mo o pasiglahin ang araw mo. Sabi nga ni Bob Marley: “One good thing about music, when it hits you, you feel no pain”.
 
 > *tn: My dad. He was a big fan of music. He along with his brothers all know how to play instruments and are great singers. He once told me that when I was a few months old he would play songs from Deep Purple, Eagles, etc and he noticed that I would move my hands in sync with the music. Also, music itself. For reasons unbeknownst to me, it can make you cry or laugh, make or break your day. As Bod Marley once said: “One good thing about music, when it hits you, you feel no pain”.*
 
@@ -40,33 +38,33 @@ This is the second out of three posts for my “Fan Series” of interviews (the
 
 **Me:** Influences? Musical heroes?
 
-**Meowww:� **Fuseboxx. Noon akala ko mga dayuhan lang ang may kakayahan gumawa ng ganoong klaseng musika. Sila ang nagbukas ng mata, utak at tenga ko na makinig ng iba pang klase ng musika. Hindi din sila madamot sa pagbahagi ng kanilang kaalaman sa musika. Madami akong natutunan kahit sa pamamagitan lamang ng pakikinig sa musikang ginawa o ginagawa nila. Sa palagay ko sila talaga ang may pinaka malaking kontribusyon sa akin. Ang mga Pinoy Indie bands na sa kabila ng kakulangan ng suporta ng malalaking record labels ay tuloy pa din ang paglikha ng makabuluhang musika.
+**Meowww: **Fuseboxx. Noon akala ko mga dayuhan lang ang may kakayahan gumawa ng ganoong klaseng musika. Sila ang nagbukas ng mata, utak at tenga ko na makinig ng iba pang klase ng musika. Hindi din sila madamot sa pagbahagi ng kanilang kaalaman sa musika. Madami akong natutunan kahit sa pamamagitan lamang ng pakikinig sa musikang ginawa o ginagawa nila. Sa palagay ko sila talaga ang may pinaka malaking kontribusyon sa akin. Ang mga Pinoy Indie bands na sa kabila ng kakulangan ng suporta ng malalaking record labels ay tuloy pa din ang paglikha ng makabuluhang musika.
 
-> *tn: Fuseboxx. I used to think that only foreigners had the capability to create that [progressive] kind of music. They [Fuseboxx] opened my eyes, brain and ears to listen to other ttypes of music. They are not selfish in sharing their knowledge with music. I learned a lot from them, even from just listening to the songs they made and/or are making. � I think that they are the ones that have the most influenced me. Sa palagay ko sila talaga ang may pinaka malaking kontribusyon sa akin. Pinoy Indoe bands despite the lack of support from large recording labels still continue to create meaningful music.*
+> *tn: Fuseboxx. I used to think that only foreigners had the capability to create that [progressive] kind of music. They [Fuseboxx] opened my eyes, brain and ears to listen to other ttypes of music. They are not selfish in sharing their knowledge with music. I learned a lot from them, even from just listening to the songs they made and/or are making.  I think that they are the ones that have the most influenced me. Sa palagay ko sila talaga ang may pinaka malaking kontribusyon sa akin. Pinoy Indoe bands despite the lack of support from large recording labels still continue to create meaningful music.*
 
 **Me:** Genres you listen to?
 
-**Meowww:� **Wala akong particular na genreng pinapakinggan. Mula sa mga classical, Love songs at standards hanggang sa mga maiingay na death metal. Siguro ang preference ko ay base sa tono at lirico ng isang kanta. (Hindi ko kayang sakyan yung mga tulad ng “neseyo ne eng lehet” hehehehehe!)
+**Meowww: **Wala akong particular na genreng pinapakinggan. Mula sa mga classical, Love songs at standards hanggang sa mga maiingay na death metal. Siguro ang preference ko ay base sa tono at lirico ng isang kanta. (Hindi ko kayang sakyan yung mga tulad ng “neseyo ne eng lehet” hehehehehe!)
 
-> *****tn: I don&#8217;t have one in particular. From classical, love songs and standards to loud death metal. Maybe my preference is based on the tone and lyrics of a song.� (I can&#8217;t relate to music like &#8220;neseyo ne eng lehet&#8221; hehehehehe!) &#8211; [referring to <a href="http://www.youtube.com/watch?v=ji_CSL2JJ5A" target="_blank">Daniel Padilla's song</a>]*
+> *****tn: I don&#8217;t have one in particular. From classical, love songs and standards to loud death metal. Maybe my preference is based on the tone and lyrics of a song. (I can&#8217;t relate to music like &#8220;neseyo ne eng lehet&#8221; hehehehehe!) &#8211; [referring to <a href="http://www.youtube.com/watch?v=ji_CSL2JJ5A" target="_blank">Daniel Padilla's song</a>]*
 
 **Me:** What are the bands that you support (if any) and how? Why?
 
-**Meowww:� **Fuseboxx – sinundan ko sila mula noong sumali sila sa Muziklaban� [2003]. Isa sila sa mga nabibilang na banda sa Pilipinas na dapat mapakinggan ng mga tao pero dahil sa kakulangan ng suporta ng masa ay nanatili silang nasa underground scene. Tumutulong ako sa pagkalat ng kanilang musika sa pamamagitan ng pagpapakinig sa mga kakilala ko, pag-promote ng mga gigs nila at pag tulong mag organize ng mga events. Kastigo, Eternal Now, Autotelic, Farewell Fair Weather at iba pang mga indie bands na nananatiling totoo sa sarili nilang brand ng musika Maraming paraan ng pag suporta. Katulad ng pagpunta sa mga gigs nila, pagbili ng mga Orihinal na CD nila, pagbahagi ng musika nila sa ibang tao. Ito ay dahil naniniwala ako sa talento ng mga bandang ito at sa kakayanan nilang mabago ang pabasura ng industriya ng musika ng Pilipinas.
+**Meowww: **Fuseboxx – sinundan ko sila mula noong sumali sila sa Muziklaban [2003]. Isa sila sa mga nabibilang na banda sa Pilipinas na dapat mapakinggan ng mga tao pero dahil sa kakulangan ng suporta ng masa ay nanatili silang nasa underground scene. Tumutulong ako sa pagkalat ng kanilang musika sa pamamagitan ng pagpapakinig sa mga kakilala ko, pag-promote ng mga gigs nila at pag tulong mag organize ng mga events. Kastigo, Eternal Now, Autotelic, Farewell Fair Weather at iba pang mga indie bands na nananatiling totoo sa sarili nilang brand ng musika Maraming paraan ng pag suporta. Katulad ng pagpunta sa mga gigs nila, pagbili ng mga Orihinal na CD nila, pagbahagi ng musika nila sa ibang tao. Ito ay dahil naniniwala ako sa talento ng mga bandang ito at sa kakayanan nilang mabago ang pabasura ng industriya ng musika ng Pilipinas.
 
-> *tn: Fuseboxx – I followed them ever since they joined Muziklaban [2003]. they are one of the of the bands that deserve to be heard by the people but because of the lack of support of the masses they remain in the underground scene. I help spreadin their music by introducing them to the people I know, by promoting their gigs and helping to organizing events.� * *� I also support Kastigo, Eternal Now, Autotelic, Farewell Fair Weather and other indie bands that remain true to themselves and their brand of music. There are a lot of ways to support [bands]. Like going to their gigs, buying original CDs [or any other format of music] and disseminating their music to other people. This is because I believe in the talent of these bands and their power to change the regressing music industry in the Philippines.*
+> *tn: Fuseboxx – I followed them ever since they joined Muziklaban [2003]. they are one of the of the bands that deserve to be heard by the people but because of the lack of support of the masses they remain in the underground scene. I help spreadin their music by introducing them to the people I know, by promoting their gigs and helping to organizing events. * * I also support Kastigo, Eternal Now, Autotelic, Farewell Fair Weather and other indie bands that remain true to themselves and their brand of music. There are a lot of ways to support [bands]. Like going to their gigs, buying original CDs [or any other format of music] and disseminating their music to other people. This is because I believe in the talent of these bands and their power to change the regressing music industry in the Philippines.*
 
-**Me:� **What do you think of the movie Almost Famous?
+**Me: **What do you think of the movie Almost Famous?
 
-**Meowww:� **Napanood ko na ito ng ilang beses sa HBO. Ipinakita dito ang mga totoong pangyayari sa loob ng isang banda kapag wala sila sa entablado at tumutugtog. Sa pagkaka-alam ko to ay semi-auto biography ng director.
+**Meowww: **Napanood ko na ito ng ilang beses sa HBO. Ipinakita dito ang mga totoong pangyayari sa loob ng isang banda kapag wala sila sa entablado at tumutugtog. Sa pagkaka-alam ko to ay semi-auto biography ng director.
 
-> *tn: I already watched this a couple of times at HBO. � It shows the real stuff happening within bands in and out the stage. As far as I know, this is the semi-auto biography of the director.*
+> *tn: I already watched this a couple of times at HBO.  It shows the real stuff happening within bands in and out the stage. As far as I know, this is the semi-auto biography of the director.*
 
 **Me:** Name a gadget or gadgets you can&#8217;t possibly live without when going to gigs or supporting musicians (if you have a utility belt, you are welcome to share).
 
 **Meowww:** Cellphone / Camera. Gusto ko kaseng ma-record ang mga tugtog nila lalo na kung bago sa pandinig ko. Madalas ay ibinibigay ko din ito sa mga bandang nakuhaan ko.
 
-> *tn: Cellphone / Camera. Because I want to record songs especially those that are new to me. I usually give these [recordings] to the bands.� *
+> *tn: Cellphone / Camera. Because I want to record songs especially those that are new to me. I usually give these [recordings] to the bands. *
 
 **Me:** Funniest memory while you were out there in gigs (or anything related)?
 
@@ -100,7 +98,7 @@ This is the second out of three posts for my “Fan Series” of interviews (the
 
 **Meowww:** Para sa akin, unti unti na itong nabubulok. Dahil sa kakulangan ng suporta ng masa at ng mga record labels sa mga “tamang” artists. Napakaraming talentado at magagaling na musikero sa Pilipinas pero hindi kilala dahil ang industriya ay dinidiktahan at pinapatakbo ng mga gahamang labels.
 
-> *For me it is slowly rotting.Because of the lack of support of the people and recording labels for the &#8220;right&#8221; artists. There are a lot of talented and skilled musicians in the Philippines but are relatively unknown because the industry � is manipulated by the greedy labels.*
+> *For me it is slowly rotting.Because of the lack of support of the people and recording labels for the &#8220;right&#8221; artists. There are a lot of talented and skilled musicians in the Philippines but are relatively unknown because the industry  is manipulated by the greedy labels.*
 
 **Me:** What about the local indie movement?
 

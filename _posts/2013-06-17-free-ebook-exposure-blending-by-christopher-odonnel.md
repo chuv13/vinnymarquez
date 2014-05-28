@@ -4,12 +4,7 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/06/17/free-ebook-exposure-blending-by-christopher-odonnel/
 category: blog
-#categories:
-#  - Photography
-#  - Promos
-tags:
-  - ebook
-  - promos
+tags: ebooks promos
 ---
 [Photos by <a href="https://www.facebook.com/pages/Christopher-ODonnell-Photography/107769092586243?directed_target_id=0" target="_blank">Christopher O'Donnel</a>]
 

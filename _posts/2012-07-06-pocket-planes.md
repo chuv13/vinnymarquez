@@ -4,19 +4,16 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2012/07/06/pocket-planes/
 category: blog
-#categories:
-#  - Personal
-tags:
-  - game review
+tags: game reviews
 ---
 <span><a title="Pocket Planes" href="http://itunes.apple.com/us/app/pocket-planes/id491994942?mt=8" target="_blank">Pocket Planes</a> is easily one of the most addictive games I have ever played on the iPad! It&#8217;s a quirky game with old school graphics.</span>
 
 <div>
-  The premise of the game is simple: you are an owner of a startup airline and you have to make you business grow. Easy? By all means no. You start off by picking a starting location and you will be given a default number of airplanes and accessible airports and start the road towards being an airline mogul.� Here&#8217;s how the airport looks like:
+  The premise of the game is simple: you are an owner of a startup airline and you have to make you business grow. Easy? By all means no. You start off by picking a starting location and you will be given a default number of airplanes and accessible airports and start the road towards being an airline mogul. Here&#8217;s how the airport looks like:
 </div>
 
 <div>
-  <strong>� </strong>
+  <strong> </strong>
 </div>
 
 <div>
@@ -31,7 +28,7 @@ tags:
 </div>
 
 <div>
-  <strong>� </strong>
+  <strong> </strong>
 </div>
 
 <div>
@@ -163,5 +160,5 @@ tags:
 </div>
 
 <div style="text-align: left;">
-  So there you have it. Its a nice and� <strong>FREE game</strong>. Download it now! <img src="http://johnvinnymarquez.net/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley" />
+  So there you have it. Its a nice and <strong>FREE game</strong>. Download it now! <img src="http://johnvinnymarquez.net/wp-includes/images/smilies/icon_biggrin.gif" alt=":D" class="wp-smiley" />
 </div>

@@ -4,18 +4,7 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/07/09/magic-2014-duels-of-the-planeswalkers-an-easy-way-to-unlock-cards/
 category: blog
-#categories:
-#  - Game Reviews
-#  - Technology
-tags:
-  - android
-  - card games
-  - game guides
-  - ipad
-  - iPhone
-  - 'Magic: The Gathering'
-  - Steam
-  - video games
+tags: android cardgames gameguides ipad iPhone magicthegathering steam videogames
 ---
 If you have been playing Magic 2014 Duels of the Planeswalkers (or even with the 2013 version) you know that to fully unlock a deck, you have to win 30 times for each deck (unlock 1 card at a time) or pay $0.99 for each deck you want to unlock instantly. I&#8217;d rather battle (and enjoy) for all those unlockable cards than pay money for them. But grinding will be less frustrating if you can go through each battle in the shortest possible amount of time. So I experimented with some modes up to the revenge campaign and found one opponent where you can easily defeat (at least for most of the decks):
 
@@ -27,27 +16,27 @@ Why this deck? Simple: because it only has one win condition and that is to cast
   <a href="http://www.magicspoiler.com/mtg-spoiler/shadowborn-apostle/"><img alt="" src="http://www.magicspoiler.com/wp-content/uploads/2013/03/Shadowborn-Apostle-M14-Visual-Spoiler.jpg" height="300" /></a><a href="http://www.magicspoiler.com/mtg-spoiler/shadowborn-demon/"><img alt="Shadowborn Demon" src="http://www.magicspoiler.com/wp-content/uploads/2013/03/Shadowborn-Demon-M14-Visual-Spoiler.jpg" height="300" /></a>
 </p>
 
-Turn 1:� Plays swamp, casts 1 Shadowborn Apostle
+Turn 1: Plays swamp, casts 1 Shadowborn Apostle
 
-Turn 2:� Plays swamp, (if there are no defenders, attacks with able creatures) casts 2 Shadowborn Apostle
+Turn 2: Plays swamp, (if there are no defenders, attacks with able creatures) casts 2 Shadowborn Apostle
 
-Turn 3:� Plays swamp, (if there are no defenders, attacks with able creatures) casts 2 Shadowborn Apostle
+Turn 3: Plays swamp, (if there are no defenders, attacks with able creatures) casts 2 Shadowborn Apostle
 
-Turn 4:� Plays swamp, (if there are no defenders, attacks with able creatures) casts 1 <a href="http://www.magicspoiler.com/mtg-spoiler/shadowborn-apostle/" target="_blank">Shadowborn Apostle</a> then sacrifices all 6 to search for a Shadowborn Demon.
+Turn 4: Plays swamp, (if there are no defenders, attacks with able creatures) casts 1 <a href="http://www.magicspoiler.com/mtg-spoiler/shadowborn-apostle/" target="_blank">Shadowborn Apostle</a> then sacrifices all 6 to search for a Shadowborn Demon.
 
 Now this might sound bad but it actually isn&#8217;t. Why? Because all you have to do kill/exile/unsummon that demon and the game is in your hands. Plus the fact that the deck only has 4 swamps, 1 demon and the rest of the slots are filled with <a href="http://www.magicspoiler.com/mtg-spoiler/shadowborn-apostle/" target="_blank">Shadowborn Apostles</a>. Meaning once you take care of the big guy, everything will be as easy as pie.
 
-Before we start, I will be assuming that you will be using these decks with 0/30 cards unlocked. Also, I will be referring to the enemy&#8217;s key card Shadowborn Demon simply as &#8220;it&#8221;.� I will talk about these decks with the same order as to the order of what I think are the fastest/easiest to slowest/hardest to win with. Here are my strategies and thoughts for the decks:
+Before we start, I will be assuming that you will be using these decks with 0/30 cards unlocked. Also, I will be referring to the enemy&#8217;s key card Shadowborn Demon simply as &#8220;it&#8221;. I will talk about these decks with the same order as to the order of what I think are the fastest/easiest to slowest/hardest to win with. Here are my strategies and thoughts for the decks:
 
 **Avacyn&#8217;s Glory Deck (W)**
 
-Key cards: <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370408" target="_blank">Path to Exile</a>,� <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368496" target="_blank">Fiend Hunter</a>, <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=259711" target="_blank">Oblivion Ring</a>.
+Key cards: <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370408" target="_blank">Path to Exile</a>, <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368496" target="_blank">Fiend Hunter</a>, <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=259711" target="_blank">Oblivion Ring</a>.
 
 This deck focuses on small Human creatures and their interactions with each other. Any of these 3 cards will seal the game for you, you can easily win the game by turn 6-9 depending on the humans on the board (Champion of the parish, Call to arms, ). This is the first deck I&#8217;ve completed 30 cards with, not to mention completed many of the unlockables with.
 
 **Guardians of Light (W)**
 
-Key cards:� <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=259712" target="_blank">Pacifism</a>, <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=44311" target="_blank">Dawn Elemental</a>,� <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=275265" target="_blank">Spirit Mantle</a>,� <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204997" target="_blank">Armored Ascension</a>.
+Key cards: <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=259712" target="_blank">Pacifism</a>, <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=44311" target="_blank">Dawn Elemental</a>, <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=275265" target="_blank">Spirit Mantle</a>, <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204997" target="_blank">Armored Ascension</a>.
 
 This deck has awesome card synergy with its cool creatures and auras. Pacifism is a 2 drop that can shut it down permanently, Dawn Elemental can take its attacks all day and all those auras can help you build the perfect flying kitten (lol) to decimate your opponent.
 
@@ -57,7 +46,7 @@ This deck has awesome card synergy with its cool creatures and auras. Pacifism i
 
 **Mind Maze Deck (U)**
 
-Key cards: <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204997" target="_blank">Unsummon</a>,� <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235601" target="_blank">Claustrophobia</a>,� <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=265403" target="_blank">Cancel</a>
+Key cards: <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204997" target="_blank">Unsummon</a>, <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235601" target="_blank">Claustrophobia</a>, <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=265403" target="_blank">Cancel</a>
 
 Once bounced, the enemy can&#8217;t hard cast it because of the lack of mana. If that doesn&#8217;t work, you can lock or just counter it. After that, flood the board with happy flying illusions.
 
@@ -93,7 +82,7 @@ The cards stated above is just for defense against it, but the goal with this de
 
 ****Key cards: <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=84507" target="_blank">Time Ebb</a>, <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370550" target="_blank">Vedalken Dismisser</a>
 
-Another one with the bounce approach but with bigger casting costs. You may sacrifice a few creatures just to block its attack or just take 10 damage before sealing its fate.� After this you can use Mind Rot, Ravenous Rats to discard it then cast Beacon of Unrest to control the creature.
+Another one with the bounce approach but with bigger casting costs. You may sacrifice a few creatures just to block its attack or just take 10 damage before sealing its fate. After this you can use Mind Rot, Ravenous Rats to discard it then cast Beacon of Unrest to control the creature.
 
 **Enter the Dracomancer (BRG)**
 
@@ -103,7 +92,7 @@ Straighten up your mana base, cast this shaman and summ on larger dragons than t
 
 **Firewave (R)**
 
-Key Cards:� <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249684" target="_blank">Searing Spear</a>, <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240013" target="_blank">Pillar of Flame</a>, <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220298" target="_blank">Chandra&#8217;s Phoenix</a>, <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=259219" target="_blank">Flames of the Firebrand</a>, <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=226585" target="_blank">Chandra&#8217;s Outrage</a>, <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=208003" target="_blank">Magma Phoenix</a>.
+Key Cards: <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249684" target="_blank">Searing Spear</a>, <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240013" target="_blank">Pillar of Flame</a>, <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220298" target="_blank">Chandra&#8217;s Phoenix</a>, <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=259219" target="_blank">Flames of the Firebrand</a>, <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=226585" target="_blank">Chandra&#8217;s Outrage</a>, <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=208003" target="_blank">Magma Phoenix</a>.
 
 Its possible to nuke the guy using these but I you have no choice but to just swarm it with lots of creatures. The hardest and slowest deck to win this match with. I have no clear cut strategy with winning with this deck right from the start.
 

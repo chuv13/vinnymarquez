@@ -4,13 +4,7 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/06/17/our-last-class-with-sirnicolay/
 category: blog
-#categories:
-#  - Photography
-tags:
-  - photography 101
-  - photography basics
-  - seminars
-  - sirnicolay
+tags: photography101  photographybasics trainings seminars
 ---
 [Another later post]
 

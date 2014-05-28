@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2014/02/03/getting-maintaining-inbox-zero/
 category: blog
+type: preview
+preview_url: 'http://johnvinnymarquez.net/wp-content/uploads/2014/02/inboxero-1024x584.png'
 tags: email processses
 ---
 One of the main activities that I am very fond of these days is design. Especially designing and optimizing my activities. I’m tackling the small issues first to get the hang of fixing things. One of these so-called activities is &#8216;dealing with my email&#8217;.

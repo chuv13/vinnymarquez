@@ -4,12 +4,7 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/04/02/the-new-magenic-manila-ids-are-out/
 category: blog
-#categories:
-#  - Personal
-tags:
-  - id card
-  - photo shoot
-  - photography
+tags: designs photoshoots photography
 ---
 After 2+ years we finally have new ID cards. I&#8217;ve been stuck with that horrid (which I proposed to re-design for around 2-3 times in the past) looking old ID card from the Rivereo days (Rivereo Inc. was bought by Magenic last year). Apologies for the pics, I just used the trusty iPad for these:
 
@@ -26,7 +21,7 @@ After 2+ years we finally have new ID cards. I&#8217;ve been stuck with that hor
 
 &nbsp;
 
-Anyway, I provided the basic design for the ID (and lace) that was sent to Magenic Studios for evaluation � (which was eventually adjusted to the final spec). After the design was approved we organized a DIY photoshoot for those who wanted more control over their pictures (we even took creative shots, which were, err, unapproved). Well, at least we had fun the taking pictures. Kudos to Jops, Ron and Aya for the gear we used that day.
+Anyway, I provided the basic design for the ID (and lace) that was sent to Magenic Studios for evaluation  (which was eventually adjusted to the final spec). After the design was approved we organized a DIY photoshoot for those who wanted more control over their pictures (we even took creative shots, which were, err, unapproved). Well, at least we had fun the taking pictures. Kudos to Jops, Ron and Aya for the gear we used that day.
 
 <div style="text-align: center;">
   <p>

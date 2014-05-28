@@ -19,4 +19,4 @@ Looking forward to 2012! I leave you guys with one of my favorite verses:
 
 ### For I know the plans I have for you,” declares the LORD, “plans to prosper you and not to harm you, plans to give you hope and a future.
 
-- Jeremiah 29:11� (NIV)
+- Jeremiah 29:11 (NIV)

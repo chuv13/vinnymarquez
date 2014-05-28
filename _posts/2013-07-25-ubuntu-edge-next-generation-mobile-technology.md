@@ -4,22 +4,16 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/07/25/ubuntu-edge-next-generation-mobile-technology/
 category: blog
-#categories:
-#  - News
-#  - Technology
-tags:
-  - android
-  - mobile
-  - ubuntu
+tags: android mobile ubuntu
 format: video
 ---
-Have a chance to support the next generation in mobile technology! Ubuntu is crowd sourcing their newly designed &#8216;Ubuntu Edge&#8217; handset that will boast the latest hardware and will run both Ubuntu and Android.� The clincher for me is the seamless transition from a Mobile phone to a PC (plug it into a HDMI enabled TV/Monitor and sync a bluetooth keyboard and/or mouse).
+Have a chance to support the next generation in mobile technology! Ubuntu is crowd sourcing their newly designed &#8216;Ubuntu Edge&#8217; handset that will boast the latest hardware and will run both Ubuntu and Android. The clincher for me is the seamless transition from a Mobile phone to a PC (plug it into a HDMI enabled TV/Monitor and sync a bluetooth keyboard and/or mouse).
 
 <p style="text-align: center;">
   <a href="http://www.indiegogo.com/projects/ubuntu-edge"><img class="aligncenter" alt="" src="http://assets.ubuntu.com/sites/ubuntu/515/u/img/campaigns/22072013_gogo/ui/ui-3.jpg" width="450" /></a>
 </p>
 
-I&#8217;ve used Ubuntu before (up until Quantal Quetzal) and if I weren&#8217;t a .Net dev (maybe a PHP dev), I find it a good enough alternative to Windows and Mac OS. That being said, even though I haven&#8217;t used Ubuntu Mobile I&#8217;ve watched videos of it running on Nexus handsets and I&#8217;m really impressed. I got excited of the thought of Ubuntu phones being available in the market. � What (I think) makes this project is great is the fact that it is going to pave the way for next generation handsets by being the first purpose-built Ubuntu Mobile handset. And I think it is a smart move to use crowd-sourcing to check if the market is interested with the idea.
+I&#8217;ve used Ubuntu before (up until Quantal Quetzal) and if I weren&#8217;t a .Net dev (maybe a PHP dev), I find it a good enough alternative to Windows and Mac OS. That being said, even though I haven&#8217;t used Ubuntu Mobile I&#8217;ve watched videos of it running on Nexus handsets and I&#8217;m really impressed. I got excited of the thought of Ubuntu phones being available in the market.  What (I think) makes this project is great is the fact that it is going to pave the way for next generation handsets by being the first purpose-built Ubuntu Mobile handset. And I think it is a smart move to use crowd-sourcing to check if the market is interested with the idea.
 
 <p style="text-align: center;">
   <a href="http://www.indiegogo.com/projects/ubuntu-edge"><img class="aligncenter" alt="" src="http://assets.ubuntu.com/sites/ubuntu/518/u/img/campaigns/22072013_gogo/ui/ui-4.jpg" width="450" /></a>

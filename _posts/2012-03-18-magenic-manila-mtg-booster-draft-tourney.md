@@ -4,9 +4,7 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2012/03/18/magenic-manila-mtg-booster-draft-tourney/
 category: blog
-#categories:
-#  - Personal
-format: status
+type: status
 ---
 We organized a small <a title="http://www.wizards.com/Magic/" href="http://www.wizards.com/Magic/" target="_blank">Magic: the Gathering</a> booster draft tournament. Last friday we bought a [m13][1] box and split up the booster packs to 6 people. Each player payed 800, 700 for the booster packs and 100 for the cash prize.
 
