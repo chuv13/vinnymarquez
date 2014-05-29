@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2012/11/03/windows-8-winrt-development/
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/adobo_zps5ad5926e.jpg'
 tags: css3 html5 windows8 winrt
 ---
 I haven&#8217;t been able to blog recently because I&#8217;ve been so busy with a lot of stuff the past months doing mostly WinRT application development. Our company <a href="http://magenic.com/Locations/ManilaInternationalOffice.aspx" target="_blank">Magenic Manila</a> (Rivereo Inc., a subsidiary of <a title="http://magenic.com/" href="http://magenic.com/" target="_blank">Magenic</a>) started an internal contest (and I hear <a href="http://www.lhotka.net/" target="_blank">Rocky Lohtka</a> himself will be one of the judges! Sweet!). In short a brief stint in product development (at last). I am practically still a newbie with regards to WinRT but the experience I had with Silverlight/WPF development allowed for an easy transition. As of this moment, here is my report regarding WinRT:

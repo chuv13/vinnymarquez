@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/01/19/olympus-omd-em-5/
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/olympus_zps7b75d350.jpg'
 tags: camera m43 microfourthirds olympus om-d photography
 ---
 <span class="dropcap1">I</span>&#8216;ve decided to start from scratch, scrapping any sort of knowledge I had (if I ever had any) of photography. When I was young My mom taught me how to shoot film but I wasn&#8217;t able to follow through so the meager skills I had then faded into the abyss. Still, the visual side of me kept on wishing I could study photography seriously. Last year I decided to go through with it.

@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/06/27/interview-meowww/
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/catt_zps9c755279.jpg'
 tags: interviews
 ---
 This is the second out of three posts for my “Fan Series” of interviews (the first one was <a href="http://johnvinnymarquez.net/music/2013/06/14/interview-bloodytom/" target="_blank">with Bloodytom</a>). Another one of my old friends who are core members of The Colony and the Pinoy Progressive Community.

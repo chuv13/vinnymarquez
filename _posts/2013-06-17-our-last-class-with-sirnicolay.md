@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/06/17/our-last-class-with-sirnicolay/
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/tbtpic_zps0387906f.jpg'
 tags: photography101  photographybasics trainings seminars
 ---
 [Another later post]

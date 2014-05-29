@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/06/13/pre-purchase-magic-2014-duels-of-the-planeswalkers-on-steam/
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/m14pre_zps67e8591f.jpg'
 tags: cardgames magicthegathering promos videogames
 ---
 I owned the 2013 version on iPad (which was a blast to play but a annoying without the iCloud integration for game state) and now the 2014 version is almost here! I love my iPad and using it for gaming, reading, watching etc. but lately I&#8217;ve been using more of my laptop (because of all the skills I&#8217;m &#8220;refining&#8221;) and pretty much leave it in my bag most of the time. So my laptop is pretty much WORK X PLAY territory now. Anyway, take a look at this:

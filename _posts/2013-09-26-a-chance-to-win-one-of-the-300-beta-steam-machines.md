@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/09/26/a-chance-to-win-one-of-the-300-beta-steam-machines/
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/steam_zps41c0833f.jpg'
 tags: console games steam steampowered videogames
 format: image
 ---

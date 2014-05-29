@@ -3,8 +3,8 @@ title: 'LIFEHACK: UNFOLLOW PEOPLE ON FACEBOOK'
 author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2014/02/17/lifehack-unfollow-people-on-facebook/
-#type: preview
-preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/fb-test_zpsc390e42f.png'
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/fb_zpsa5e371ef.jpg'
 category: blog
 tags: facebook lifehacks social
 ---

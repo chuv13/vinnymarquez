@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/07/14/steam-summer-getaway-sale-201/
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/steamsummer_zpsd9097c76.jpg'
 tags: steam steampowered
 ---
 The Steam Summer Getaway Sale 2013 is here! Great discounts on games old and new alike from July 11-22.

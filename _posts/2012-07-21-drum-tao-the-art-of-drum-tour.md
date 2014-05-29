@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2012/07/21/drum-tao-the-art-of-drum-tour/
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/drumtao_zps08fee17f.jpg'
 tags: events
 ---
 <span class="dropcap1">T</span>hank God for my girlfriend Mawie who takes her time to look at groupon-like sites! Because of her we got to see Drum Tao perform at the <a title="Theater" href="http://www.rwmanila.com/entertainment-at-resorts-world-manila/newport-performing-arts-theater/" target="_blank">Resorts World Manila: Performing Arts Theater</a> last July 20, 2012 (They will be here in manila up to July 22, 2012 and then will fly to Cebu). We purchased discounted Deluxe Tickets from <a title="Drum Tao Ensogo" href="http://www.ensogo.com.ph/manila/drum-tao-07172012.html" target="_blank">Ensogo</a>.

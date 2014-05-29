@@ -3,6 +3,8 @@ title: 30 LESSONS AND TAKEAWAYS FROM BEING 30
 author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/09/22/30-lessons-and-takeaways-from-being-30/
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/basti_zps2e6b7663.jpg'
 category: blog
 tags: 3idiots birthday john maxwell leadership lessons
 ---

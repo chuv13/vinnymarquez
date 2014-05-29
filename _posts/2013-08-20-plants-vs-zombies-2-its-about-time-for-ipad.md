@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/08/20/plants-vs-zombies-2-its-about-time-for-ipad/
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/pvz2_zps203fb86a.jpg'
 tags: gamereview ios ipad iPhone towerdefense  videogames
 ---
 Its about time! The sequel to the hit game from PopCap has arrived to the iPad! Promptly titled &#8220;<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CC0QFjAA&url=https%3A%2F%2Fitunes.apple.com%2Fau%2Fapp%2Fplants-vs.-zombies-2%2Fid597986893%3Fmt%3D8&ei=cYQTUpOoOM-uiQfzpoCgCw&usg=AFQjCNHazPSAbW1MYE3IjojWTND9U0DerQ&sig2=b5zS7nizD3VAXOJz04hq6A&bvm=bv.50952593,d.aGc" target="_blank">Plants vs Zombies: Its about time</a>&#8220;, its free on to download on the iTunes store with in-app purchases (freemium).

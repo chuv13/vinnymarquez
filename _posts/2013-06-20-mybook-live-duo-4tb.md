@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/06/20/mybook-live-duo-4tb/
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/mybook_zpsa597fa0c.jpg'
 tags: cloudstorage nas
 ---
 <div>

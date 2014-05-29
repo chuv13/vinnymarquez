@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/06/17/ssd-on-a-macbook-pro-mid-2010/
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/ssdmac_zps75bbb7cb.jpg'
 tags: hdd ssd macupgrades
 ---
 I&#8217;ve had this MBP (i5 processor, 8gb memory) for quite some time now and I have no plans of replacing it anytime soon (at least until it dies on me), so I upgraded it with an SSD.

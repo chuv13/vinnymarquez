@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/04/20/interview-roger-alcantara/
 category: blog
+type: preview
+preview_irl: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/roger_zpse760d0d7.jpg'
 tags: progressive metal
 ---
 <div>

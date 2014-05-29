@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/04/10/interview-fidel-de-jesus/
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/fidel_zps2c4bec06.jpg'
 tags: band darkcrayola guitarist interview music
 ---
 <div>

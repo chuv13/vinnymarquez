@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/04/02/the-new-magenic-manila-ids-are-out/
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/magenicids_zps9f1552c8.jpg'
 tags: designs photoshoots photography
 ---
 After 2+ years we finally have new ID cards. I&#8217;ve been stuck with that horrid (which I proposed to re-design for around 2-3 times in the past) looking old ID card from the Rivereo days (Rivereo Inc. was bought by Magenic last year). Apologies for the pics, I just used the trusty iPad for these:

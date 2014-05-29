@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2012/09/21/a-years-worth-of-improvements/
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/mint_zpsfd82d197.jpg'
 tags: mint photography education ux winrt
 ---
 <p class="p1">

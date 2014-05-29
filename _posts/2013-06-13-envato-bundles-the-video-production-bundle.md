@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/06/13/envato-bundles-the-video-production-bundle/
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/envatovideo_zps6c04938e.jpg'
 tags: promos
 ---
 I am a fan of Envato and I&#8217;ve purchased a few of their bundles already. I would purchase this if I knew how (or plan) to make videos. Here&#8217;s info from the site itself:

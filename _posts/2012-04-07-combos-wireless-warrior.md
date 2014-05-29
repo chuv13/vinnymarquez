@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2012/04/07/combos-wireless-warrior/
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/wireless_zpseaa7c67e.jpg'
 tags: hardware news
 ---
 Be a wireless warrior by pairing up your iPhone with [Pebble][1] and [Plantronics&#8217; Backbeat Go][2]!

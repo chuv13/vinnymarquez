@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/07/22/dota2-now-available-for-mac-and-linux/
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/mcsteam_zps98856f79.jpg'
 tags: dota2 moba steam steampowered
 ---
 At last! After the announcement last week that Dota2 is out of beta, an even better announcement for me is that it is now available for Mac and Linux machines! I have no need for Dual Booting Windows 7 now!

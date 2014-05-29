@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/07/09/magic-2014-duels-of-the-planeswalkers-an-easy-way-to-unlock-cards/
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/cultist_zps076b242e.jpg'
 tags: android cardgames gameguides ipad iPhone magicthegathering steam videogames
 ---
 If you have been playing Magic 2014 Duels of the Planeswalkers (or even with the 2013 version) you know that to fully unlock a deck, you have to win 30 times for each deck (unlock 1 card at a time) or pay $0.99 for each deck you want to unlock instantly. I&#8217;d rather battle (and enjoy) for all those unlockable cards than pay money for them. But grinding will be less frustrating if you can go through each battle in the shortest possible amount of time. So I experimented with some modes up to the revenge campaign and found one opponent where you can easily defeat (at least for most of the decks):

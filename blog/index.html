@@ -87,6 +87,61 @@ layout: blog
             </div>
         </div>
     </div>
+    {% elsif post.type == 'youtube' %}
+    <div class="row">
+        <div class="col-lg-9 col-lg-offset-2">
+            <div class="post">
+                <iframe style="min-width: 275; min-height:155; width: 100%; height: 100%" src="//www.youtube.com/embed/{{ post.youtube_video }}" frameborder="0" allowfullscreen></iframe>
+                <div class="content">
+                    <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+                    {{ post.date | date: "%b %-d, %Y" }}&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+                    {% for tag in post.tags %}
+                    #{{ tag }}&nbsp;&nbsp;&nbsp;
+                    {% endfor %}
+                    <br>
+                    <br>
+                    {% if post.displaybody != false %}
+                    <p>
+                        {{ post.content | truncatewords:100 | strip_html }}
+                    </p>
+                    <br>
+                    <a href="" class="pull-right">READ MORE</a>
+                    <br>
+                    <br>
+                    {% endif%}
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    {% elsif post.type == 'fbvideo' %}
+    <div class="row">
+        <div class="col-lg-9 col-lg-offset-2">
+            <div class="post">
+                <embed type="application/x-shockwave-flash" src="https://fbstatic-a.akamaihd.net/rsrc.php/v1/yo/r/ALdWmTDJ7ot.swf" style="min-width: 275; min-height:155; width: 100%; height: 100%; display: block;" id="swf_id_538786bab28083160168146" name="swf_id_538786bab28083160168146" bgcolor="#000000" quality="high" allowfullscreen="true" allowscriptaccess="always" salign="tl" scale="noscale" wmode="opaque" flashvars="{{ post.flashvars }}" />
+                <div class="content">
+                    <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+                    {{ post.date | date: "%b %-d, %Y" }}&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+                    {% for tag in post.tags %}
+                    #{{ tag }}&nbsp;&nbsp;&nbsp;
+                    {% endfor %}
+                    <br>
+                    <br>
+                    {% if post.displaybody != false %}
+                    <p>
+                        {{ post.content | truncatewords:100 | strip_html }}
+                    </p>
+                    <br>
+                    <a href="" class="pull-right">READ MORE</a>
+                    <br>
+                    <br>
+                    {% endif%}
+
+                </div>
+            </div>
+        </div>
+    </div>
+
     {% else %}
     <div class="row">
         <div class="col-lg-9 col-lg-offset-2">

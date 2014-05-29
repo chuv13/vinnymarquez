@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/06/14/interview-bloodytom/
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/tom_zpsae9ec2ff.jpg'
 tags: interviews
 ---
 This will be my first post for the &#8220;Fan Series&#8221; of interviews. Focusing on the fans that help their respective &#8220;scenes&#8221; work. I just want to focus on them as much as the bands they help out. My first subject is Tom or Bloodytom. Who is he? Oh just an old friend  who happens to be one of the oldest people (*cough) in the history of  The Colony. Lol. (sorry bro, peace!)

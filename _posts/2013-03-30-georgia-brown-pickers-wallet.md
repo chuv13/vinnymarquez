@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/03/30/georgia-brown-pickers-wallet/
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/picker_zps85817adc.jpg'
 tags: accessories reviews
 ---
 <div>

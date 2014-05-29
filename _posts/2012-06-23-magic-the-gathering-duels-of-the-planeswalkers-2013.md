@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2012/06/23/magic-the-gathering-duels-of-the-planeswalkers-2013/
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/m13_zpsde9b0c7a.jpg'
 tags: game reviews ipad
 ---
 <p class="p1">

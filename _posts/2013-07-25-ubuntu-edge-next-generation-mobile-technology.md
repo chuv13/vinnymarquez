@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/07/25/ubuntu-edge-next-generation-mobile-technology/
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/edge_zpsdbd2f07b.jpg'
 tags: android mobile ubuntu
 format: video
 ---

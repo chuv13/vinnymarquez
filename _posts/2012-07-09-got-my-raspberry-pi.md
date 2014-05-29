@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2012/07/09/got-my-raspberry-pi/
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/raspi_zps42f6da16.jpg'
 tags: unboxing
 ---
 A happy monday to everyone! (am I the only one happy on mondays? lol)

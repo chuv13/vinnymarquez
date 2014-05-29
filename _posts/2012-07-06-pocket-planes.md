@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2012/07/06/pocket-planes/
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/pocketplanes_zpse0a6ae84.jpg'
 tags: game reviews
 ---
 <span><a title="Pocket Planes" href="http://itunes.apple.com/us/app/pocket-planes/id491994942?mt=8" target="_blank">Pocket Planes</a> is easily one of the most addictive games I have ever played on the iPad! It&#8217;s a quirky game with old school graphics.</span>

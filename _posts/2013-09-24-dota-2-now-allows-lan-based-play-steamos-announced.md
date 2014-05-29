@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/09/24/dota-2-now-allows-lan-based-play-steamos-announced/
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/dota2lql_zps2a518b57.jpg'
 tags: dota2  steam steamos streampowered
 ---
 Finally! The latest <a href="http://www.dota2.com/firstblood" target="_blank">DoTA 2 update (First Blood)</a> now features local (LAN based) play, and is available now for download.

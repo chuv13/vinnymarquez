@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/06/17/interview-zalrian-sayat/
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/zalryan_zps5fdf786a.jpg'
 tags: canon interviews
 ---
 Finally! An interview NOT for the MUSIC section! This is my first photographer interview. My subject for today is one of my influences and close family friend [Zalrian Sayat][1]. He has been one of the people I look up to when it comes to professional photography. He&#8217;s based in Legazpi and does photography for a living. I wanted to know his thoughts about his chosen craft so, here we go!

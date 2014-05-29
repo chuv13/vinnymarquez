@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/05/05/sirnicolays-photography-101-day-3-still-life-and-landscape/
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/sunflower_zpsedc2002e.jpg'
 tags: photography trainings seminars
 ---
 We had our 3rd Lesson with <a href="http://www.sirnicolay.com" target="_blank">SirNicolay</a> yesterday (May 5, 2013) which was about still life and landscape. As usual we were prepped up with the basic techniques needed with this kind of photography and after that he sent us off to take pics.

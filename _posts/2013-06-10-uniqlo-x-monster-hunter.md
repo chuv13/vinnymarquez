@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/06/10/uniqlo-x-monster-hunter/
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/uniqlo_zps7fdb9d4c.jpg'
 tags: fashion
 ---
 Yeahoooo! Monster Hunter 4 t-shirts from Uniqlo now available!

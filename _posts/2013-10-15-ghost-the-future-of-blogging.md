@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/10/15/ghost-the-future-of-blogging/
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/ghost_zps701289d2.jpg'
 tags: blogging expressjs javascript minimal minimalist nodejs sqlite
 ---
 ### What is Ghost?

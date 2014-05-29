@@ -3,18 +3,18 @@ title: FREE BUSINESS CARDS FROM ABOUT.ME AND MOO.COM
 author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/01/17/free-business-cards-from-about-me-and-moo-com/
-#categories:
-#  - Personal
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/businesscard_zpsc3545029.jpg'
 tags: businesscard identity
 ---
-<span class="dropcap1">H</span>appy new year! After 17 days I finally had the time to write my maiden post for year 2013! Yay! not a good start. Lol. Anyway, I&#8217;m here to tell you about my new business cards from <a href="http://about.me/" target="_blank">About.me</a>� in collaboration with <a href="http://uk.moo.com/" target="_blank">Moo.com</a>.
+<span class="dropcap1">H</span>appy new year! After 17 days I finally had the time to write my maiden post for year 2013! Yay! not a good start. Lol. Anyway, I&#8217;m here to tell you about my new business cards from <a href="http://about.me/" target="_blank">About.me</a> in collaboration with <a href="http://uk.moo.com/" target="_blank">Moo.com</a>.
 
-I joined About.me� last year, a service that provides individuals a personal portal. Weeks after I decided to try and avail the free pack from their offers. What you get � is 50 pieces of the design of your choice:
+I joined About.me last year, a service that provides individuals a personal portal. Weeks after I decided to try and avail the free pack from their offers. What you get  is 50 pieces of the design of your choice:
 
 > <ul class="bulleted">
 >   <li>
->     We&#8217;ll add your info, your about.me URL, and a� <a href="http://en.wikipedia.org/wiki/QR_code" target="_blank">QR code</a>� to your cards
+>     We&#8217;ll add your info, your about.me URL, and a <a href="http://en.wikipedia.org/wiki/QR_code" target="_blank">QR code</a> to your cards
 >   </li>
 >   <li>
 >     Upload additional images if you&#8217;d like – each card can<br /> be different
@@ -33,11 +33,11 @@ The only thing that I dislike with the card is that big Moo.com logo on the lowe
 
 Designing is a breeze using the website&#8217;s tool. Its simple, easy to understand and use:
 
-*� *
+* *
 
 *<img style="display: block; margin-left: auto; margin-right: auto;" alt="" src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/ScreenShot2013-01-17at83700PM_zps6dd64db8.png" width="600" height="412" />*
 
-*� *
+* *
 
 It took around 2-3 weeks before the package arrived and I must say that I am impressed by the quality of the items. I really love the matte texture, the colors (except my logo since I don&#8217;t have experience with print media) and the thickness of the paper.
 

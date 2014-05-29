@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2012/07/04/why-i-should-be-driving-a-toyota-gt86/
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/gt86_zpsfb5e4735.jpg'
 tags: cars
 ---
 <div>

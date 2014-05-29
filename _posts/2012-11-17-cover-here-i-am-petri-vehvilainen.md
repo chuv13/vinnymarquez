@@ -6,7 +6,7 @@ permalink: /blog/2012/11/17/cover-here-i-am-petri-vehvilainen/
 category: blog
 tags: acoustic covers
 type: youtube
-preview_url: 'http://www.youtube.com/watch?v=Ef06-jBCfEk'
+youtube_video: 'Ef06-jBCfEk'
 ---
 A song from the amazing Swedish vocalist� Petri Vehviläinen. Check out his [audition for Swedish Idol][1].
 

@@ -6,7 +6,7 @@ permalink: /blog/2012/08/21/tech-fitness/
 category: blog
 tags: fitness
 ---
-<span class="dropcap1">A</span>h, after a long while I finally get to write another post. And this time I&#8217;ll tackle a subject that I am recently very fond of: Fitness.
+Ah, after a long while I finally get to write another post. And this time I&#8217;ll tackle a subject that I am recently very fond of: Fitness.
 
 Tech people are usually committed, driven and competitive individuals. We love challenges and solving problems but most of the time, our jobs become counter productive to our wellness: extended hours, irregular shifts, stressful environments, bad eating habits, lack of excercise and lack of work-life balance. A alot of our bretheren succumb to the effects meetings and deadlines but there are a good number of people who take the time to try to defeat the signs of aging. Lols.
 

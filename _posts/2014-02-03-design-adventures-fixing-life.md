@@ -3,6 +3,8 @@ title: 'DESIGN ADVENTURES: FIXING MY LIFE'
 author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2014/02/03/design-adventures-fixing-life/
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/tuge_zpsdaa4ed12.jpg'
 category: blog designs processes
 ---
 For the first blog post for the year (after much thought and deliberation), I decided to write about my decision to learn how to design. From this point on, I&#8217;m dedicating this blog to capture the events, changes, learning and tools that I will encounter on my journey. It doesn’t mean that I’ll stop being a programmer. It just really want to learn how to design and that I&#8217;m finally driving my career the way I want to. I&#8217;m going to focus on solving and building things for myself as practice.

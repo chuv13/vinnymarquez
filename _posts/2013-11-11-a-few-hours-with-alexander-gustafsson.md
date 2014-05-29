@@ -5,7 +5,7 @@ layout: post
 permalink: /blog/2013/11/11/a-few-hours-with-alexander-gustafsson/
 category: blog
 type: preview
-preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/gus_zps2a37fb79.jpg'
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/gus_zps85a60893.jpg'
 tags: boxing mma ufc
 ---
 (cover photo c/o [Through Chito&#8217;s Lens][1])

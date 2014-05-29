@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2012/07/19/mini-dv-hd-video-recorder/
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/minidv_zps0be88933.jpg'
 tags: cameras
 ---
 Mawie recently bought this uber small form factor camera (roughly the size of 2 five Philippine perso coins together). It boasts 5.0MP with a 1280 x 960 resolution, 50MB internal memory, MicroSD slot and re-chargeable via usb. Package contains the camera, a mini usb to usb connector, 3.5mm jack to mini usb connector, keyring flash/portable battery module (needs 1 AA battery and powers the camera through 3.5mm to mini usb) and a wrist strap. Mawie bought it discounted from <a title="http://www.ensogo.com.ph/" href="http://www.ensogo.com.ph/" target="_blank">Ensogo</a> at 799PHP (original price of 1,500PHP).

@@ -3,9 +3,9 @@ title: AN AWESOME WEDDING
 author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/06/11/an-awesome-wedding/
-#customvideo:
-#  - '<iframe src="https://www.facebook.com/video/embed?video_id=10151953510083625" width="100%" height="620" frameborder="0"></iframe>'
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/neilwedding_zpsdbbbc689.jpg'
 tags: music nimbuscrowd
 ---
 

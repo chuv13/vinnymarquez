@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2012/02/10/on-resumes-my-online-identity-and-web-presence/
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/resume_zps67a525dd.jpg'
 tags: musings
 ---
 <span class="dropcap1">A</span>n <a href="http://www.businessinsider.com/9-reasons-your-current-resume-will-never-get-you-a-job-at-apple-or-google-2012-2?op=1" target="_blank">article I recently read</a> listed 9 reasons why my resume will never get me a job in Apple or Google (I qualify in 5/9 of those reasons. LOL). Not that I am currently applying for Apple or google, its just that I want to keep up with the times and ofcourse it feels fulfilling to be equipped/proficient with skills that are hot in the market right now. So I upgraded my resume and created <a href="http://re.vu/johnvinnymarquez" target="_blank">a re.vu account to serve as a portal/resume</a> as part of my inititive to move forward.

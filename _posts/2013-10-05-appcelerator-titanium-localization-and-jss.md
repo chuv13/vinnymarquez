@@ -4,6 +4,8 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/10/05/appcelerator-titanium-localization-and-jss/
 category: blog
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/titnium_zps14d74a93.jpg'
 tags: appcelerator css fromzerotohero javascript jss sublime text titanium studio
 ---
 I&#8217;ve recently re-evaluated my career path and realized that transitioning to a full UX role right now will not only be impractical, but will also take too much from my time and resources. I&#8217;ve decided that moving into mobile development will be a much better transition instead. I&#8217;ve been dabbling with <a href="https://developer.apple.com/xcode/" target="_blank">Apple&#8217;s XCode</a> (for objective-C) and <a href="http://www.appcelerator.com/titanium/titanium-studio/" target="_blank">Appcelerator&#8217;s Titanium Studio</a>. I&#8217;ve barely scratched the surface with these two platforms, but for now I think it will be much better if I go for Titanium Studio since it uses JavaScript. I don&#8217;t have to maintain knowledge of different languages mobile and web development.
