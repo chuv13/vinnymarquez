@@ -5,7 +5,7 @@ layout: post
 permalink: /blog/2013/04/30/up-adventures-day-2-with-sirnicolay/
 category: blog
 type: preview
-preview: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/nicolay2_zps5544d867.jpg'
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/nicolay2_zps5544d867.jpg'
 tags: blackandwhite photography streetphotography updiliman
 ---
 I have to admit, its only been my 2nd time to go to UP and at both times I attended a photography seminar. My interest for photography (I chose the word &#8216;interest&#8217; meaning it still hasn&#8217;t evolved to passion) was renewed when the micro four thirds platform finally became mature. As stated in <a href="http://johnvinnymarquez.net/blog/2013/01/19/olympus-omd-em-5" target="_blank">my previous post</a>, I was taught to shoot film when I was very young but ended up forgeting all about it. Anyway, my gf got me a link  (she&#8217;s a very good researcher BTW) to <a href="http://sirnicolay.blogspot.com/" target="_blank">SirNicolay&#8217;s site</a> and reviews regarding his photography workshops which were instrumental in taking on the whole course with my brother (my graduation gift).
