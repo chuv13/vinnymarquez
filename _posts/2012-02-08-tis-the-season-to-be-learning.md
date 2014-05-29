@@ -4,7 +4,7 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2012/02/08/tis-the-season-to-be-learning/
 category: blog
-tags:music
+tags: music
 ---
 Lately, I&#8217;ve been busy developing the administration part of my site, especially integrating my users with OpenId. I&#8217;ve found a very nice solution (one that will keep my headaches at bay) in the form of <a title="Janrain Engage" href="http://www.janrain.com/products/engage" target="_blank">Janrain Engage</a> (ex-Rpx?). Once I&#8217;m done with my implementation maybe I&#8217;ll find the time to share my experiences. Maybe.
 

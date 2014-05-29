@@ -4,13 +4,9 @@ author: John Vinny "Basti" Marquez
 layout: post
 permalink: /blog/2013/11/11/a-few-hours-with-alexander-gustafsson/
 category: blog
-#categories:
-#  - Fitness
-#  - Personal
-tags:
-  - boxing
-  - mma
-  - ufc
+type: preview
+preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/gus_zps2a37fb79.jpg'
+tags: boxing mma ufc
 ---
 (cover photo c/o [Through Chito&#8217;s Lens][1])
 
