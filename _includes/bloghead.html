@@ -25,6 +25,15 @@
     <link href='http://fonts.googleapis.com/css?family=Kreon' rel='stylesheet' type='text/css'>
     <script src="{{ site.baseurl }}/assets/plugins/picturefill/picturefill.min.js"></script>
 
+    {% if page.code == true %}
+    <script src="{{ site.baseurl }}/assets/plugins/syntaxhighlighter/js/shCore.js"></script>
+    <script src="{{ site.baseurl }}/assets/plugins/syntaxhighlighter/js/shBrushJScript.js"></script>
+    <script src="{{ site.baseurl }}/assets/plugins/syntaxhighlighter/js/shBrushXml.js"></script>
+    {% endif %}
+    
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/plugins/syntaxhighlighter/css/shCore.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/plugins/syntaxhighlighter/css/shThemeRDark.css">
+
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
     <script src="{{ site.baseurl }}/assets/themes/{{ site.theme }}/js/html5shiv.js"></script>

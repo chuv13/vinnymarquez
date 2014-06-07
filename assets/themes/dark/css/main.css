@@ -94,7 +94,7 @@ hr {
 #headerwrap h1 {
     margin-top: 150px;
     color: white;
-    font-size: 70px;
+    font-size: 46px;
     font-weight: 700;
 }
 
@@ -400,4 +400,17 @@ hr {
 
 strong {
     font-weight: 400;
+}
+
+.caption-text {
+    text-align: center;
+    font-size: 14px;
+    font-style: italic;
+}
+
+blockquote{
+    font-family: 'Lato';
+    font-size: 14px;
+    font-style: italic;
+    border-left: 5px solid #bebebe;
 }

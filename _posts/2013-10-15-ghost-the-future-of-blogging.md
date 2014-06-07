@@ -18,7 +18,7 @@ It&#8217;s built with <a href="http://nodejs.org/" target="_blank">Node.js</a>, 
 
 As of today, there is still no paid service like what <a href="http://wordpress.com/" target="_blank">WordPress.com</a> offers (their team is currently &#8216;working on a world class&#8217; solution). You can download the source code and install it locally (for testing and development) or upload it on <a href="http://nodejs.org/" target="_blank">Node.js</a> ready web hosts. I have already tried installing Ghost on OSX and Windows 7 by following <a href="http://docs.ghost.org/installation/" target="_blank">the installation guides</a>.
 
-##### Installing and Running Ghost locally
+### Installing and Running Ghost locally
 
 *   <a href="http://nodejs.org/" target="_blank">Download and install Node.js</a>
 *   Log in to [http://ghost.org][1], and then click the blue &#8216;Download Ghost Source Code&#8217; button.
@@ -37,22 +37,25 @@ I haven&#8217;t tried hosting it live  yet so I won&#8217;t be writing about tha
 
 Here are screen caps from my installation:
 
-<div id="attachment_1060" style="width: 610px" class="wp-caption aligncenter">
-  <a href="http://johnvinnymarquez.net/wp-content/uploads/2013/10/Screen-Shot-2013-10-15-at-4.45.29-PM.png"><img class=" wp-image-1060  " alt="Profile setup" src="http://johnvinnymarquez.net/wp-content/uploads/2013/10/Screen-Shot-2013-10-15-at-4.45.29-PM-1024x464.png" width="600" /></a><p class="wp-caption-text">
-    Profile setup
-  </p>
+<div class="centered">
+  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/10/Screen-Shot-2013-10-15-at-4.45.29-PM.png" width="90%" />
+</div>
+<div class="caption-text">
+  Profile setup
 </div>
 
-<div id="attachment_1061" style="width: 610px" class="wp-caption aligncenter">
-  <a href="http://johnvinnymarquez.net/wp-content/uploads/2013/10/Screen-Shot-2013-10-15-at-4.45.15-PM.png"><img class=" wp-image-1061 " alt="Edit Mode" src="http://johnvinnymarquez.net/wp-content/uploads/2013/10/Screen-Shot-2013-10-15-at-4.45.15-PM-1024x480.png" width="600" /></a><p class="wp-caption-text">
-    Edit Mode
-  </p>
+<div class="centered">
+  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/10/Screen-Shot-2013-10-15-at-4.45.15-PM.png" width="90%" />
+</div>
+<div class="caption-text">
+  Edit Mode
 </div>
 
-<div id="attachment_1062" style="width: 610px" class="wp-caption aligncenter">
-  <a href="http://johnvinnymarquez.net/wp-content/uploads/2013/10/Screen-Shot-2013-10-15-at-4.44.57-PM.png"><img class=" wp-image-1062 " alt="Posts" src="http://johnvinnymarquez.net/wp-content/uploads/2013/10/Screen-Shot-2013-10-15-at-4.44.57-PM-1024x525.png" width="600" /></a><p class="wp-caption-text">
-    Posts
-  </p>
+<div class="centered">
+  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/10/Screen-Shot-2013-10-15-at-4.44.57-PM.png" width="90%" />
+</div>
+<div class="caption-text">
+  Posts
 </div>
 
 &nbsp;

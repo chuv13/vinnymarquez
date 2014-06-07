@@ -13,30 +13,29 @@ I believe that having a technical skill is very important in building things. Ha
 
 I have to admit, I have been very unorganized until now and that I have had so many broken processes in my life that need to be addressed. That&#8217;s why it will be my first big project: Fixing my life.
 
-I made this list that I will be referring to as my backlog. It will be updated everytime I accomplish something, or think of something new.  
-[su_heading]
+I made this list that I will be referring to as my backlog. It will be updated everytime I accomplish something, or think of something new.
 
 ## Personal
 
-*   [Getting to and maintaining ‘Inbox Zero’][1] [su\_label type="success"]Done![/su\_label]
-*   Designing a daily routine. A workable routine for the procrastinator in me. I am finally able to admit that I do not know how to follow a routine [su\_label type="important"]In progress[/su\_label]
-*   A system to help not only plan but to implement my plans [su\_label type="important"]In progress[/su\_label] 
-    *   Task/To-Do list [su\_label type="important"]In progress[/su\_label]
-    *   Using a schedule [su\_label type="important"]In progress[/su\_label]
-    *   Short, medium and long term goals board [su\_label type="important"]In progress[/su\_label]
-    *   Agile or any other methodology applied to my life [su\_label type="important"]In progress[/su\_label]
+*   [Getting to and maintaining ‘Inbox Zero’][1]
+*   Designing a daily routine. A workable routine for the procrastinator in me. I am finally able to admit that I do not know how to follow a routine In progress
+*   A system to help not only plan but to implement my plans In progress 
+    *   Task/To-Do list In progress
+    *   Using a schedule In progress
+    *   Short, medium and long term goals board In progress
+    *   Agile or any other methodology applied to my life In progress
 *   Organize daily objects/places that I interact with 
-    *   My Car [su\_label type="black"]On hold[/su\_label]
-    *   My living space [su\_label type="black"]On hold[/su\_label]
-    *   My work place [su\_label type="important"]In progress[/su\_label] 
-        *   Desk [su\_label type="success"]Done![/su\_label]
+    *   My Car On hold
+    *   My living space On hold
+    *   My work place In progress 
+        *   Desk Done!
         *   Music Gear
         *   Photography Gear
-*   A system that will help develop my creativity and organize my ideas, because &#8216;Inspiration is perishable&#8217;. [su\_label type="important"]In progress[/su\_label] 
-    *   Sketchbook [su\_label type="success"]Done![/su\_label]
-    *   Writing software (Writer pro, Evernote) and removing unnecessary software [su\_label type="important"]In progress[/su\_label]
-    *   Short, medium and long term goals board [su\_label type="important"]In progress[/su\_label]
-    *   Agile or any other methodology applied to my life [su\_label type="important"]In progress[/su\_label]
+*   A system that will help develop my creativity and organize my ideas, because &#8216;Inspiration is perishable&#8217;. In progress 
+    *   Sketchbook Done!
+    *   Writing software (Writer pro, Evernote) and removing unnecessary software In progress
+    *   Short, medium and long term goals board In progress
+    *   Agile or any other methodology applied to my life In progress
 *   A system for continuous learning 
     *   Reading 
         *   Articles
@@ -57,24 +56,16 @@ I made this list that I will be referring to as my backlog. It will be updated e
 *   A system for all of my life hacks
 *   Learn how to prioritize, gauge tasks and avoid distractions
 *   Leadership
-*   Design an Identity Package [su\_label type="important"]In progress[/su\_label] 
-    *   Resume [su\_label type="important"]In progress[/su\_label]
-    *   CV [su\_label type="important"]In progress[/su\_label]
-    *   Business Card [su\_label type="important"]In progress[/su\_label]
-    *   My personal logo [su\_label type="important"]In progress[/su\_label]
-
-[/su_list]
-
-[su_heading]
+*   Design an Identity Package In progress 
+    *   Resume In progress
+    *   CV In progress
+    *   Business Card In progress
+    *   My personal logo In progress
 
 ## Work
 
-[/su_heading]  
-[su_list]
+*   Brown bag sessions. I was tasked to take the initiative on the UX Brown bag sessions. Somewhere along the way, I realized that I wanted to help fix whatever was broken with these sessions. I got to form a crack team that will design, prototype and implement In progress
 
-*   Brown bag sessions. I was tasked to take the initiative on the UX Brown bag sessions. Somewhere along the way, I realized that I wanted to help fix whatever was broken with these sessions. I got to form a crack team that will design, prototype and implement [su\_label type="important"]In progress[/su\_label]
-
-[/su_list]
 
 Whew!All done!
 

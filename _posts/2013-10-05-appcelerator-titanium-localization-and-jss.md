@@ -7,6 +7,7 @@ category: blog
 type: preview
 preview_url: 'http://i1169.photobucket.com/albums/r511/johnvinnymarquez/titnium_zps14d74a93.jpg'
 tags: appcelerator css fromzerotohero javascript jss sublime text titanium studio
+code: true
 ---
 I&#8217;ve recently re-evaluated my career path and realized that transitioning to a full UX role right now will not only be impractical, but will also take too much from my time and resources. I&#8217;ve decided that moving into mobile development will be a much better transition instead. I&#8217;ve been dabbling with <a href="https://developer.apple.com/xcode/" target="_blank">Apple&#8217;s XCode</a> (for objective-C) and <a href="http://www.appcelerator.com/titanium/titanium-studio/" target="_blank">Appcelerator&#8217;s Titanium Studio</a>. I&#8217;ve barely scratched the surface with these two platforms, but for now I think it will be much better if I go for Titanium Studio since it uses JavaScript. I don&#8217;t have to maintain knowledge of different languages mobile and web development.
 
@@ -18,44 +19,48 @@ Oh BTW, I don&#8217;t use Titanium Studio much because I use <a href="http://www
 
 Create a folder at root level of your project and name it &#8216;i18n&#8217;. This will be the folder where  the app will look for folder containing localized strings, which names should be according to the <a href="http://en.wikipedia.org/wiki/ISO_639-1" target="_blank">ISO 639-1 standard</a>. For my sample project, I have 3 languages inside the folder (meh, ph is not supported though). Take a look at the screenshot below:
 
-<div id="attachment_1025" style="width: 192px" class="wp-caption aligncenter">
-  <a href="http://johnvinnymarquez.net/wp-content/uploads/2013/10/Screen-Shot-2013-10-05-at-8.18.55-PM.png"><img class="size-full wp-image-1025" alt="Localization Structure" src="http://johnvinnymarquez.net/wp-content/uploads/2013/10/Screen-Shot-2013-10-05-at-8.18.55-PM.png" width="182" height="567" /></a><p class="wp-caption-text">
-    Folder Structure, Sublime Text 2
-  </p>
+<div class="centered">
+  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/10/Screen-Shot-2013-10-05-at-8.18.55-PM.png" />
+</div>
+<div class="caption-text">
+  Folder Structure, Sublime Text 2
 </div>
 
 Lets have a look at the contents of the xml files.
 
-strings.xml &#8211; en
+<pre class="brush: xml">
+  /********* strings.xml  *********/  
 
-{% highlight xml %}
-<?xml version=”1.0” encoding=”UTF-8”?>
-<resources>
-<string name=”appname”>Cat</string>
-<string name=”greeting_android”>Hello, I’m an Android!</string>
-<string name=”greeting_ios”>Greetings, I’m a Potatoe!</string>
-</resources>
-{% endhighlight %}
+  <?xml version=”1.0” encoding=”UTF-8”?>
+  <resources>
+    <string name=”appname”>Cat</string>
+    <string name=”greeting_android”>Hello, I’m an Android!</string>
+    <string name=”greeting_ios”>Greetings, I’m a Potatoe!</string>
+  </resources>
+
+</pre>
 
 <address>
-  strings.xml &#8211; es
 </address>
 
-{% highlight xml %}
-<?xml version="1.0" encoding="UTF-8"?>
-<resources>
-<string name="appname">Gato</string>
-<string name="greeting_android">Hola, el Android!</string>
-<string name="greeting_ios">Hola, soy una Patata!</string>
-</resources>
-{% endhighlight %}
+<pre class="brush: xml">
+  /******* strings.xml - es *******/
+
+  <?xml version="1.0" encoding="UTF-8"?>
+  <resources>
+    <string name="appname">Gato</string>
+    <string name="greeting_android">Hola, el Android!</string>
+    <string name="greeting_ios">Hola, soy una Patata!</string>
+  </resources>
+
+</pre>
 
 You can call these strings by using Ti.Locale.getString(&#8220;resourcename&#8221;); or L(&#8220;resourcename&#8221;); as a shortcut:
 
-{% highlight javascript %}
+<pre class="brush: xml;">
 alert(L("appname"));
 alert(Ti.Locale.getString("appname"));
-{% endhighlight %}
+</pre>
 
 
 Both lines will return appname&#8217;s value depending on the locale.
@@ -64,36 +69,32 @@ Both lines will return appname&#8217;s value depending on the locale.
 
 JSS are Style Sheets that you can use to separate design for each platform. Since I just want iOS and Android for samples, here are my JSS files:
 
-<address>
-  app.android.jss
-</address>
+<pre class="brush: js" style="width: 100%">
+/********* app.android.jss  *********/
 
-{% highlight javascript %}
 #mainwin {
-background-color: '#f00';
+  background-color: '#f00';
 }
 
 #mainlabel {
-color:'#fff';
-top:100;
-width:'auto';
-height:'auto';
-text:'Greetings! I'm an Android!';
+  color:'#fff';
+  top:100;
+  width:'auto';
+  height:'auto';
+  text:'Greetings! I'm an Android!';
 }
-{% endhighlight %}
+</pre>
 
 For my main application, take a look at the code below:
 
-<address>
-  app.js
-</address>
+<pre class="brush: js">
+/********* app.android.jss  *********/
 
-{% highlight javascript %}
 var win = Ti.UI.createWindow({ id:'mainwin' });
 var label = Ti.UI.createLabel({ id:'mainlabel' });
 win.add(label);
 win.open();
-{% endhighlight %}
+</pre>
 
 It just basically creates a window (with the style &#8216;mainwin&#8217;) and a label (with &#8216;mainlabel&#8217;) then opens it. If the app is deployed to iOS, then the window background will be blue and red if it is deployed to Android. Nifty eh?
 
@@ -101,22 +102,24 @@ It just basically creates a window (with the style &#8216;mainwin&#8217;) and a 
 
 We&#8217;re just going to combine these techniques. How? Its actually very simple. As an example, lets take a look at the <a href="http://docs.appcelerator.com/titanium/2.0/#!/api/Titanium.UI.Label" target="_blank">Titanium Label class</a> and look specifically at the <a href="http://docs.appcelerator.com/titanium/2.0/#!/api/Titanium.UI.Label-property-textid" target="_blank">textid property</a>:
 
-<div id="attachment_1028" style="width: 467px" class="wp-caption aligncenter">
-  <a href="http://johnvinnymarquez.net/wp-content/uploads/2013/10/Screen-Shot-2013-10-05-at-8.44.48-PM.png"><img class="size-full wp-image-1028" alt="textid" src="http://johnvinnymarquez.net/wp-content/uploads/2013/10/Screen-Shot-2013-10-05-at-8.44.48-PM.png" width="457" height="114" /></a>
+<div class="centered" >
+  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/10/Screen-Shot-2013-10-05-at-8.44.48-PM.png" width="90%" />
 </div>
 
 So to use localized strings, lets use the textid property instead of text in our JSS:
 
-<div id="attachment_1026" style="width: 647px" class="wp-caption aligncenter">
-  <a href="http://johnvinnymarquez.net/wp-content/uploads/2013/10/Screen-Shot-2013-10-05-at-8.33.03-PM.png"><img class="size-full wp-image-1026" alt="I'm a potatoe!" src="http://johnvinnymarquez.net/wp-content/uploads/2013/10/Screen-Shot-2013-10-05-at-8.33.03-PM.png" width="637" height="308" /></a><p class="wp-caption-text">
-    Yeah, I&#8217;m a Potatoe!
-  </p>
+<div class="centered" width="90%">
+  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/10/Screen-Shot-2013-10-05-at-8.33.03-PM.png" width="90%" />
+</div>
+<div class="caption-text">
+  Yeah, I&#8217;m a Potatoe!
 </div>
 
-<div id="attachment_1030" style="width: 643px" class="wp-caption aligncenter">
-  <a href="http://johnvinnymarquez.net/wp-content/uploads/2013/10/Screen-Shot-2013-10-05-at-8.33.47-PM.png"><img class="size-full wp-image-1030" alt="In Spanish!" src="http://johnvinnymarquez.net/wp-content/uploads/2013/10/Screen-Shot-2013-10-05-at-8.33.47-PM.png" width="633" height="291" /></a><p class="wp-caption-text">
-    In Spanish!
-  </p>
+<div class="centered">
+  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/10/Screen-Shot-2013-10-05-at-8.33.47-PM.png" width="90%" />
+</div>
+<div class="caption-text">
+  In Spanish!
 </div>
 
 So there you have it! I hope this post can be of help to you. I know its not much, but at least I&#8217;m making progress. Happy coding!

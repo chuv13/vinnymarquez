@@ -16,7 +16,7 @@ One of the most exciting news I&#8217;ve heard so far is the announcement of the
 > Join the hardware beta now.  
 > Choose the model right for you in 2014
 
-**How to be a part of the beta:**
+### How to be a part of the beta
 
 > <div>
 >   THE HARDWARE BETA ELIGIBILITY QUEST:
@@ -48,102 +48,50 @@ One of the most exciting news I&#8217;ve heard so far is the announcement of the
 
 *Note: Step 5 really requires you to use a gamepad, you can&#8217;t  accomplish this quest if you just run Steam in Big Picture mode and launch a game using a mouse and/or the arrow keys.*
 
-**The Badge Quest**
+### The Badge Quest
 
 After completing the steps, the badge will appear on your account (+150XP) and you will have a chance to be one of the 300 beta testers. Take a look at the badge quest below:
 
-<p style="text-align: center;">
-  <a href="http://johnvinnymarquez.net/wp-content/uploads/2013/09/steam01.jpg"><img class="aligncenter  wp-image-1001" alt="steam01" src="http://johnvinnymarquez.net/wp-content/uploads/2013/09/steam01.jpg" width="600" /></a>
-</p>
 
-The badge is selectable for display on your profile:
+<div class="centered" width="90%">
+  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/09/steam01.jpg" width="90%" />
+</div>
 
-<p style="text-align: center;">
-  <a href="http://johnvinnymarquez.net/wp-content/uploads/2013/09/steam02.jpg"><img class="aligncenter  wp-image-1002" alt="steam02" src="http://johnvinnymarquez.net/wp-content/uploads/2013/09/steam02-1024x448.jpg" width="600" /></a>
-</p>
 
-&nbsp;
 
-**Questions**
+<div class="centered" width="90%">
+  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/09/steam02.jpg" width="90%" />
+</div>
+<div class="caption-text">
+  The badge is selectable for display on your profile!
+</div>
+
+### Questions
 
 Here are some of the questions found in the article that I found interesting:
 
-***How will you choose the 300 beta participants?***  
-******A small number of users (30 or less) will be chosen based on their past community contributions and beta participation. The remainder will be chosen at random from the eligible pool.
+> #### How will you choose the 300 beta participants?
+> A small number of users (30 or less) will be chosen based on their past community contributions and beta participation. The  remainder will be chosen at random from the eligible pool.
+> 
+> #### When will the prototypes ship? 
+> This year.
+> 
+> #### Will beta testers be allowed to share info about their experience and post pictures and opinions online?
+> Yes, that really is the whole point. The input from testers should come in many forms: bug reports, forum posts, concept art, 3D prints, haikus, and also very publicly stated opinions.
+> 
+> #### Can I hack this box? Run another OS? Change the hardware? Install my own software? Use it to build a robot?
+> Sure.
+> 
+> #### Can I download the OS to try it out?
+> You will be able to download it (including the source code, if you&#8217;re into that) but not yet.
+> 
+> #### What games will be available during the beta?
+> The nearly 3,000 games on Steam. Hundreds already running natively on the SteamOS, with more to come. The rest will work seamlessly via in-home streaming.
+>     
+> #### What is SteamOS? What’s included?
+> Here&#8217;s <a href="http://store.steampowered.com/livingroom/SteamOS">a link to what we said earlier about SteamOS</a>. We&#8217;ll have more details to tell you, soon.
+   
 
-<div>
-  <strong>When will the prototypes ship?</strong>
-</div>
-
-<div>
-  <strong></strong>This year.
-</div>
-
-<div>
-</div>
-
-<div>
-  <p>
-    <strong>Will beta testers be allowed to share info about their experience and post pictures and opinions online?</strong>
-  </p>
-  
-  <div>
-    Yes, that really is the whole point. The input from testers should come in many forms: bug reports, forum posts, concept art, 3D prints, haikus, and also very publicly stated opinions.
-  </div>
-  
-  <div>
-  </div>
-  
-  <div>
-    <p>
-      <strong>Can I hack this box? Run another OS? Change the hardware? Install my own software? Use it to build a robot?</strong>
-    </p>
-    
-    <div>
-      Sure.
-    </div>
-    
-    <div>
-    </div>
-    
-    <div>
-      <p>
-        <strong>Can I download the OS to try it out?</strong>
-      </p>
-      
-      <div>
-        You will be able to download it (including the source code, if you&#8217;re into that) but not yet.
-      </div>
-    </div>
-    
-    <div>
-    </div>
-    
-    <div>
-      <div>
-        <strong>What games will be available during the beta?</strong>
-      </div>
-      
-      <div>
-        The nearly 3,000 games on Steam. Hundreds already running natively on the SteamOS, with more to come. The rest will work seamlessly via in-home streaming.
-      </div>
-      
-      <div>
-      </div>
-      
-      <div>
-        <div>
-          <strong>What is SteamOS? What’s included?</strong>
-        </div>
-        
-        <div>
-          Here&#8217;s <a href="http://store.steampowered.com/livingroom/SteamOS">a link to what we said earlier about SteamOS</a>. We&#8217;ll have more details to tell you, soon.
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-**Conclusion**
-
+### Conclusion
+ 
 I would love to be part of the beta and receive one of those steam machines. Hack it, run another OS, install my own software, or use it to build a robot aside from being able to play games on it? Count me in! <img src="http://johnvinnymarquez.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
