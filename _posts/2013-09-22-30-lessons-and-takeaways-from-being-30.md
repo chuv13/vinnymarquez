@@ -30,9 +30,9 @@ So here it goes. Ready?
 
 23 - `A manager and a leader are two entirely different animals`. Know the difference by heart. I'd rather be the latter.
 
-22 - `Having a lot of "friends&#8221; is great, but you can only be in contact with around 150 at a time` (148 to be exact, search for Dunbar's number). In short, yes, you have 9999999 friends on Facebook, but you can only maintain stable (and meaningful) social relationships with 150 (maximum) at a time (I can only manage much less than that). And…
+22 - `Having a lot of "friends" is great, but you can only be in contact with around 150 at a time` (148 to be exact, search for Dunbar's number). In short, yes, you have 9999999 friends on Facebook, but you can only maintain stable (and meaningful) social relationships with 150 (maximum) at a time (I can only manage much less than that). And…
 
-21 - `Be sure to have positive people in your "Inner Circle&#8221;`. Remember the saying "Show me who your friends are and I'll tell you who you are&#8221;? It's cliche I know, but don't keep hanging out with Negatrons if you want to be an Optimist Prime! Lol. Like it or not, the environment plays a big role in the shaping your character.
+21 - `Be sure to have positive people in your "Inner Circle"`. Remember the saying "Show me who your friends are and I'll tell you who you are"? It's cliche I know, but don't keep hanging out with Negatrons if you want to be an Optimist Prime! Lol. Like it or not, the environment plays a big role in the shaping your character.
 
 20 - `Stand for something, if you don't, you'll fall for everything`. (yeah, taken from Alexander Hamilton) And remember that…
 
@@ -75,4 +75,4 @@ So here it goes. Ready?
 1 - `Live a thankful life`. Always be thankful. Dwell on the things that you are thankful for, and not on the things that you are lacking.
 
 Bonus (This is based on my faith. If this may offend you or you don't have any interest in these kinds of things, then simply skip it. Yeah, another idea from John Maxwell :))  
-0 - `All the these 30 lessons are hinged on this fact: I cannot place my trust in myself`. I have already failed countless times and I will continue on failing. There are things that I cannot change on my own and I have to learn accept that God is the only one who can change them for me. Always try to remember to "Let go, and Let God&#8221;. Apart from Him, I am nothing (John 15:5).
+0 - `All the these 30 lessons are hinged on this fact: I cannot place my trust in myself`. I have already failed countless times and I will continue on failing. There are things that I cannot change on my own and I have to learn accept that God is the only one who can change them for me. Always try to remember to "Let go, and Let God". Apart from Him, I am nothing (John 15:5).
