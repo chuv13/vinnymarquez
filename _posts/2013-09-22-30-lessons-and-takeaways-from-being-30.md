@@ -12,7 +12,7 @@ As you know (or may not know), I recently celebrated my 18th birthday. Lol. Afte
 
 I&#8217;m sharing it with you guys in the hopes that you may pickup a thing or two. Sharing is caring, right?
 
-So here it goes. Ready? <img src="http://johnvinnymarquez.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+So here it goes. Ready?
 
 30 - *Prioritization is very important*. It&#8217;s ok to have a lot of skills, hobbies and stuff as long as you can focus on the right things at the right time.
 

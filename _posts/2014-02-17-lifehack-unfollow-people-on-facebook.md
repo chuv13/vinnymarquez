@@ -32,17 +32,17 @@ I usually miss private messages because I used to stop myself from using Faceboo
 * **Use iChat/Messenger**. Did you know that you can use it for FB chat? Go to Messenger > Preferences > Add Account&#8230;
 
 <div class="centered">
-<img src="http://johnvinnymarquez.net/wp-content/uploads/2014/02/add_account2.png" width="90%" />
+<img src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/add_account2_zps8b53c08c.png" width="90%" />
 </div>
 
 <div class="centered">
-<img src="http://johnvinnymarquez.net/wp-content/uploads/2014/02/add_account.png" width="90%" />
+<img src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/add_account_zps904824ca.png" width="90%" />
 </div>
 
 * Use 3rd party apps like **<a href="http://astroim.com/#/hero" target="_blank">Astro</a> **and<a href="http://flamingo.im/" target="_blank"><strong>Flamingo</strong></a>. These will make your life easier.
 
 <div class="centered">
-<img src="http://johnvinnymarquez.net/wp-content/uploads/2014/02/messages.png" width="90%" />
+<img src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/messages_zps0bfb1675.png" width="90%" />
 </div>
 <div class="caption-text">
 	Oh hai there Tophie!

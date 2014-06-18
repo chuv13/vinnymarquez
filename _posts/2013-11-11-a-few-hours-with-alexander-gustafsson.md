@@ -13,7 +13,7 @@ tags: boxing mma ufc
 Last Friday November 9, 2013 I was fortunate enough to take part in a media event/boxing clinic/meet and greet with <a href="https://www.facebook.com/AlexTheMauler" target="_blank">Alexander Gustafsson</a> that was organized by [Balls TV][2]. It was held at <a href="http://www.fitboxtechnogym.com/" target="_blank">FitBox Technogym</a> (you can read about the my <a href="http://johnvinnymarquez.net/blog/2013/03/07/fitbox-technogym/" target="_blank">review of the gym earlier this year</a>) which is (fortunately) where I train and would explain why I got to attend the event. I&#8217;ve got to admit that I&#8217;ve only become a Gustafsson fan after UFC 165; that for me, was ONE OF THE MOST AWESOME fights I have EVER witnessed in the UFC! Accurate boxing, great takedown defense, great movement, strength plus the fact that he damaged and pushed Jon Jones like no other. I found it hard to fall asleep the night before because I was so excited (and was too tired from the long drive from earlier that day), I kept thinking how cool it would be to be in the same room with an awesome fighter like him! Not to mention being able to shoot pics, blog about the event and get his autograph!
 
 <div class="centered">
-  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/11/IMG_5422.jpg" width="90%" />
+  <img src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/IMG_5422_zpsa5048f8b.jpg" width="90%" />
 </div>
 <div class="caption-text">
   My goal was to take pictures (which didn&#8217;t happen) and blog about the event. But, yeah.
@@ -23,14 +23,14 @@ Last Friday November 9, 2013 I was fortunate enough to take part in a media even
 We were notified a day before by the <a href="https://www.facebook.com/photo.php?fbid=362359857242858&set=a.218329181645927.72058.216251481853697&type=1" target="_blank">FitBox Technogym Facebook page</a> that it would be open to members who wanted to workout from 10am-3pm and that the event would start at 3pm. I arrived at around 3:30pm thinking I was late but it turns out that the 3pm call time was for the staff to be able to prepare for the start of the event at 4pm. While waiting, I got the chance to meet with <a href="https://www.facebook.com/chito.luna.1" target="_blank">Chito Luna</a> and his team as they were setting up for the shoot. We chatted for a while and got photography tips from him (especially about Tamron and Sigma lenses :p). Gustafsson arrived at around 3:45pm and I tried to take a few picture but I found it hard since I only had the Canon with the 50mm with me. I forgot my Olympus cam (which was what I used for the wide angle shots) at the gym&#8217;s lobby/couch where Alexander and his team were lounging. I couldn&#8217;t get my stuff while he was there and surrounded by his bodyguards so I just waited until the event started to quickly get my cam.  It was actually my first time attending a media event and I was clueless. People were running around placing banners, setting up photo/video equipment, removing gym equipment to clear some space so I just tried to be ninja-like and not to be in anyone&#8217;s way.
 
 <div class="centered">
-  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/11/IMG_5417.jpg" width="90%" />
+  <img src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/IMG_5417_zpsed272f19.jpg" width="90%" />
 </div>
 <div class="caption-text">
   Removing some of the punching bags for the event
 </div>
 
 <div class="centered">
-  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/11/IMG_5427.jpg" width="90%" />
+  <img src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/IMG_5427_zps15a2c8ea.jpg" width="90%" />
 </div>
 <div class="caption-text">
   Setting up lights after clearing up the floor
@@ -39,7 +39,7 @@ We were notified a day before by the <a href="https://www.facebook.com/photo.php
 There were only a small number of gym members who actually went to the event. There were some who signed up but didn&#8217;t show up. At least the familiar faces were there so I wasn&#8217;t as lonely as I thought I would be. Lol.
 
 <div class="centered">
-  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/11/IMG_5431.jpg" width="90%" />
+  <img src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/IMG_5431_zps73301a33.jpg" width="90%" />
 </div>
 <div class="caption-text">
   Some of the gym&#8217;s staff and members (apologies for the blurred shot)
@@ -48,7 +48,7 @@ There were only a small number of gym members who actually went to the event. Th
 At around 4pm we were informed that the event was about to start, so I prepared my cameras. The host introduced Alexander as he walked through the gym&#8217;s door and the event was in full swing. As I was happily (and star-struck) clicking away, I was told by Gerry that I should change my clothes and take part of the Boxing Clinic (good thing I brought clothes!). So I quickly left my gear with him, changed quickly and jumped into the fray.
 
 <div class="centered">
-  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/11/IMG_5435.jpg" width="90%" />
+  <img src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/IMG_5435_zpsb4405168.jpg" width="90%" />
 </div>
 <div class="caption-text">
   The &#8220;Mauler&#8221;
@@ -62,7 +62,7 @@ Alexander made us do some warm ups (calisthenics) first then some footwork while
 In summary, my favourite takeaway is &#8220;always master the basics, then develop your own style&#8221;.
 
 <div class="centered">
-  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/11/IMG_5450.jpg" width="90%" />
+  <img src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/IMG_5450_zps3c0a32f5.jpg" width="90%" />
 </div>
 <div class="caption-text">
   Doing drills (thanks to <a href="https://www.facebook.com/gerrypaul.azarcon" target="_blank">Gerry</a> for the pic)
@@ -72,14 +72,14 @@ In summary, my favourite takeaway is &#8220;always master the basics, then devel
 After the boxing clinic we were asked to fall in line for merchandise signing. Most of the items that were brought to the event were of course boxing gloves.
 
 <div class="centered">
-  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/11/PB095459.jpg" width="90%" />
+  <img src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/PB095459_zps00fff133.jpg" width="90%" />
 </div>
 <div class="caption-text">
   Mario gets interviewed while waiting in line
 </div>
 
 <div class="centered">
-  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/11/IMG_5428.jpg" width="90%" />
+  <img src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/IMG_5428_zpsbb640006.jpg width="90%" />
 </div>
 <div class="caption-text">
   Is that you Manny?
@@ -88,35 +88,35 @@ After the boxing clinic we were asked to fall in line for merchandise signing. M
 One of the instructors Mario &#8220;The Monster&#8221; Sismundo, a celebrity of sorts because he looks like Manny Pacquiao; the resemblance is so uncanny that Alexander even joked about it.
 
 <div class="centered">
-  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/11/PB095460.jpg" width="90%" />
+  <img src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/PB095460_zps5f2dd528.jpg" width="90%" />
 </div>
 <div class="caption-text">
   Roco&#8217;s autographed MMA gloves
 </div>
 
 <div class="centered">
-  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/11/PB095462.jpg" width="90%" />
+  <img src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/PB095462_zps4fa204bd.jpg" width="90%" />
 </div>
 <div class="caption-text">
   Aizza poses for a pic after getting her gloves signed
 </div>
 
 <div class="centered">
-  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/11/PB095473.jpg" width="90%" />
+  <img src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/PB095473_zps1e91114d.jpg" width="90%" />
 </div>
 <div class="caption-text">
   Me watching my gloves get signed
 </div>
 
 <div class="centered">
-  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/11/PB095476.jpg" width="90%" />
+  <img src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/PB095476_zps7756ed3a.jpg" width="90%" />
 </div>
 <div class="caption-text">
   The happy kid with his newly autographed toy
 </div>
 
 <div class="centered">
-  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/11/PB095490.jpg" width="90%" />
+  <img src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/PB095490_zpscdad1162.jpg" width="90%" />
 </div>
 <div class="caption-text">
   Roco with the promotional poster
@@ -125,7 +125,7 @@ One of the instructors Mario &#8220;The Monster&#8221; Sismundo, a celebrity of 
 I forgot to bring my FitBox shirt so I was forced to use my gloves for the autograph. From now on, I have to use my gf&#8217;s gloves for practice&#8230; I sure hope they fit!
 
 <div class="centered">
-  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/11/PB095487.jpg" width="90%" />
+  <img src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/PB095487_zps1f2afb85.jpg" width="90%" />
 </div>
 <div class="caption-text">
   Autographed
@@ -135,7 +135,7 @@ In closing, I think Alexander Gustafsson is a good guy and an awesome athlete. H
 
 Thank you [Balls TV][2] for bringing him to the Philippines! Thanks to the <a href="http://www.fitboxtechnogym.com/" target="_blank">FitBox Technogym</a> family: <a href="https://www.facebook.com/tame.cruz" target="_blank">Roco Cruz</a>, <a href="https://www.facebook.com/gerrypaul.azarcon" target="_blank">Gerry Azarcon</a>, <a href="https://www.facebook.com/aizbaby" target="_blank">Aizza Baltazar</a>, <a href="https://www.facebook.com/chito.luna.1" target="_blank">Chito Luna</a>, <a href="https://www.facebook.com/mars.sismundo" target="_blank">Mario Sismundo</a>, <a href="https://www.facebook.com/jayson.rotoni.5" target="_blank">Jayson Rotoni</a>, <a href="https://www.facebook.com/wow.cruz.1" target="_blank">Wow Cruz</a>, <a href="https://www.facebook.com/jojo.apas1" target="_blank">Jojo Apas</a>.
 
-So&#8230; when will the Korean Zombie and Edson Barbosa visit the Philippines? <img src="http://johnvinnymarquez.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+So&#8230; when will the Korean Zombie and Edson Barbosa visit the Philippines?
 
 [1]: https://www.facebook.com/chito.luna.90
 [2]: http://ballschannel.studio23.tv/news/689

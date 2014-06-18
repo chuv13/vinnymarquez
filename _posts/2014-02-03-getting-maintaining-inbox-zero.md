@@ -34,6 +34,6 @@ Maintaining Inbox Zero:
 
 It took me a more than half a day to clean my inbox and I&#8217;m now enjoying it! Well, my personal emails are done. Moving on to work email. Zzz.
 
-How about you? Have you reached the &#8216;Inbox Zero&#8217; state? Any tips? Comments and suggestions are welcome. <img src="http://johnvinnymarquez.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+How about you? Have you reached the &#8216;Inbox Zero&#8217; state? Any tips? Comments and suggestions are welcome.
 
  [1]: http://francherechan.com
