@@ -38,21 +38,21 @@ I haven&#8217;t tried hosting it live  yet so I won&#8217;t be writing about tha
 Here are screen caps from my installation:
 
 <div class="centered">
-  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/10/Screen-Shot-2013-10-15-at-4.45.29-PM.png" width="90%" />
+  <img src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/Screen-Shot-2013-10-15-at-44529-PM_zps672b609a.png" width="90%" />
 </div>
 <div class="caption-text">
   Profile setup
 </div>
 
 <div class="centered">
-  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/10/Screen-Shot-2013-10-15-at-4.45.15-PM.png" width="90%" />
+  <img src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/Screen-Shot-2013-10-15-at-44515-PM_zpsf0a55646.png" width="90%" />
 </div>
 <div class="caption-text">
   Edit Mode
 </div>
 
 <div class="centered">
-  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/10/Screen-Shot-2013-10-15-at-4.44.57-PM.png" width="90%" />
+  <img src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/Screen-Shot-2013-10-15-at-44457-PM_zpsd16bf9dd.png" width="90%" />
 </div>
 <div class="caption-text">
   Posts
@@ -76,7 +76,7 @@ Known Issues - <a href="https://github.com/TryGhost/Ghost/issues?milestone=3&pag
 Planned Features - <a href="https://github.com/TryGhost/Ghost/wiki/Planned-Features" target="_blank">https://github.com/TryGhost/Ghost/wiki/Planned-Features</a>  
 Roadmap - <a href="https://github.com/TryGhost/ghost/wiki/Roadmap" target="_blank">https://github.com/TryGhost/ghost/wiki/Roadmap</a>
 
-Any comments? Suggestions? Any form of reaction? Hit up the comments section! Let&#8217;s talk! <img src="http://johnvinnymarquez.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+Any comments? Suggestions? Any form of reaction? Hit up the comments section! Let&#8217;s talk!
 
  [1]: http://ghost.org/
  [2]: http://docs.ghost.org/usage

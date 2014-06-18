@@ -54,13 +54,14 @@ After completing the steps, the badge will appear on your account (+150XP) and y
 
 
 <div class="centered" width="90%">
-  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/09/steam01.jpg" width="90%" />
+  <img src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/steam02_zpsac9449ec.jpg" width="90%" />
+</div>
+<div class="caption-text">
+  Captain Cheese's profile!
 </div>
 
-
-
 <div class="centered" width="90%">
-  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/09/steam02.jpg" width="90%" />
+  <img src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/steam01_zps31987534.jpg" width="90%" />
 </div>
 <div class="caption-text">
   The badge is selectable for display on your profile!
@@ -94,4 +95,4 @@ Here are some of the questions found in the article that I found interesting:
 
 ### Conclusion
  
-I would love to be part of the beta and receive one of those steam machines. Hack it, run another OS, install my own software, or use it to build a robot aside from being able to play games on it? Count me in! <img src="http://johnvinnymarquez.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+I would love to be part of the beta and receive one of those steam machines. Hack it, run another OS, install my own software, or use it to build a robot aside from being able to play games on it? Count me in!

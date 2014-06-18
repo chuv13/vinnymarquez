@@ -11,7 +11,7 @@ tags: dota2  steam steamos streampowered
 Finally! The latest <a href="http://www.dota2.com/firstblood" target="_blank">DoTA 2 update (First Blood)</a> now features local (LAN based) play, and is available now for download.
 
 <div class="centered" width="90%">
-  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/09/dota2.jpg" width="90%" />
+  <img src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/dota2_zps99b91f66.jpg" width="90%" />
 </div>
 <div class="caption-text">
   The badge is selectable for display on your profile!
@@ -38,10 +38,10 @@ The most notable changes (for me) would be:
 
 For more information, view the <a href="http://www.dota2.com/firstblood" target="_blank">official DoTA 2 blog post by clicking here</a>.
 
-Now the only thing missing is Phoenix, my favourite hero. <img src="http://johnvinnymarquez.net/wp-includes/images/smilies/icon_sad.gif" alt=":(" class="wp-smiley" /> 
+Now the only thing missing is Phoenix, my favourite hero.
 
 Also, check out <a href="http://store.steampowered.com/livingroom/SteamOS/" target="_blank">SteamOS</a>, (Linux based?) an operating system dedicated for steam! Its going to be available for download soon and its free forever!
 
 <div class="centered" width="90%">
-  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/09/Screen-Shot-2013-09-24-at-11.04.56-AM.png" width="90%" />
+  <img src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/Screen-Shot-2013-09-24-at-110456-AM_zps48bc5981.png" width="90%" />
 </div>

@@ -20,7 +20,7 @@ Oh BTW, I don&#8217;t use Titanium Studio much because I use <a href="http://www
 Create a folder at root level of your project and name it &#8216;i18n&#8217;. This will be the folder where  the app will look for folder containing localized strings, which names should be according to the <a href="http://en.wikipedia.org/wiki/ISO_639-1" target="_blank">ISO 639-1 standard</a>. For my sample project, I have 3 languages inside the folder (meh, ph is not supported though). Take a look at the screenshot below:
 
 <div class="centered">
-  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/10/Screen-Shot-2013-10-05-at-8.18.55-PM.png" />
+  <img src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/Screen-Shot-2013-10-05-at-81855-PM_zpse7aedc72.png" />
 </div>
 <div class="caption-text">
   Folder Structure, Sublime Text 2
@@ -103,20 +103,20 @@ It just basically creates a window (with the style &#8216;mainwin&#8217;) and a 
 We&#8217;re just going to combine these techniques. How? Its actually very simple. As an example, lets take a look at the <a href="http://docs.appcelerator.com/titanium/2.0/#!/api/Titanium.UI.Label" target="_blank">Titanium Label class</a> and look specifically at the <a href="http://docs.appcelerator.com/titanium/2.0/#!/api/Titanium.UI.Label-property-textid" target="_blank">textid property</a>:
 
 <div class="centered" >
-  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/10/Screen-Shot-2013-10-05-at-8.44.48-PM.png" width="90%" />
+  <img src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/Screen-Shot-2013-10-05-at-84448-PM_zpsdc93e29f.png" />
 </div>
 
 So to use localized strings, lets use the textid property instead of text in our JSS:
 
 <div class="centered" width="90%">
-  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/10/Screen-Shot-2013-10-05-at-8.33.03-PM.png" width="90%" />
+  <img src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/Screen-Shot-2013-10-05-at-83303-PM_zps1ec54684.png" width="90%" />
 </div>
 <div class="caption-text">
   Yeah, I&#8217;m a Potatoe!
 </div>
 
 <div class="centered">
-  <img src="http://johnvinnymarquez.net/wp-content/uploads/2013/10/Screen-Shot-2013-10-05-at-8.33.47-PM.png" width="90%" />
+  <img src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/Screen-Shot-2013-10-05-at-83347-PM_zpsa2b21b3d.png" width="90%" />
 </div>
 <div class="caption-text">
   In Spanish!
@@ -124,6 +124,6 @@ So to use localized strings, lets use the textid property instead of text in our
 
 So there you have it! I hope this post can be of help to you. I know its not much, but at least I&#8217;m making progress. Happy coding!
 
-Do you do mobile development? Do you use Appcelerator? Any questions, comments and/or feedback? I would love to hear from you, hit the comments section below! <img src="http://johnvinnymarquez.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
+Do you do mobile development? Do you use Appcelerator? Any questions, comments and/or feedback? I would love to hear from you, hit the comments section below!
 
-***UPDATE &#8211; (10/10/2013)**: I&#8217;ve received and email from <a href="https://developer.appcelerator.com/devlink/profile/427941/malcolm-hollingsworth" target="_blank">Malcolm Hollingsworth</a> pointing out that JSS was slated to be removed for version 2 of the SDK. He recommends that I learn Alloy (Titanium&#8217;s built-in MVC framework). He&#8217;s at <a href="https://developer.appcelerator.com/questions/top-100-experts" target="_blank">#1 (at the time of this writing) of the top 100 experts/contributors within the Titanium</a> community. Awesome guy, he actually took the time to email me. I really appreciate it. Thanks Malcom! <img src="http://johnvinnymarquez.net/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> *
+***UPDATE &#8211; (10/10/2013)**: I&#8217;ve received and email from <a href="https://developer.appcelerator.com/devlink/profile/427941/malcolm-hollingsworth" target="_blank">Malcolm Hollingsworth</a> pointing out that JSS was slated to be removed for version 2 of the SDK. He recommends that I learn Alloy (Titanium&#8217;s built-in MVC framework). He&#8217;s at <a href="https://developer.appcelerator.com/questions/top-100-experts" target="_blank">#1 (at the time of this writing) of the top 100 experts/contributors within the Titanium</a> community. Awesome guy, he actually took the time to email me. I really appreciate it. Thanks Malcom!
