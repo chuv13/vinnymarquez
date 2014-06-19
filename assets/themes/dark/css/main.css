@@ -363,6 +363,10 @@ hr {
     background: url('../img/adobo.png') no-repeat center center;
 }
 
+.blog {
+    background: url('../img/blog.png') no-repeat center center;
+}
+
 .main {
     margin: 75px auto 0;
     background: url('../img/main.png') no-repeat center center;
