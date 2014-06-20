@@ -33,7 +33,7 @@ layout: blog
                     <p>
                         {{ post.content | truncatewords:75 | strip_html }}
                     </p>
-                    <br><a href="" class="pull-right">READ MORE</a>
+                    <br><a href="{{ post.url | prepend: site.baseurl }}" class="pull-right">READ MORE</a>
                     <br>
                     <br>
                 </div>
@@ -78,7 +78,7 @@ layout: blog
                         {{ post.content | truncatewords:75 | strip_html }}
                     </p>
                     <br>
-                    <a href="" class="pull-right">READ MORE</a>
+                    <a href="{{ post.url | prepend: site.baseurl }}" class="pull-right">READ MORE</a>
                     <br>
                     <br>
                     {% endif%}
@@ -105,7 +105,7 @@ layout: blog
                         {{ post.content | truncatewords:75 | strip_html }}
                     </p>
                     <br>
-                    <a href="" class="pull-right">READ MORE</a>
+                    <a href="{{ post.url | prepend: site.baseurl }}" class="pull-right">READ MORE</a>
                     <br>
                     <br>
                     {% endif%}
@@ -132,7 +132,7 @@ layout: blog
                         {{ post.content | truncatewords:75 | strip_html }}
                     </p>
                     <br>
-                    <a href="" class="pull-right">READ MORE</a>
+                    <a href="{{ post.url | prepend: site.baseurl }}" class="pull-right">READ MORE</a>
                     <br>
                     <br>
                     {% endif%}
@@ -157,7 +157,7 @@ layout: blog
                     <p>
                         {{ post.content | truncatewords:100 | strip_html }}
                     </p>
-                    <br><a href="" class="pull-right">READ MORE</a>
+                    <br><a href="{{ post.url | prepend: site.baseurl }}" class="pull-right">READ MORE</a>
                     <br>
                     <br>
                 </div>
