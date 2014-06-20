@@ -128,8 +128,6 @@ hr {
     margin-top: 15px;
 }
 
-/* Footer Wrap */
-
 .section {
     /*background: #1a1a1a;*/
     padding-top: 70px;
@@ -155,14 +153,10 @@ hr {
     font-weight: 700;
 }
 
-/*#f p {
-    font-size: 20px;
-    color: #f2f2f2;
-}*/
-
 .section img {
     text-align: center;
 }
+/* END */
 
 /* MENU CONF*/
 
@@ -331,7 +325,7 @@ hr {
     -webkit-border-radius: 125px;
     -moz-border-radius: 125px;
     border: solid 10px rgba(240, 240, 240, .3);
-    background-size: 100%;
+    background-size: 110%;
 }
 
 .end {

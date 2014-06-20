@@ -39,7 +39,7 @@ I usually miss private messages because I used to stop myself from using Faceboo
 <img src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/add_account_zps904824ca.png" width="90%" />
 </div>
 
-* Use 3rd party apps like **<a href="http://astroim.com/#/hero" target="_blank">Astro</a> **and<a href="http://flamingo.im/" target="_blank"><strong>Flamingo</strong></a>. These will make your life easier.
+* Use 3rd party apps like <a href="http://astroim.com/#/hero" target="_blank">Astro</a> and <a href="http://flamingo.im/" target="_blank"><strong>Flamingo</strong></a>. These will make your life easier.
 
 <div class="centered">
 <img src="http://i1169.photobucket.com/albums/r511/johnvinnymarquez/messages_zps0bfb1675.png" width="90%" />
