@@ -1,6 +1,6 @@
 ---
 title: 'APPCELERATOR TITANIUM: LOCALIZATION AND JSS'
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/10/05/appcelerator-titanium-localization-and-jss/
 category: blog

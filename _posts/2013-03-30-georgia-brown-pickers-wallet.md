@@ -1,6 +1,6 @@
 ---
-title: 'GEORGIA BROWN PICKER&#8217;S WALLET'
-author: John Vinny "Basti" Marquez
+title: "GEORGIA BROWN PICKER'S WALLET"
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/03/30/georgia-brown-pickers-wallet/
 category: blog

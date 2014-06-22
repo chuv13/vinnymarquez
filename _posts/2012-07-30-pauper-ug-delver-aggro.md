@@ -1,6 +1,6 @@
 ---
-title: 'PAUPER &#8211; UG DELVER (AGGRO)'
-author: John Vinny "Basti" Marquez
+title: 'PAUPER: UG DELVER (AGGRO)'
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2012/07/30/pauper-ug-delver-aggro/
 category: blog

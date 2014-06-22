@@ -1,6 +1,6 @@
 ---
 title: 'GETTING TO AND MAINTAINING &#8216;INBOX ZERO&#8217;'
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2014/02/03/getting-maintaining-inbox-zero/
 category: blog

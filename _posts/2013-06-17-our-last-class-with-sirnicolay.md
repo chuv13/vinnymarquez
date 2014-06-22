@@ -1,6 +1,6 @@
 ---
 title: OUR LAST CLASS WITH SIRNICOLAY
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/06/17/our-last-class-with-sirnicolay/
 category: blog

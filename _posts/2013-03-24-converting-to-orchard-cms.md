@@ -1,6 +1,6 @@
 ---
 title: CONVERTING TO ORCHARD CMS
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/03/24/converting-to-orchard-cms/
 category: blog

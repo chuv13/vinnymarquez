@@ -1,6 +1,6 @@
 ---
-title: 'FUN WITH KNOCKOUT.JS &#8211; INTRO TO KO'
-author: John Vinny "Basti" Marquez
+title: 'FUN WITH KNOCKOUT.JS: INTRO TO KO'
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2012/04/14/fun-with-knockout-js-intro-to-ko/
 category: blog

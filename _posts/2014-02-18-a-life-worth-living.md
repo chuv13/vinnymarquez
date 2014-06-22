@@ -1,6 +1,6 @@
 ---
 title: A LIFE WORTH LIVING
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2014/02/18/a-life-worth-living/
 quote: 'Our intention is to affirm this life, not to bring order out of chaos, nor suggest improvements in creation, but simply to wake up to the very life we are living...'

@@ -1,6 +1,6 @@
 ---
 title: 'SSD ON A MACBOOK PRO &#8211; MID 2010'
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/06/17/ssd-on-a-macbook-pro-mid-2010/
 category: blog

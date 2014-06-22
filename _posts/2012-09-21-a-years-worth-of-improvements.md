@@ -1,6 +1,6 @@
 ---
-title: 'A YEAR&#8217;S WORTH OF IMPROVEMENTS'
-author: John Vinny "Basti" Marquez
+title: "A YEAR'S WORTH OF IMPROVEMENTS"
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2012/09/21/a-years-worth-of-improvements/
 category: blog

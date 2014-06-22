@@ -1,6 +1,6 @@
 ---
 title: VALENTINES DAY UPDATE
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2012/02/15/valentines-day-update/
 #customvideo:

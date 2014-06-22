@@ -1,6 +1,6 @@
 ---
 title: FREE BUSINESS CARDS FROM ABOUT.ME AND MOO.COM
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/01/17/free-business-cards-from-about-me-and-moo-com/
 category: blog

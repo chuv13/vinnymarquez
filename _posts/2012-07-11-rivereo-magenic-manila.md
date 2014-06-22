@@ -1,6 +1,6 @@
 ---
 title: RIVEREO == MAGENIC MANILA
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2012/07/11/rivereo-magenic-manila/
 category: blog

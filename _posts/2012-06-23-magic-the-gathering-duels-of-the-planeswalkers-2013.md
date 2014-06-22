@@ -1,6 +1,6 @@
 ---
 title: 'MAGIC THE GATHERING: DUELS OF THE PLANESWALKERS 2013'
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2012/06/23/magic-the-gathering-duels-of-the-planeswalkers-2013/
 category: blog

@@ -1,6 +1,6 @@
 ---
 title: 30 LESSONS AND TAKEAWAYS FROM BEING 30
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/09/22/30-lessons-and-takeaways-from-being-30/
 type: preview

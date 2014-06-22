@@ -1,6 +1,6 @@
 ---
 title: GEAR UPDATE
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2012/01/05/gear-update/
 category: blog

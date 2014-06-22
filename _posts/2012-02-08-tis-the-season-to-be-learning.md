@@ -1,6 +1,6 @@
 ---
-title: '&#8216;TIS THE SEASON TO BE LEARNING'
-author: John Vinny "Basti" Marquez
+title: "'TIS THE SEASON TO BE LEARNING"
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2012/02/08/tis-the-season-to-be-learning/
 category: blog

@@ -1,6 +1,6 @@
 ---
 title: STEAM SUMMER GETAWAY SALE 2013
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/07/14/steam-summer-getaway-sale-201/
 category: blog

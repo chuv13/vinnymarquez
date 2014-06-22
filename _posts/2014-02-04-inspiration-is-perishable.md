@@ -1,6 +1,6 @@
 ---
 title: INSPIRATION IS PERISHABLE
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2014/02/04/inspiration-is-perishable/
 quote: "We all have ideas. Ideas are immortal. They last forever. What doesn't last forever is inspiration. Inspiration is like fresh fruit or milk: It has an expiration date."

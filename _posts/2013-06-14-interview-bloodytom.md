@@ -1,6 +1,6 @@
 ---
 title: 'INTERVIEW: BLOODYTOM'
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/06/14/interview-bloodytom/
 category: blog

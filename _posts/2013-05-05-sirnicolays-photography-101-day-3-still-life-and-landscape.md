@@ -1,6 +1,6 @@
 ---
-title: 'SIRNICOLAY&#8217;S PHOTOGRAPHY 101 DAY 3 &#8211; STILL LIFE AND LANDSCAPE'
-author: John Vinny "Basti" Marquez
+title: "SIRNICOLAY'S PHOTOGRAPHY 101 DAY 3: STILL LIFE AND LANDSCAPE"
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/05/05/sirnicolays-photography-101-day-3-still-life-and-landscape/
 category: blog

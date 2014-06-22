@@ -1,6 +1,6 @@
 ---
 title: OLYMPUS OMD (EM-5)
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/01/19/olympus-omd-em-5/
 category: blog

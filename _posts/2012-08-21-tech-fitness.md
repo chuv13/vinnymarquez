@@ -1,6 +1,6 @@
 ---
 title: TECH FITNESS
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2012/08/21/tech-fitness/
 category: blog

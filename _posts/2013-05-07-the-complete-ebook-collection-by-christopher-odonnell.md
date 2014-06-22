@@ -1,14 +1,10 @@
 ---
 title: 'THE COMPLETE EBOOK COLLECTION BY CHRISTOPHER O&#8217;DONNELL'
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/05/07/the-complete-ebook-collection-by-christopher-odonnell/
 category: blog
-#categories:
-#  - Photography
-tags:
-  - ebook
-  - promo
+tags: ebook promo photography
 ---
 25% Discount on this <a href="http://christopherodonnellphotography.com/the-complete-ebook-collection/" target="_blank">package of 4 books</a>.  
 <span><a href="http://christopherodonnellphotography.com/art-of-bokeh-guide-shallow-depths-landscape-photography/"><span>The Art of Bokeh</span></a></span>

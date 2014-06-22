@@ -1,6 +1,6 @@
 ---
 title: 'MAGIC 2014 DUELS OF THE PLANESWALKERS &#8211; AN EASY WAY TO UNLOCK CARDS'
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/07/09/magic-2014-duels-of-the-planeswalkers-an-easy-way-to-unlock-cards/
 category: blog

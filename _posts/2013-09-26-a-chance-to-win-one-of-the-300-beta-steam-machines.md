@@ -1,6 +1,6 @@
 ---
 title: A CHANCE TO WIN ONE OF THE 300 BETA STEAM MACHINES
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/09/26/a-chance-to-win-one-of-the-300-beta-steam-machines/
 category: blog

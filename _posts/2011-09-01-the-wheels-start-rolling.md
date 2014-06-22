@@ -1,6 +1,6 @@
 ---
 title: THE WHEELS START ROLLING
-author: "John Vinny \"Basti\" Marquez"
+author: "John Vinny 'Basti' Marquez"
 layout: post
 permalink: "/blog/2011/09/01/the-wheels-start-rolling/"
 category: blog

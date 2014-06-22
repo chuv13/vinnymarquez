@@ -1,6 +1,6 @@
 ---
 title: MY TOP 10 PINOY KIDDIE SNACKS (80s-90s)
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/04/18/my-top-10-pinoy-kiddie-snacks-80s-90s/
 category: blog

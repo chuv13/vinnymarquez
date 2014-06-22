@@ -1,6 +1,6 @@
 ---
 title: 'UBUNTU EDGE &#8211; NEXT GENERATION MOBILE TECHNOLOGY'
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/07/25/ubuntu-edge-next-generation-mobile-technology/
 category: blog

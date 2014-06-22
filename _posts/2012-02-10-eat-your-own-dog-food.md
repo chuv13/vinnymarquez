@@ -1,6 +1,6 @@
 ---
 title: EAT YOUR OWN DOG FOOD
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2012/02/10/eat-your-own-dog-food/
 category: blog

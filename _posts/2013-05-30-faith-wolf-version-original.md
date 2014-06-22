@@ -1,6 +1,6 @@
 ---
 title: FAITH ~ 狼 VER.~ (ORIGINAL)
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/05/30/faith-wolf-version-original/
 type: soundcloud

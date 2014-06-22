@@ -1,6 +1,6 @@
 ---
 title: POCKET VS INSTAPAPER
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/02/20/pocket-vs-instapaper/
 category: blog

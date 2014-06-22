@@ -1,6 +1,6 @@
 ---
 title: 'DOLPHY, KING OF COMEDY DIES AT AGE 83'
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2012/07/10/dolphy-king-of-comedy-dies-at-age-83/
 category: blog

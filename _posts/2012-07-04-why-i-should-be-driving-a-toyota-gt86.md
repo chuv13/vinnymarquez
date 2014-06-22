@@ -1,6 +1,6 @@
 ---
 title: WHY I SHOULD BE DRIVING A TOYOTA GT86
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2012/07/04/why-i-should-be-driving-a-toyota-gt86/
 category: blog

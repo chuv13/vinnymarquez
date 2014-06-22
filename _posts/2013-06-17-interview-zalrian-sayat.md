@@ -1,6 +1,6 @@
 ---
 title: 'INTERVIEW: ZALRIAN SAYAT'
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/06/17/interview-zalrian-sayat/
 category: blog

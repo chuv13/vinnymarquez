@@ -1,6 +1,6 @@
 ---
 title: A FEW HOURS WITH ALEXANDER GUSTAFSSON
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/11/11/a-few-hours-with-alexander-gustafsson/
 category: blog

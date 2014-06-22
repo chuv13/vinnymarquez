@@ -1,6 +1,6 @@
 ---
 title: 'EXAM 70-486: PROGRAMMING IN HTML5 WITH JAVASCRIPT AND CSS3'
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/03/26/exam-70-486-programming-in-html5-with-javascript-and-css3/
 category: blog

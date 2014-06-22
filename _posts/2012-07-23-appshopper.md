@@ -1,6 +1,6 @@
 ---
 title: APPSHOPPER
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2012/07/23/appshopper/
 category: blog

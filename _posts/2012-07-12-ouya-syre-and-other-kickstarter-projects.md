@@ -1,6 +1,6 @@
 ---
 title: 'OUYA, SYRE AND OTHER KICKSTARTER PROJECTS'
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2012/07/12/ouya-syre-and-other-kickstarter-projects/
 category: blog

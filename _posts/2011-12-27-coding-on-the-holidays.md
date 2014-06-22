@@ -1,6 +1,6 @@
 ---
 title: CODING ON THE HOLIDAYS
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2011/12/27/coding-on-the-holidays/
 category: blog

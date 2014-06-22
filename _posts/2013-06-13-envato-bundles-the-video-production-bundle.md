@@ -1,6 +1,6 @@
 ---
 title: 'ENVATO BUNDLES: TTHE VIDEO PRODUCTION BUNDLE'
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/06/13/envato-bundles-the-video-production-bundle/
 category: blog

@@ -1,6 +1,6 @@
 ---
 title: 'CUSTOM SILVERLIGHT CONTROLS: STYLISHBUTTON'
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2012/07/03/custom-silverlight-controls-stylishbutton/
 category: blog

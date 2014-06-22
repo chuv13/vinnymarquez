@@ -1,6 +1,6 @@
 ---
-title: 'LEGO HOTEL &#8211; LEGOLAND CALIFORNIA'
-author: John Vinny "Basti" Marquez
+title: 'LEGO HOTEL: LEGOLAND CALIFORNIA'
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/01/24/lego-hotel-legoland-california/
 #youtube:

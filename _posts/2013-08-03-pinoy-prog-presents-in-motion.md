@@ -1,6 +1,6 @@
 ---
 title: 'PINOY PROG PRESENTS: IN MOTION'
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/08/03/pinoy-prog-presents-in-motion/
 category: blog

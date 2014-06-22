@@ -1,6 +1,6 @@
 ---
 title: 'CUSTOM SILVERLIGHT CONTROLS: SELECTIONGROUPCONTROL'
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2012/07/02/custom-silverlight-controls-selectiongroupcontrol/
 category: blog

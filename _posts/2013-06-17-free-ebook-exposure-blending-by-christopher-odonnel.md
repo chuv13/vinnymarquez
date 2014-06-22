@@ -1,6 +1,6 @@
 ---
 title: 'FREE EBOOK: &#8220;EXPOSURE BLENDING&#8221; BY CHRISTOPHER O&#8217;DONNEL'
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/06/17/free-ebook-exposure-blending-by-christopher-odonnel/
 category: blog

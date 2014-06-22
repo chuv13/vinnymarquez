@@ -1,6 +1,6 @@
 ---
 title: THE NEW MAGENIC MANILA IDS ARE OUT
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/04/02/the-new-magenic-manila-ids-are-out/
 category: blog

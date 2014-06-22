@@ -1,6 +1,6 @@
 ---
 title: 'PLANTS VS ZOMBIES 2: ITS ABOUT TIME FOR IPAD'
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/08/20/plants-vs-zombies-2-its-about-time-for-ipad/
 category: blog

@@ -1,6 +1,6 @@
 ---
 title: DOTA2 NOW AVAILABLE FOR MAC AND LINUX
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/07/22/dota2-now-available-for-mac-and-linux/
 category: blog

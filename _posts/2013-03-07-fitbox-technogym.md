@@ -1,6 +1,6 @@
 ---
 title: FITBOX TECHNOGYM
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/03/07/fitbox-technogym/
 category: blog

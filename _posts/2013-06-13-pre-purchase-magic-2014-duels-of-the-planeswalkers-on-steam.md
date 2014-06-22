@@ -1,6 +1,6 @@
 ---
 title: PRE-PURCHASE MAGIC 2014 — DUELS OF THE PLANESWALKERS ON STEAM
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/06/13/pre-purchase-magic-2014-duels-of-the-planeswalkers-on-steam/
 category: blog

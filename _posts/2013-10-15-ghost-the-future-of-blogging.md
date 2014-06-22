@@ -1,6 +1,6 @@
 ---
 title: GHOST, THE FUTURE OF BLOGGING?
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/10/15/ghost-the-future-of-blogging/
 category: blog

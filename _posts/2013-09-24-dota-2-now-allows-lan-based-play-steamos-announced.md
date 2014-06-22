@@ -1,6 +1,6 @@
 ---
 title: DOTA 2 NOW ALLOWS LAN BASED PLAY, STEAMOS ANNOUNCED
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/09/24/dota-2-now-allows-lan-based-play-steamos-announced/
 category: blog

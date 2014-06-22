@@ -1,6 +1,6 @@
 ---
 title: 'COMBOS: WIRELESS WARRIOR'
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2012/04/07/combos-wireless-warrior/
 category: blog

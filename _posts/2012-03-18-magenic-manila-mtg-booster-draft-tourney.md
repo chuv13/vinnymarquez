@@ -1,6 +1,6 @@
 ---
 title: MAGENIC MANILA MTG BOOSTER DRAFT TOURNEY
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2012/03/18/magenic-manila-mtg-booster-draft-tourney/
 category: blog

@@ -1,6 +1,6 @@
 ---
 title: WINDOWS 8 (WINRT) DEVELOPMENT
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2012/11/03/windows-8-winrt-development/
 category: blog

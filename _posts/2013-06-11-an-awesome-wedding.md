@@ -1,6 +1,6 @@
 ---
 title: AN AWESOME WEDDING
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/06/11/an-awesome-wedding/
 category: blog

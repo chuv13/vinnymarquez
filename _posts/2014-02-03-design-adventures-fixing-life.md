@@ -1,6 +1,6 @@
 ---
 title: 'DESIGN ADVENTURES: FIXING MY LIFE'
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2014/02/03/design-adventures-fixing-life/
 type: preview

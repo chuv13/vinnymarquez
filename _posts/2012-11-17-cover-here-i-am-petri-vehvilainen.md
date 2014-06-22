@@ -1,6 +1,6 @@
 ---
 title: '[COVER] HERE I AM ~ PETRI VEHVILÄINEN'
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2012/11/17/cover-here-i-am-petri-vehvilainen/
 category: blog

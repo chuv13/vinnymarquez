@@ -1,6 +1,6 @@
 ---
 title: 'DRUM TAO: THE ART OF DRUM TOUR'
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2012/07/21/drum-tao-the-art-of-drum-tour/
 category: blog

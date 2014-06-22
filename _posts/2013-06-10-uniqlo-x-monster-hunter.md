@@ -1,6 +1,6 @@
 ---
 title: UNIQLO X MONSTER HUNTER
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/06/10/uniqlo-x-monster-hunter/
 category: blog

@@ -1,6 +1,6 @@
 ---
 title: WIN A NIKON D800 OR CANON 5D MARK III
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/05/29/win-a-nikon-d800-or-canon-5d-mark-iii/
 category: blog

@@ -1,6 +1,6 @@
 ---
-title: 'HIDDEN FACEBOOK FEATURE: THE &#8216;OTHER&#8217; SECTION'
-author: John Vinny "Basti" Marquez
+title: "HIDDEN FACEBOOK FEATURE: THE 'OTHER'; SECTION"
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/02/20/hidden-facebook-feature-the-other-section/
 category: blog

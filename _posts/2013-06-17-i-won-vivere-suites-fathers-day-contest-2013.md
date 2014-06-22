@@ -1,6 +1,6 @@
 ---
 title: 'I WON VIEVERE SUITE&#8217;S FATHERS DAY CONTEST 2013'
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/06/17/i-won-vivere-suites-fathers-day-contest-2013/
 category: blog

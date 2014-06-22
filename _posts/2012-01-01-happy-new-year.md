@@ -1,6 +1,6 @@
 ---
 title: HAPPY NEW YEAR!
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2012/01/01/happy-new-year/
 category: blog

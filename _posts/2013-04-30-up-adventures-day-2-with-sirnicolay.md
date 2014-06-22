@@ -1,6 +1,6 @@
 ---
 title: UP ADVENTURES DAY 2 WITH SIRNICOLAY
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/04/30/up-adventures-day-2-with-sirnicolay/
 category: blog

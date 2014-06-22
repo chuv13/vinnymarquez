@@ -1,6 +1,6 @@
 ---
 title: 'LISTEN, DO YOU WANT TO KNOW A SECRET?'
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2014/02/11/listen-do-you-want-to-know-a-secret/
 type: quote

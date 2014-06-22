@@ -1,6 +1,6 @@
 ---
 title: A LIST OF USEFUL APPS
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/02/21/a-list-of-useful-apps/
 category: blog

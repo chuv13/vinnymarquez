@@ -1,6 +1,6 @@
 ---
 title: BLOG CHANGES AND FACEBOOK COMMENTING
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/04/15/blog-changes-and-facebook-commenting/
 category: blog

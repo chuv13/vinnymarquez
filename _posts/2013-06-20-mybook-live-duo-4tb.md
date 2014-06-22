@@ -1,6 +1,6 @@
 ---
 title: MYBOOK LIVE DUO (4TB)
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/06/20/mybook-live-duo-4tb/
 category: blog

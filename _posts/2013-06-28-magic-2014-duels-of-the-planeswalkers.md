@@ -1,6 +1,6 @@
 ---
-title: 'MAGIC 2014 &#8211; DUELS OF THE PLANESWALKERS'
-author: John Vinny "Basti" Marquez
+title: 'MAGIC 2014: DUELS OF THE PLANESWALKERS'
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/06/28/magic-2014-duels-of-the-planeswalkers/
 category: blog

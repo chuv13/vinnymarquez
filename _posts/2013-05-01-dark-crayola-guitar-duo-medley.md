@@ -1,6 +1,6 @@
 ---
 title: DARK CRAYOLA ~ GUITAR DUO MEDLEY
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/05/01/dark-crayola-guitar-duo/
 type: soundcloud

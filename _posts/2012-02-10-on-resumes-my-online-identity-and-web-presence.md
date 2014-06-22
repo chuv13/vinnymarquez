@@ -1,6 +1,6 @@
 ---
 title: 'ON RESUMES, MY ONLINE IDENTITY AND WEB PRESENCE'
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2012/02/10/on-resumes-my-online-identity-and-web-presence/
 category: blog

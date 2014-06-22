@@ -1,6 +1,6 @@
 ---
 title: FUNNY NOKIA LUMIA 920 ADVERTISMENT
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/05/03/funny-nokia-lumia-920-advertisment/
 category: blog

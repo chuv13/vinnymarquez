@@ -1,6 +1,6 @@
 ---
 title: 'MARVIN &#038; IRENE 2014 SERIES &#8211; BRIDAL FAIR'
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/06/15/marvin-irene-2014-series-bridal-fair/
 category: blog

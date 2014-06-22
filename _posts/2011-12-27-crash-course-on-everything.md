@@ -1,6 +1,6 @@
 ---
 title: CRASH COURSE ON EVERYTHING!
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2011/12/27/crash-course-on-everything/
 category: blog

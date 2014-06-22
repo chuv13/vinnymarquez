@@ -1,6 +1,6 @@
 ---
 title: LEAKED PHOTOS OF THE FUJI X-M1
-author: John Vinny "Basti" Marquez
+author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2013/06/21/leaked-photos-of-the-fuji-x-m1/
 category: blog
