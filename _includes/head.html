@@ -4,9 +4,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="{{ page.author }}">
     <meta name="description" content="{{ page.description }}">
-    {% if page.categories %}
-    <meta name="keywords" content="{{ page.tags | join: ',' }}" />
-    {% else %}
     <meta name="keywords" content="{{ page.keywords | join: ',' }}" />
     {% endif %}
     <link rel="shortcut icon" href="dark/ico/favicon.png">
