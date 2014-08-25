@@ -10,7 +10,7 @@ tags: gamereview ios ipad iPhone towerdefense  videogames
 ---
 Its about time! The sequel to the hit game from PopCap has arrived to the iPad! Promptly titled &#8220;<a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CC0QFjAA&url=https%3A%2F%2Fitunes.apple.com%2Fau%2Fapp%2Fplants-vs.-zombies-2%2Fid597986893%3Fmt%3D8&ei=cYQTUpOoOM-uiQfzpoCgCw&usg=AFQjCNHazPSAbW1MYE3IjojWTND9U0DerQ&sig2=b5zS7nizD3VAXOJz04hq6A&bvm=bv.50952593,d.aGc" target="_blank">Plants vs Zombies: Its about time</a>&#8220;, its free on to download on the iTunes store with in-app purchases (freemium).
 
-Here&#8217;s the description from iTunes:
+Here's the description from iTunes:
 
 > The zombies are coming… back. It’s about time! The sequel to the hit action-strategy adventure with over 30 Game of the Year awards is here. Join Crazy Dave on a crazy adventure where you’ll meet, greet and defeat legions of zombies from the dawn of time to the end of days. Amass an army of powerful new plants, super charge them with Plant Food and power up your defenses with amazing new ways to protect your brain.
 

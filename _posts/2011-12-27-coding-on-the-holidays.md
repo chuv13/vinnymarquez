@@ -4,10 +4,7 @@ author: John Vinny 'Basti' Marquez
 layout: post
 permalink: /blog/2011/12/27/coding-on-the-holidays/
 category: blog
-tags:
-  - asp
-  - dotnet
-  - mvc 3
+tags: asp dotnet mvc3
 ---
 <span class="dropcap1">S</span>o its the holidays and I&#8217;m supposed to be on vacation right? Right! So why am I coding? Well, as my friend TJ told once told me, I have an &#8220;uncool&#8221; thing for a hobby. Lols. What&#8217;s wrong with coding for fun?
 

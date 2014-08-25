@@ -36,7 +36,7 @@ Key cards: <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiver
 
 This deck focuses on small Human creatures and their interactions with each other. Any of these 3 cards will seal the game for you, you can easily win the game by turn 6-9 depending on the humans on the board (Champion of the parish, Call to arms, ). This is the first deck I&#8217;ve completed 30 cards with, not to mention completed many of the unlockables with.
 
-**Guardians of Light (W)**
+### Guardians of Light (W)
 
 Key cards: <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=259712" target="_blank">Pacifism</a>, <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=44311" target="_blank">Dawn Elemental</a>, <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=275265" target="_blank">Spirit Mantle</a>, <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204997" target="_blank">Armored Ascension</a>.
 
@@ -46,25 +46,25 @@ This deck has awesome card synergy with its cool creatures and auras. Pacifism i
   <a href="http://johnvinnymarquez.net/wp-content/uploads/2013/07/IMG_1646.png"><img class="aligncenter  wp-image-826" alt="IMG_1646" src="http://johnvinnymarquez.net/wp-content/uploads/2013/07/IMG_1646-1024x768.png" width="450" /></a>
 </p>
 
-**Mind Maze Deck (U)**
+### Mind Maze Deck (U)
 
 Key cards: <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204997" target="_blank">Unsummon</a>, <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235601" target="_blank">Claustrophobia</a>, <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=265403" target="_blank">Cancel</a>
 
 Once bounced, the enemy can&#8217;t hard cast it because of the lack of mana. If that doesn&#8217;t work, you can lock or just counter it. After that, flood the board with happy flying illusions.
 
-**Sliver Hive (WRG)**
+### Sliver Hive (WRG)
 
 Key card: <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370408" target="_blank">Path to Exile</a>
 
 Just remove it by turn 4 and then proceed beating em up with sliver power! My only concern with this is the complex mana base which makes it a little bit slower than the previously stated decks.
 
-**Deadwalkers (B)**
+### Deadwalkers (B)
 
 Key card: <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205367" target="_blank">Cruel Revival</a>, <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=210139" target="_blank">Tendrils of corruption</a>
 
 Oh, If only doom blade could kill black creatures this deck would be so much faster. At least building an army is easy with this deck. After killing it, let the undead roll out!
 
-**Chant of the Mul Daya (G)**
+### Chant of the Mul Daya (G)
 
 Key card: <a href="http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193658" target="_blank">All is Dust</a>
 
