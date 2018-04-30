@@ -1,24 +1,25 @@
 <!DOCTYPE html>
-<html>
-
-{% include head.html %}
-
-<body data-spy="scroll" data-offset="0" data-target="#theMenu">
-{% include header.html %}
-
-<div class="bs-docs-section">
-    {{ content }}
-</div>
-{% if page.landing != true %}
-    {% include footer.html %}
-{% endif %}
-</div>
-
-<script src="{{ site.baseurl }}/assets/themes/dark/js/classie.js"></script>
-<script src="{{ site.baseurl }}/assets/themes/dark/js/bootstrap.min.js"></script>
-<script src="{{ site.baseurl }}/assets/themes/dark/js/smoothscroll.js"></script>
-<script src="{{ site.baseurl }}/assets/themes/dark/js/main.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
-<script src="{{ site.baseurl }}/assets/plugins/picturefill/picturefill.min.js"></script>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}">
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=PT+Serif:400,400italic,700,700italic%7COpen+Sans:400,700,400italic,700italic" />
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css" />
+    <link rel="canonical" href="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} Feed" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+</head>
+<body class="fixed-nav">
+    <div id="page" class="site">
+        {% include header.html %}
+        {{content}}
+        {% include widgets.html %}
+        {% include footer.html %}
+    </div><!-- .site -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/js/plugins.js"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/js/custom.js"></script>
 </body>
 </html>
