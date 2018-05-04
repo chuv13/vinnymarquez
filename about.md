@@ -1,24 +1,26 @@
 ---
 layout: page
-title: About this blog
+title: For the curious cats
 description: An optional about page for BlogBox Jekyll theme
 featured_image: aboutPage.jpg
 ---
 
-My name is John Doe. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 5 years.
+#### ABOUT ME
 
-Welcome to my blog and I absolutely appreciate you stopping by! On December 25th, 2001, I left the Canada for a four months, trip to Asia. The idea was to backpack around China, Thailand, Vietnam and Cambodia and then return home and start a career in the IT industry.
+I'm Vinny Marquez. Most call me "Tito Vi", others "Basti", the rest just call me "Vinny". Pick your poison.
 
-When I landed in Bangkok, I had $3500 USD to my name and that was it. I booked a bed in a old guesthouse in the center of the city for about a dollar per night and let the adventure begin.
+I’m perfectly fine living a life that others don’t understand. I don't give a flying f*ck!
 
-> “To live is the rarest thing in the world. Most people exist, that is all.” <cite>― Oscar Wilde ―</cite>
+Software developer by day, vocals for Tito Science at night!
 
-In the end, I never went home after those three months. And it’s now been over 14 years and that trip has still yet to finish.
+My interests lie in Music, cars, martial arts.
 
-The adventure has involved over 75+ countries on 5 continents as I’ve worked, lived, traveled and volunteered all over the planet.
+I believe that Beer makes everything better.
 
-Through my own adventures – from the incredible moments and rewarding interactions to the struggles and major challenges – I aim to provide a realistic and honest account of what long-term travel is truly about and how you can work on achieving such a goal yourself.
+#### ABOUT THIS BLOG
 
-While the recognition and mentions this blog has received over the years are certainly nice, nothing compares to an email from a reader telling me that the blog helped them achieve their own travel goals.
+Primarily because I have deleted my Social Media accounts, I created this blog to share some of my not-so-private thoughts.
 
-*Thank You for reading!*
+#### DISCLAIMER
+
+My views do not represent the views of my band, or the company that I work with.

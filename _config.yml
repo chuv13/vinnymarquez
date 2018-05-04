@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site title
-title: "Part-time ahjussi"
+title: "IMT2VI"
 
 # Site logo
 logo: t2vi-logo.png
 
 # A description of your site for social meta tag, search engines, and feed.xml
-description: "BlogBox is a bold theme for the Jekyll blogging platform. Available for purchase at ThemeForest.net."
+description: "Tito Vi in the house, yo!"
 
 # Tagline below the site title
 tagline: "Tito Vi's tales, confessions, and musings."
@@ -41,8 +41,8 @@ navigation:
 disqus: johnvinnymarquez
 
 # Author information - author info at the bottom of the post
-author_name: "Tito Vi"
-author_bio: "Hi, I'm Tito Vi. Part-time Ahjussi. 3% 'Bae'-material, 97% tito."
+author_name: "Vinny Marquez"
+author_bio: "You can call me Tito Vi. I’m perfectly fine living a life that others don’t understand. I don’t give a flying f*ck!"
 author_url: "http://vinnymarquez.com"
 author_location: "Makati, Philippines"
 author_image: t2vi.jpg

@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Quitting social media for good"
+title:  "We go old school: Resuming Blogging"
 date:   2018-03-25
 featured_image: Mountain.jpg
 tags: [life lessons, tito moves]
 ---
 
-Blegh
+Yeah
 
 <!--more-->
 
-Rawr!
+ugh!
