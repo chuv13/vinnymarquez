@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "CDJJ x DFL: Photos from the cage"
-date:   2018-01-09
+title:  "CDJJ x DFL: Photos from the cage"
+date:   2018-04-01
 featured_image: Mountain.jpg
 tags: [sports, martial arts, photography]
 ---
