@@ -11,7 +11,7 @@ I'm Vinny Marquez. A lot of people call me "Tito Vi", others "Basti", the rest j
 
 I’m perfectly fine living a life that others don’t understand. I don't give a flying f*ck!
 
-Software developer by day, vocals for Tito Science by night! My interests lie in **music, cars, technology, and martial arts**.
+Software developer by day, vocals for <a href="https://facebook.com/titoscience" target="_blank">Tito Science</a> by night! My interests lie in **music, cars, technology, and martial arts**.
 
 I believe that Beer makes things better, black goes with everything, and that we're all stardust in disguise.
 

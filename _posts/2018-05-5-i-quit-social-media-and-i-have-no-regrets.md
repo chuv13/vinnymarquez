@@ -34,7 +34,7 @@ Did you know that the same key ingredient found in slot machines is the very sam
 + Do you scroll your feed endlessly?
 + After yo watch a video, you see something interesting and click next until you realize it's 2am in the morning already?
 
-Yeah, read up on "Intermittent Variable Rewards". We're playing a social media slot machine. Our brains have been hijacked, we're on digital coccaine peeps! Either we didn't know or we just don't care.
+Yeah, read up on "Intermittent Variable Rewards". We're playing a social media slot machine. Our brains have been hijacked, we're on digital cocaine peeps! Either we didn't know or we just don't care.
 
 Even now as I am coding this site and writing this post, I'm keeping my self in check by being conscious of my original intention of returning to blogging.
 
