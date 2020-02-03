@@ -297,13 +297,13 @@ ul.search-results {
     letter-spacing: -1px;
     margin: 0;
     a {
-        background-color: $accent-color;
-        color: #fff;
+        background-color: #fff;
+        color: #30373d;
         display: inline-block;
         padding: 15px 30px;
         text-decoration: none;
         &:hover {
-            background-color: #606669;
+            background-color: #fff;
         }
     }
 }
@@ -323,7 +323,8 @@ ul.search-results {
     background: #fff;
     margin-bottom: 60px;    
     border-radius: 2px;
-    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    box-shadow: 0 14px 28px #dde5ee, 0 10px 10px #dde5ee;
+    
 }
 
 .entry-box {

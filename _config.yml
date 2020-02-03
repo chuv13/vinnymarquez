@@ -51,6 +51,15 @@ markdown: kramdown
 kramdown:
     auto_ids: false
 
+# Site navigation - each item must have a title and a url.
+navigation:
+  - text: Home
+    url: /blog
+  - text: Archives
+    url: /tags/
+  - text: About Me
+    url: /
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
