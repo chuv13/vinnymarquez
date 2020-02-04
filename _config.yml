@@ -26,16 +26,17 @@ description: >- # this means to ignore newlines until "baseurl:"
   composer for Tito Science & CHVCK.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://vinnymarquez.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  chuv13
+instagram_username:  thedaoofnothing
+linkedin_username: vinnymarquez
+
 
 sass:
   sass_dir: _sass
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+plugins: ['jekyll-feed','jekyll-paginate', 'jekyll_version_plugin']
 
 favicon:
   source: favicon.svg
@@ -44,19 +45,33 @@ favicon:
 # http://jekyllrb.com/docs/pagination/
 paginate: 5
 paginate_path: '/blog/page:num/'
-plugins: [jekyll-paginate]
+
 
 permalink: pretty
 markdown: kramdown
 kramdown:
     auto_ids: false
 
+    # Author information - author info at the bottom of the post
+author_name: Vinny
+author_bio: "My name is Vinny. You can call me ChuVi. SDET by day, vocalist/composer for Tito Science & CHVCK by night."
+author_url: "https://vinnymarquez.com"
+author_location: "Makati, PH"
+author_image: blog/authorimage.jpg
+
+# Footer ad banner
+banner_url: "https://vinnymarquez.com/"
+banner_image: blog/banner.jpg
+
+# The shortname for your Disqus site to enable comments.
+disqus: johnvinnymarquez
+
 # Site navigation - each item must have a title and a url.
 navigation:
   - text: Home
     url: /blog
-  - text: Archives
-    url: /tags/
+  # - text: Archives
+  #   url: /tags/
   - text: About Me
     url: /
 
