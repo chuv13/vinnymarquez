@@ -17,6 +17,8 @@ gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.13"
   gem 'jekyll-favicon', '~> 0.2.8'
+  gem 'jekyll-paginate'
+  gem 'jekyll_version_plugin'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
