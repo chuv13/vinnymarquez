@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Vinny's Blog
+title: ChuVi's Mundane Adventures
 email: johnvinnymarquez@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Vinny Marquez currently works as a Software Development Engineer in Test | 
@@ -54,7 +54,7 @@ kramdown:
 
     # Author information - author info at the bottom of the post
 author_name: Vinny
-author_bio: "My name is Vinny. You can call me ChuVi. SDET by day, vocalist/composer for Tito Science & CHVCK by night."
+author_bio: "My name is Vinny, but you can call me ChuVi. SDET by day, vocalist/composer for Tito Science & CHVCK by night."
 author_url: "https://vinnymarquez.com"
 author_location: "Makati, PH"
 author_image: blog/authorimage.jpg

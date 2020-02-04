@@ -2,7 +2,6 @@
 layout: post
 title:  "Hello internet, I'm back!"
 date:   2020-02-04 10:54:00 +0800
-categories: updates
 tags: [chvck, music]
 author_name: Vinny
 featured_image: posts/im-back-header.jpg
@@ -14,17 +13,20 @@ I've been back to facebook for months now, due to some projects I've been workin
 
 <!--more-->
 
-{% include image_full.html imageurl="/assets/blog/posts/im-back-header.jpg" title="Apple" caption="The Grand Canyon" %}
+{% include image_full.html imageurl="/assets/blog/posts/im-back-op-z-vt-4.jpg" title="New Gear" caption="New Gear: Teenage Engineering OP-Z, Roland VT-4. OTW from AU via Lil' Bro" %}
 
 ## CHVCK
 
-ChuBoy (Tito Science's keyboardist) and I, started an electronic duo named "CHVCK".
+ChuBoy (Tito Science's keyboardist) and I, started an electronic duo named ["CHVCK"](https://www.facebook.com/chvckofficial).
 
-Current gear:
-Arturia Minilab MKII
-Novation LaunchPad Pro
-Teenage Engineering OP-Z
-Roland VT-4
+#### Current gear:
+Desktop:
+- Novation LaunchPad Pro
+  
+Live:
+- Arturia Minilab MKII
+- Teenage Engineering OP-Z
+- Roland VT-4
 
 <!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
