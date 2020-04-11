@@ -4,7 +4,7 @@ title:  "Hello internet, I'm back!"
 date:   2020-02-04 10:54:00 +0800
 tags: [chvck, music]
 author_name: Vinny
-featured_image: posts/im-back-header.jpg
+featured_image: posts/im-back/im-back-header.jpg
 ---
 
 It's been almost two years (I think) since I've left blogging and social media as a whole. The time without social media has granted me the much needed rest. Now, I come back with a fresh new IDGAF mindset and it's freakin' good! Thanks to the influence of Rick and Morty, Chuck Palhaniuk, Albert Camus, and "The Subtle art of not giving a fuck".
@@ -24,7 +24,7 @@ But all in all, we're good! Almost all of us have been married. Apparently, I'm 
 
 ChuBoy (Tito Science's keyboardist) and I talked a lot about making a Trip-Hop duo for a few years now. So since we're not doing anything with TS, we started an electronic duo named [CHVCK](https://www.facebook.com/chvckofficial). I don't have any material for you guys yet, but we'll post stuff as soon as we iron things out.
 
-{% include image_full.html imageurl="/assets/blog/posts/im-back-op-z-vt-4.jpg" title="New Gear" caption="I made the only sane decision. GAS mode on: Teenage Engineering OP-Z, Roland VT-4. Imported from AU by my loveable Lil' Bro HAHA" %}
+{% include image_full.html imageurl="/assets/blog/posts/im-back/im-back-op-z-vt-4.jpg" title="New Gear" caption="I made the only sane decision. GAS mode on: Teenage Engineering OP-Z, Roland VT-4. Imported from AU by my loveable Lil' Bro HAHA" %}
 
 So auditing my 2020 setup, it would sort of look like this...
 
@@ -42,28 +42,3 @@ Live:
 - The powerful vocoder, *Roland VT-4*
 
 The only thing missing for my setup would be studio monitors, a *Mackie CR3* maybe? The cheapest one that I can get.
-
-
-<!-- You’ll find this post in your *_posts* directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run *jekyll serve*, which launches a web server and auto-regenerates your site when a file is updated.
-
-Jekyll requires blog post files to be named according to the following format:
-
-*YEAR-MONTH-DAY-title.MARKUP*
-
-Where *YEAR* is a four-digit number, *MONTH* and *DAY* are both two-digit numbers, and *MARKUP* is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/ -->
