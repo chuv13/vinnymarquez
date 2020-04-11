@@ -2,7 +2,7 @@
 layout: post
 title:  "Teenage Engineering OP-Z: Perfect for song writing"
 date:   2020-03-21 10:54:00 +0800
-tags: [music]
+tags: [music, teenage engineering, dawless]
 author_name: Vinny
 featured_image: posts/op-z/cover.jpg
 ---
