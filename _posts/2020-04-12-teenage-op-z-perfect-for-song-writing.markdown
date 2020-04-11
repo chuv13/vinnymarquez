@@ -72,7 +72,7 @@ Unavailable locally in the Philippines. As far as I know, there is no local dist
 
 ### PRICE
 It's (a bit expensive) at around 599 USD. Add that to shipping & taxes. Ugh. Maybe, you can wait for Black Friday and get a discount if they offer any promos.
-{% include image_full.html imageurl="/assets/blog/posts/op-z/price.png" title="New Gear" caption="The case was free from the shop that I purchased it from, but it really doesn't come with the unit by default." %}
+{% include image_full.html imageurl="/assets/blog/posts/op-z/price.png" title="New Gear" caption="That's 30K+ without tax & shipping. Ugh." %}
 
 ### GIG READY?
 I haven't really tried but I feel you have to have some kind of controller for it be easier to use in a gig setting. A mixer would also be nice.
