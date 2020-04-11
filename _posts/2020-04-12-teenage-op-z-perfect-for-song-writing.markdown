@@ -68,7 +68,7 @@ On a side note, my unit has one button with a defect. I'm quite happy to report 
 "But you said perfect.." shut it, you little sh*t. When I say perfect, I meant for song writing. It does have shortcomings, but they don't hinder the tool from achieving the purpose. Here are some reasons that I can think of.
 
 ### Availability
-Un-available locally in the Philippines. As far as I know, there is no local distributor for Teenage Engineering. Please, somebody pick this up? With that in mind, this compounds with another problem...
+Unavailable locally in the Philippines. As far as I know, there is no local distributor for Teenage Engineering. Please, somebody pick this up? With that in mind, this compounds with another problem...
 
 ### PRICE
 It's (a bit expensive) at around 599 USD. Add that to shipping & taxes. Ugh. Maybe, you can wait for Black Friday and get a discount if they offer any promos.
