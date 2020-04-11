@@ -28,7 +28,7 @@ Well, for starters, it's so compact that I can bring it with me everyday! Becaus
 
 {% include image_full.html imageurl="/assets/blog/posts/op-z/size-top.jpg" title="New Gear" caption="It's about the length and thickness of two juuls..." %}
 
-{% include image_full.html imageurl="/assets/blog/posts/op-z/size-top.jpg" title="New Gear" caption="...and about as wide as a TV remote control." %}
+{% include image_full.html imageurl="/assets/blog/posts/op-z/size-side.jpg" title="New Gear" caption="...and about as wide as a TV remote control." %}
 
 There are a lot of times when I've asked my wife for a couple of minutes of "Me time" when we're on the go. I do this to tune-out all the unecessary stuff and focus on the song that's playing in my head. I've done it on the bus, on the cab, while waiting at a mall bench, at the smoking area, while shitting, you get the idea.
 
