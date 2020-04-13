@@ -26,9 +26,11 @@ OKAY, SO WHAT MAKES IT PERFECT THEN? Here are a number of reasons why I think th
 ### PORTABLE
 Well, for starters, it's so compact that I can bring it with me everyday! Because it's so small, I can write whenever, wherever I want. You see, all I need is the device plus a set of earphones and I'm all set!
 
-{% include image_full.html imageurl="/assets/blog/posts/op-z/size-top.jpg" title="New Gear" caption="It's about the length and thickness of two juuls..." %}
+{% include image_full.html imageurl="/assets/blog/posts/op-z/size-top.jpg" title="New Gear" caption="" %}
 
-{% include image_full.html imageurl="/assets/blog/posts/op-z/size-side.jpg" title="New Gear" caption="...and about as wide as a TV remote control." %}
+{% include image_full.html imageurl="/assets/blog/posts/op-z/size-side.jpg" title="New Gear" caption="It's about the length and thickness of two juuls..." %}
+
+{% include image_full.html imageurl="/assets/blog/posts/op-z/remote-top.jpg" title="New Gear" caption="...and about as wide as a TV remote control." %}
 
 There are a lot of times when I've asked my wife for a couple of minutes of "Me time" when we're on the go. I do this to tune-out all the unecessary stuff and focus on the song that's playing in my head. I've done it on the bus, on the cab, while waiting at a mall bench, at the smoking area, while shitting, you get the idea.
 
@@ -82,7 +84,7 @@ Although you can connect to a lot of MIDI controllers via USB, you kind of need 
 
 The only logical solution would be a powered USB hub. What sucks is that there is only 1 sure USB hub that woks with it, and that's the Kingston Nucleum. So yeah, I also had to order that separately.
 
-{% include image_full.html imageurl="/assets/blog/posts/op-z/with-nucleum.jpg" title="New Gear" caption="The case was free from the shop that I purchased it from, but it really doesn't come with the unit by default." %}
+{% include image_full.html imageurl="/assets/blog/posts/op-z/with-nucleum.jpg" title="New Gear" caption="The case was free from the shop that I purchased it from, but it really doesn't comes with the unit by default." %}
 
 
 ## FINAL THOUGHTS
