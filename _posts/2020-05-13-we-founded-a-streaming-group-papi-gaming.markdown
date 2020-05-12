@@ -15,10 +15,10 @@ So about a month ago, I was invited by Ron (of 'The Wardens PH' fame) to help se
 
 ## WHAT GAMES DO WE STREAM?
 {% include image_full.html imageurl="/assets/blog/posts/papi-gaming/new-world.jpg" title="New World" caption="" %}
-We originally planned on streaming Amazon's new and upcoming MMORPG, New World. However, due to delays introduced by human malware, the beta phase keeps getting pushed back. So to decided to play Call of Duty: Warzone, Dead by day light, and other games while waiting for our beta access.
+We originally planned on streaming Amazon's new and upcoming MMORPG, [New World](https://www.newworld.com/en-us). However, due to the delays introduced by human malware, the beta phase keeps getting pushed back. So we decided to play Call of Duty: Warzone, Dead by day light, and other games while waiting for our beta access.
 
 ## ROLES
-Currently, we have 2 active streamers: Ken & Rej. Ken streams 7pm-10pm weekdays, while Rej starts at 11pm and ends at 1am the next day. The rest take care of the content, regular posting, multimedia editing, growing the channel, basically evrythin we can to bootstrap the group.
+Currently, we have 2 active streamers: Ken & Rej. Ken streams 7pm-10pm weekdays, while Rej starts at 11pm and ends at 1am the next day. The rest take care of the content, regular posting, multimedia editing, and growing the channel's follower base; basically anything we can find that's helpful to the group.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dmhkNZ0U3EU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Here's a sample of one of our streams.
