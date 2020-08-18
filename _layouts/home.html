@@ -128,13 +128,13 @@
 						</div>
 						<div class="col-lg-6 col-xl-5">
 							<h1 class="text-color-primary custom-font-size-1">Vinny Marquez</h1>
-							<p class="text-color-light font-weight-normal custom-font-size-2 custom-margin-bottom-1">SDET / Automation Engineer at Digi Group</p>
+							<p class="text-color-light font-weight-normal custom-font-size-2 custom-margin-bottom-1">Systems Architect at Innov8 (Star8)</p>
 							<span class="custom-about-me-infos">
 								<span class="custom-text-color-1 text-uppercase">Makati</span>
 								<span class="custom-text-color-1 text-uppercase mb-3">Information Technology &amp; Services</span>
 								<span class="custom-text-color-1 text-uppercase">
 									<strong class="text-color-light">Previous: </strong>
-									DEV / UX / SDET at CWT PH
+									SDET / Automation Engineer at Digi Group
 									<a data-hash href="#experience" class="btn btn-tertiary text-uppercase custom-btn-style-1 text-1 ml-2">View All</a>
 								</span>
 								<span class="custom-text-color-1 text-uppercase">
@@ -211,7 +211,7 @@
 										<ul class="custom-list-style-1 p-0 mb-0">
 											<li>
 												<span class="text-color-dark">Age:</span>
-												<span class="custom-text-color-2">36</span>
+												<span class="custom-text-color-2" id="my_age"></span>
 											</li>
 											<li>
 												<span class="text-color-dark">Gender:</span>
@@ -237,7 +237,7 @@
 
 							<h2 class="text-color-quaternary font-weight-extra-bold text-uppercase">About Me</h2>
 
-							<p>Vinny Marquez AKA <a href="https://www.facebook.com/lakanbinimusic" target="_blank">Lakan Bini</a>  currently works as a Software Development Engineer in Test / Test Automation Engineer at Digi Group while moonlighting as the vocalist/composer for <a href="https://www.facebook.com/titoscience" target="_blank"> Tito Science</a> & CHVCK.</p>
+							<p>Vinny Marquez AKA <a href="https://www.facebook.com/lakanbinimusic" target="_blank">Lakan Bini</a>  currently works as a Systems Architect for Innov8 (Star8), while moonlighting as the vocalist/composer for <a href="https://www.facebook.com/titoscience" target="_blank"> Tito Science</a> & CHVCK.</p>
 
 							<div class="about-me-more" id="aboutMeMore">
 								<p>Learned programming while attending University as an Architecture student. Taught himself HTML/CSS/JS by reading a book, got hooked, and decided to change his course to Information Technology. Has been working professionally as a developer even before graduating.</p>
@@ -264,13 +264,48 @@
 											<div class="experience-info col-lg-3 col-sm-5 bg-color-primary">
 												<span class="from text-color-dark text-uppercase">
 													From
-													<span class="font-weight-semibold">Oct 2019</span>
+													<span class="font-weight-semibold">Jun 2020</span>
 												</span>
 												<span class="to text-color-dark text-uppercase">
 													To
 													<span class="font-weight-semibold">Present</span>
 												</span>
-												<p class="text-color-dark">(5 Months)</p>
+												<p class="text-color-dark">
+													<span id="duration_innov8"></span>
+												</p>
+												<span class="company text-color-dark font-weight-semibold">
+													Innov8 (a Star8 subsidiary)
+													<span class="company-location text-color-dark font-weight-normal text-uppercase">Tondo, Manila</span>
+												</span>
+											</div>
+											<div class="experience-description col-lg-9 col-sm-7 bg-color-light">
+												<h4 class="text-color-dark font-weight-semibold">Systems Architect</h4>
+												<p>
+													Responsible for Innov8's systems.
+													<ul>
+														<li> Applications like: Automatic Fare Collection, Web Shop, etc.</li>
+														<li> CI/CD</li>
+														<li> QA Test Automation</li>
+														<li> Training and documentation</li>
+													</ul>
+												</p>
+											</div>
+										</div>
+									</article>
+									<article class="timeline-box right custom-box-shadow-2">
+										<div class="row">
+											<div class="experience-info col-lg-3 col-sm-5 bg-color-primary">
+												<span class="from text-color-dark text-uppercase">
+													From
+													<span class="font-weight-semibold">Oct 2019</span>
+												</span>
+												<span class="to text-color-dark text-uppercase">
+													To
+													<span class="font-weight-semibold">Jun 2020</span>
+												</span>
+												<p class="text-color-dark">
+													<span id="duration_digi"></span>
+												</p>
 												<span class="company text-color-dark font-weight-semibold">
 													Digi Group
 													<span class="company-location text-color-dark font-weight-normal text-uppercase">Makati CBD</span>
@@ -298,9 +333,11 @@
 												</span>
 												<span class="to text-color-dark text-uppercase">
 													To
-													<span class="font-weight-semibold">Nov 2019</span>
+													<span class="font-weight-semibold">Oct 2019</span>
 												</span>
-												<p class="text-color-dark">(1 Year 7 Months)</p>
+												<p class="text-color-dark">
+													<span id="duration_cwt2"></span>
+												</p>
 												<span class="company text-color-dark font-weight-semibold">
 													Carlson Wagonlit Travel
 													<span class="company-location text-color-dark font-weight-normal text-uppercase">Makati CBD</span>
@@ -341,7 +378,9 @@
 													To
 													<span class="font-weight-semibold">May 2018</span>
 												</span>
-												<p class="text-color-dark">(1 Year 5 Months)</p>
+												<p class="text-color-dark">
+													<span id="duration_magenic2"></span>
+												</p>
 												<span class="company text-color-dark font-weight-semibold">
 													Magenic Manila, Inc.
 													<span class="company-location text-color-dark font-weight-normal text-uppercase">Makati CBD</span>
@@ -375,7 +414,9 @@
 													To
 													<span class="font-weight-semibold">Dec 2016</span>
 												</span>
-												<p class="text-color-dark">(1 Year 2 Months)</p>
+												<p class="text-color-dark">
+													<span id="duration_gbf"></span>
+												</p>
 												<span class="company text-color-dark font-weight-semibold">
 													Global Brainforce, Inc.
 													<span class="company-location text-color-dark font-weight-normal text-uppercase">Makati CBD</span>
@@ -407,7 +448,9 @@
 													To
 													<span class="font-weight-semibold">Oct 2015</span>
 												</span>
-												<p class="text-color-dark">(1 Year 2 Months)</p>
+												<p class="text-color-dark">
+													<span id="duration_cwt"></span>
+												</p>
 												<span class="company text-color-dark font-weight-semibold">
 													Carlson Wagonlit Travel
 													<span class="company-location text-color-dark font-weight-normal text-uppercase">Makati CBD</span>
@@ -438,7 +481,9 @@
 													To
 													<span class="font-weight-semibold">Sep 2014</span>
 												</span>
-												<p class="text-color-dark">(3 Year 11 Months)</p>
+												<p class="text-color-dark">
+													<span id="duration_magenic"></span>
+												</p>
 												<span class="company text-color-dark font-weight-semibold">
 													Magenic Manila, Inc.
 													<span class="company-location text-color-dark font-weight-normal text-uppercase">Makati CBD</span>
@@ -475,7 +520,9 @@
 													To
 													<span class="font-weight-semibold">Mar 2013</span>
 												</span>
-												<p class="text-color-dark">(7 Months)</p>
+												<p class="text-color-dark">
+													<span id="duration_mint"></span>
+												</p>
 												<span class="company text-color-dark font-weight-semibold">
 													Meridian International College
 													<span class="company-location text-color-dark font-weight-normal text-uppercase">Mackinley Hills, Taguig</span>
@@ -504,7 +551,9 @@
 													To
 													<span class="font-weight-semibold">Nov 2010</span>
 												</span>
-												<p class="text-color-dark">(2 Years)</p>
+												<p class="text-color-dark">
+													<span id="duration_blast"></span>
+												</p>
 												<span class="company text-color-dark font-weight-semibold">
 													BlastAsia, Inc.
 													<span class="company-location text-color-dark font-weight-normal text-uppercase">Ortigas CBD</span>
@@ -541,7 +590,9 @@
 													To
 													<span class="font-weight-semibold">Nov 2008</span>
 												</span>
-												<p class="text-color-dark">(1 Year 1 Month)</p>
+												<p class="text-color-dark">
+													<span id="duration_gurango"></span>
+												</p>
 												<span class="company text-color-dark font-weight-semibold">
 													Gurango Software Corp.
 													<span class="company-location text-color-dark font-weight-normal text-uppercase">Libis QC</span>
@@ -846,6 +897,8 @@
 		<script src="assets/vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
 		<script src="assets/vendor/vide/jquery.vide.min.js"></script>
 		<script src="assets/vendor/vivus/vivus.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment.js"></script>
+		
 		
 		<!-- Theme Base, Components and Settings -->
 		<script src="assets/js/theme.js"></script>
