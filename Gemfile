@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
@@ -13,16 +13,17 @@ gem "minima", "~> 2.5.1"
 gem "octokit", "~> 4.18.0"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
-gem "github-pages", "~> 214", group: :jekyll_plugins
-# If you have any plugins, put them here!
-group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.15.1"
-  gem 'jekyll-favicon', '~> 0.2.8'
-  gem 'jekyll-paginate'
-  gem 'jekyll_version_plugin'
-  gem 'webrick'
-  gem "kramdown", ">= 2.3.1"
-end
+gem 'github-pages', '~> 214'
+gem 'jekyll-feed', '~> 0.15.1'
+gem 'jekyll-favicon', '~> 0.2.8'
+gem 'jekyll-paginate'
+gem 'jekyll_version_plugin'
+gem 'webrick'
+gem 'kramdown', '~> 2.3.1'
+gem 'html-pipeline', '~> 2.14.0'  
+gem 'github-pages-health-check',	'~> 1.17.0'
+gem 'html-pipeline',	'~> 2.14.0'
+gem 'nokogiri', '~> 1.11.2'
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
