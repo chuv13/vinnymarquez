@@ -23,7 +23,7 @@ gem 'kramdown', '~> 2.3.1'
 gem 'html-pipeline', '~> 2.14.0'  
 gem 'github-pages-health-check',	'~> 1.17.0'
 gem 'html-pipeline',	'~> 2.14.0'
-gem 'nokogiri', '~> 1.11.2'
+gem 'nokogiri', '~> 1.11.4'
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
